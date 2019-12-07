@@ -1,0 +1,2209 @@
+,id,Unnamed: 0,Source,worth,worthChange,realTimeWorth,realTimePosition
+0,4256,52,Technology  ==> Amazon,112.0 BUSD,0.0 millions USD,,1
+1,6708,53,Technology  ==> Microsoft,90.0 BUSD,-0.001 millions USD,,2
+2,7790,54,Finance and Investments  ==> Berkshire Hathaway,84.0 BUSD,-0.002 millions USD,,3
+3,2560,55,Fashion & Retail  ==> LVMH,72.0 BUSD,0.0 millions USD,,4
+4,5624,56,Technology  ==> Facebook,71.0 BUSD,0.0 millions USD,,5
+5,2683,57,Fashion & Retail  ==> Zara,70.0 BUSD,0.0 millions USD,,6
+6,9249,58,Telecom  ==> telecom,67.1 BUSD,0.001 millions USD,,7
+7,8519,59,Diversified  ==> Koch Industries,60.0 BUSD,0.0 millions USD,,12
+8,8377,60,Diversified  ==> Koch Industries,60.0 BUSD,0.0 millions USD,,13
+9,7402,61,Technology  ==> software,58.5 BUSD,-0.001 millions USD,,8
+10,1761,62,Media & Entertainment  ==> Bloomberg LP,50.0 BUSD,0.0 millions USD,,11
+11,5863,63,Technology  ==> Google,48.8 BUSD,0.0 millions USD,,9
+12,7349,64,Technology  ==> Google,47.5 BUSD,0.0 millions USD,,10
+13,7520,65,Fashion & Retail  ==> Walmart,46.4 BUSD,0.0 millions USD,,19
+14,2820,66,Fashion & Retail  ==> Walmart,46.2 BUSD,0.0 millions USD,,20
+15,8847,67,Fashion & Retail  ==> Walmart,46.0 BUSD,0.0 millions USD,,21
+16,7715,68,Technology  ==> internet media,45.3 BUSD,0.001 millions USD,,15
+17,1206,69,Fashion & Retail  ==> L'Oreal,42.2 BUSD,0.0 millions USD,,14
+18,4559,70,"Energy  ==> petrochemicals, oil & gas",40.1 BUSD,0.0 millions USD,,17
+19,7353,71,Technology  ==> e-commerce,39.0 BUSD,0.0 millions USD,,18
+20,2614,72,Gambling & Casinos  ==> casinos,38.5 BUSD,0.0 millions USD,,16
+21,2751,73,Technology  ==> Microsoft,38.4 BUSD,0.0 millions USD,,22
+22,7322,74,Diversified  ==> diversified,34.9 BUSD,0.001 millions USD,,24
+23,5166,75,Real Estate  ==> real estate,30.3 BUSD,0.0 millions USD,,26
+24,6260,76,Real Estate  ==> real estate,30.3 BUSD,0.0 millions USD,,28
+25,2128,77,Real Estate  ==> real estate,30.0 BUSD,0.0 millions USD,,27
+26,7174,78,Fashion & Retail  ==> supermarkets,29.8 BUSD,0.0 millions USD,,29
+27,2056,79,Fashion & Retail  ==> Nike,29.6 BUSD,0.0 millions USD,,25
+28,4180,80,Food and Beverage  ==> beer,27.4 BUSD,-672.311 millions USD,,30
+29,2284,81,Fashion & Retail  ==> luxury goods,27.0 BUSD,0.0 millions USD,,23
+30,6372,82,Automotive  ==> auto parts,25.3 BUSD,0.0 millions USD,,40
+31,5639,83,"Automotive  ==> BMW, pharmaceuticals",25.0 BUSD,0.0 millions USD,,38
+32,5827,84,Media & Entertainment  ==> media,25.0 BUSD,0.0 millions USD,,32
+33,7106,85,"Food and Beverage  ==> candy, pet food",23.6 BUSD,0.0 millions USD,,34
+34,1968,86,"Food and Beverage  ==> candy, pet food",23.6 BUSD,0.0 millions USD,,35
+35,3157,87,Finance and Investments  ==> banking,23.5 BUSD,0.0 millions USD,,53
+36,2665,88,"Food and Beverage  ==> Nutella, chocolates",23.0 BUSD,0.0 millions USD,,43
+37,5469,89,Food and Beverage  ==> Red Bull,23.0 BUSD,0.0 millions USD,,33
+38,5362,90,Technology  ==> Dell computers,22.7 BUSD,0.0 millions USD,,36
+39,6392,91,"Telecom  ==> internet, telecom",22.7 BUSD,0.0 millions USD,,42
+40,8384,92,Diversified  ==> diversified,22.6 BUSD,nan millions USD,,42
+41,1247,93,Automotive  ==> BMW,22.0 BUSD,0.0 millions USD,,51
+42,2459,94,Real Estate  ==> real estate,21.9 BUSD,0.0 millions USD,,31
+43,9147,95,"Technology  ==> Microsoft, investments",21.7 BUSD,0.0 millions USD,,49
+44,3242,96,Fashion & Retail  ==> eyeglasses,21.2 BUSD,0.006 millions USD,,39
+45,3400,97,Fashion & Retail  ==> retail,20.9 BUSD,0.0 millions USD,,79
+46,4044,98,Finance and Investments  ==> discount brokerage,20.3 BUSD,0.0 millions USD,,41
+47,7529,99,"Fashion & Retail  ==> Aldi, Trader Joe's",20.2 BUSD,0.0 millions USD,,54
+48,9930,100,Diversified  ==> diversified,20.2 BUSD,-0.001 millions USD,,44
+49,4082,101,Manufacturing  ==> home appliances,20.1 BUSD,0.001 millions USD,,47
+50,6113,102,Gambling & Casinos  ==> casinos,20.1 BUSD,0.0 millions USD,,46
+51,2863,103,Finance and Investments  ==> hedge funds,20.0 BUSD,0.0 millions USD,,50
+52,9710,104,Diversified  ==> diversified,20.0 BUSD,0.0 millions USD,,67
+53,1208,105,Automotive  ==> Tesla Motors,19.9 BUSD,0.0 millions USD,,45
+54,6141,106,Diversified  ==> diversified,19.5 BUSD,0.001 millions USD,,61
+55,4145,107,Fashion & Retail  ==> fashion retail,19.5 BUSD,0.0 millions USD,,37
+56,4932,108,"Metals & Mining  ==> steel, transport",19.1 BUSD,0.0 millions USD,,52
+57,7912,109,"Philanthropy/NGO  ==> Apple, Disney",18.8 BUSD,0.0 millions USD,,48
+58,5446,110,Technology  ==> software services,18.8 BUSD,0.0 millions USD,,71
+59,9408,111,"Metals & Mining  ==> steel, investments",18.7 BUSD,0.0 millions USD,,60
+60,3252,112,Diversified  ==> Samsung,18.6 BUSD,0.0 millions USD,,62
+61,6412,113,Metals & Mining  ==> steel,18.5 BUSD,0.001 millions USD,,63
+62,1732,114,Service  ==> package delivery,18.2 BUSD,0.0 millions USD,,64
+63,2248,115,"Energy  ==> gas, chemicals",18.0 BUSD,0.0 millions USD,,59
+64,3612,116,"Food and Beverage  ==> drinks, real estate",17.9 BUSD,0.0 millions USD,,87
+65,4337,117,Construction & Engineering  ==> construction,17.8 BUSD,0.0 millions USD,,57
+66,2571,118,Finance and Investments  ==> hedge funds,17.7 BUSD,0.0 millions USD,,68
+67,9006,119,Manufacturing  ==> sensors,17.5 BUSD,0.0 millions USD,,65
+68,8982,120,Technology  ==> online games,17.4 BUSD,0.0 millions USD,,80
+69,5747,121,"Finance and Investments  ==> banking, tobacco",17.4 BUSD,0.0 millions USD,,91
+70,8084,122,Metals & Mining  ==> mining,17.4 BUSD,-1.2570000000000001 millions USD,,66
+71,3867,123,Metals & Mining  ==> mining,17.3 BUSD,0.0 millions USD,,86
+72,1993,124,Finance and Investments  ==> investments,16.8 BUSD,0.0 millions USD,,58
+73,6485,125,Fashion & Retail  ==> H&M,16.8 BUSD,0.0 millions USD,,78
+74,8934,126,"Manufacturing  ==> banking, tobacco",16.7 BUSD,0.0 millions USD,,102
+75,4903,127,Real Estate  ==> real estate,16.7 BUSD,-0.001 millions USD,,73
+76,1262,128,Real Estate  ==> real estate,16.5 BUSD,0.0 millions USD,,75
+77,6987,129,Energy  ==> oil,16.4 BUSD,0.0 millions USD,,69
+78,6934,130,Manufacturing  ==> chemicals,16.4 BUSD,0.0 millions USD,,89
+79,1175,131,Real Estate  ==> real estate,16.3 BUSD,0.0 millions USD,,76
+80,4765,132,Metals & Mining  ==> mining,16.3 BUSD,0.0 millions USD,,70
+81,3636,133,"Energy  ==> oil, gas",16.0 BUSD,0.0 millions USD,,74
+82,7514,134,Finance and Investments  ==> money management,15.9 BUSD,0.0 millions USD,,72
+83,3016,135,Metals & Mining  ==> metals,15.9 BUSD,0.0 millions USD,,82
+84,7028,136,Fashion & Retail  ==> Walmart,15.9 BUSD,0.0 millions USD,,101
+85,7235,137,Food and Beverage  ==> Heineken,15.8 BUSD,0.0 millions USD,,81
+86,8391,138,Technology  ==> internet media,15.6 BUSD,0.0 millions USD,,85
+87,2720,139,Finance and Investments  ==> banking,15.5 BUSD,0.0 millions USD,,100
+88,1868,140,"Energy  ==> coal, fertilizers",15.5 BUSD,0.303 millions USD,,105
+89,8056,141,"Real Estate  ==> investments, real estate",15.5 BUSD,0.0 millions USD,,88
+90,5822,142,Logistics  ==> shipping,15.3 BUSD,0.0 millions USD,,99
+91,5210,143,Automotive  ==> automobiles,15.3 BUSD,0.0 millions USD,,83
+92,1433,144,"Energy  ==> oil, banking, telecom",15.1 BUSD,0.001 millions USD,,106
+93,5920,145,"Media & Entertainment  ==> newspapers, TV network",15.0 BUSD,0.0 millions USD,,55
+94,1705,146,Diversified  ==> diversified,14.9 BUSD,-0.001 millions USD,,95
+95,2042,147,"Diversified  ==> palm oil, shipping, property",14.8 BUSD,0.0 millions USD,,84
+96,1176,148,Food and Beverage  ==> cheese,14.7 BUSD,0.001 millions USD,,90
+97,4816,149,Technology  ==> software services,14.6 BUSD,0.0 millions USD,,108
+98,1988,150,"Energy  ==> metals, energy",14.4 BUSD,0.047 millions USD,,107
+99,9806,151,"Manufacturing  ==> cement, sugar, flour",14.1 BUSD,0.001 millions USD,,117
+100,9858,152,Energy  ==> oil & gas,14.1 BUSD,0.0 millions USD,,56
+101,3274,153,Finance and Investments  ==> hedge funds,14.0 BUSD,0.0 millions USD,,137
+102,5970,154,Technology  ==> Facebook,14.0 BUSD,0.0 millions USD,,77
+103,8268,155,Food and Beverage  ==> beer,14.0 BUSD,-546.845 millions USD,,109
+104,4677,156,Manufacturing  ==> fasteners,13.6 BUSD,0.0 millions USD,,118
+105,7971,157,Media & Entertainment  ==> satellite TV,13.4 BUSD,-0.013000000000000001 millions USD,,141
+106,3219,158,Technology  ==> Google,13.4 BUSD,-0.001 millions USD,,92
+107,4293,159,Finance and Investments  ==> investments,13.0 BUSD,0.0 millions USD,,104
+108,5686,160,Media & Entertainment  ==> media,13.0 BUSD,0.0 millions USD,,157
+109,2939,161,Media & Entertainment  ==> media,13.0 BUSD,0.0 millions USD,,156
+110,2833,162,Fashion & Retail  ==> Chanel,13.0 BUSD,0.0 millions USD,,96
+111,1709,163,Fashion & Retail  ==> Chanel,13.0 BUSD,0.0 millions USD,,97
+112,1437,164,Fashion & Retail  ==> Estee Lauder,12.9 BUSD,0.0 millions USD,,94
+113,4668,165,Construction & Engineering  ==> brakes,12.9 BUSD,0.0 millions USD,,132
+114,1266,166,Healthcare  ==> pharmaceuticals,12.8 BUSD,0.0 millions USD,,121
+115,9108,167,Technology  ==> software,12.7 BUSD,0.0 millions USD,,103
+116,7589,168,Finance and Investments  ==> investments,12.6 BUSD,0.0 millions USD,,111
+117,6684,169,Technology  ==> smartphones,12.5 BUSD,-0.001 millions USD,,115
+118,9695,170,Manufacturing  ==> packaging,12.5 BUSD,0.0 millions USD,,114
+119,7766,171,"Metals & Mining  ==> steel, telecom, investments",12.5 BUSD,0.0 millions USD,,112
+120,7091,172,Media & Entertainment  ==> media,12.3 BUSD,0.001 millions USD,,122
+121,1237,173,Real Estate  ==> real estate,12.2 BUSD,-0.001 millions USD,,116
+122,7172,174,Finance and Investments  ==> banking,12.1 BUSD,-0.001 millions USD,,124
+123,1309,175,Technology  ==> internet search,12.0 BUSD,0.0 millions USD,,93
+124,4039,176,Food and Beverage  ==> beer,12.0 BUSD,-546.845 millions USD,,134
+125,3739,177,Healthcare  ==> biotech,11.9 BUSD,0.0 millions USD,,123
+126,5455,178,Diversified  ==> commodities,11.8 BUSD,0.0 millions USD,,145
+127,7096,179,Real Estate  ==> real estate,11.8 BUSD,0.0 millions USD,,129
+128,5521,180,Fashion & Retail  ==> drugstores,11.8 BUSD,-4.27 millions USD,,126
+129,5093,181,Technology  ==> software,11.7 BUSD,0.0 millions USD,,110
+130,3879,182,"Metals & Mining  ==> mining, copper products",11.7 BUSD,0.0 millions USD,,147
+131,7108,183,"Finance and Investments  ==> banks, real estate",11.6 BUSD,0.0 millions USD,,119
+132,4790,184,"Food and Beverage  ==> Oyster sauce, real estate",11.6 BUSD,0.0 millions USD,,127
+133,7828,185,Fashion & Retail  ==> home improvement stores,11.5 BUSD,0.0 millions USD,,130
+134,2282,186,"Food and Beverage  ==> snacks, beverages",11.3 BUSD,0.0 millions USD,,158
+135,9888,187,Technology  ==> security software,11.3 BUSD,0.0 millions USD,,271
+136,5741,188,Finance and Investments  ==> video surveillance,11.2 BUSD,0.0 millions USD,,139
+137,4361,189,"Fashion & Retail  ==> retail, real estate",11.0 BUSD,0.0 millions USD,,142
+138,1928,190,Finance and Investments  ==> hedge funds,11.0 BUSD,0.0 millions USD,,136
+139,1567,191,"Diversified  ==> steel, investments",10.8 BUSD,0.013000000000000001 millions USD,,125
+140,4463,192,Technology  ==> e-commerce,10.8 BUSD,0.0 millions USD,,144
+141,5059,193,Real Estate  ==> real estate,10.8 BUSD,0.0 millions USD,,143
+142,7864,194,Metals & Mining  ==> mining,10.7 BUSD,-67.973 millions USD,,165
+143,6088,195,Finance and Investments  ==> banking,10.7 BUSD,0.0 millions USD,,113
+144,2335,196,Technology  ==> eBay,10.5 BUSD,0.0 millions USD,,135
+145,8807,197,Service  ==> consulting,10.3 BUSD,0.0 millions USD,,154
+146,2611,198,Technology  ==> software,10.2 BUSD,0.0 millions USD,,133
+147,8695,199,Finance and Investments  ==> investments,10.1 BUSD,0.0 millions USD,,155
+148,8032,200,Technology  ==> Facebook,10.1 BUSD,0.0 millions USD,,128
+149,8529,201,Real Estate  ==> real estate,10.1 BUSD,-0.001 millions USD,,166
+150,5728,202,"Finance and Investments  ==> investments, retail",10.0 BUSD,0.0 millions USD,,120
+151,9564,203,"Energy  ==> oil, banking, telecom",9.8 BUSD,0.001 millions USD,,174
+152,6941,204,Finance and Investments  ==> leveraged buyouts,9.8 BUSD,0.001 millions USD,,151
+153,5106,205,"Diversified  ==> commodities, ports",9.7 BUSD,0.0 millions USD,,210
+154,7211,206,Service  ==> Carnival Cruises,9.7 BUSD,0.0 millions USD,,161
+155,2765,207,Technology  ==> electronics,9.7 BUSD,0.0 millions USD,,197
+156,7578,208,Technology  ==> e-commerce,9.7 BUSD,0.001 millions USD,,138
+157,3169,209,Healthcare  ==> health care,9.6 BUSD,0.0 millions USD,,148
+158,4942,210,Finance and Investments  ==> investments,9.6 BUSD,3.946 millions USD,,167
+159,8094,211,Fashion & Retail  ==> retail,9.5 BUSD,0.001 millions USD,,162
+160,4813,212,Food and Beverage  ==> beverages,9.5 BUSD,0.0 millions USD,,163
+161,7111,213,"Diversified  ==> real estate, shipping",9.4 BUSD,9.15 millions USD,,164
+162,4947,214,Finance and Investments  ==> discount brokerage,9.4 BUSD,0.002 millions USD,,149
+163,1786,215,Logistics  ==> Shipping,9.3 BUSD,0.0 millions USD,,177
+164,3268,216,Manufacturing  ==> plumbing fixtures,9.3 BUSD,0.0 millions USD,,169
+165,8970,217,Manufacturing  ==> steel,9.3 BUSD,0.0 millions USD,,173
+166,7569,218,Real Estate  ==> real estate,9.2 BUSD,0.0 millions USD,,152
+167,6050,219,Finance and Investments  ==> investments,9.2 BUSD,0.0 millions USD,,170
+168,3836,220,Diversified  ==> conglomerate,9.2 BUSD,0.0 millions USD,,179
+169,5627,221,Technology  ==> WhatsApp,9.1 BUSD,0.0 millions USD,,160
+170,6666,222,Healthcare  ==> vaccines,9.1 BUSD,0.0 millions USD,,190
+171,1921,223,Technology  ==> software,9.0 BUSD,0.0 millions USD,,150
+172,4467,224,Finance and Investments  ==> hedge funds,9.0 BUSD,0.0 millions USD,,171
+173,9015,225,Fashion & Retail  ==> luxury goods,8.9 BUSD,0.0 millions USD,,185
+174,4847,226,"Healthcare  ==> biotech, investments",8.9 BUSD,0.0 millions USD,,178
+175,3260,227,Metals & Mining  ==> steel,8.8 BUSD,0.0 millions USD,,193
+176,8036,228,Telecom  ==> telecom,8.8 BUSD,0.0 millions USD,,205
+177,7169,229,Media & Entertainment  ==> media,8.7 BUSD,0.0 millions USD,,268
+178,1018,230,Media & Entertainment  ==> media,8.7 BUSD,0.0 millions USD,,269
+179,2135,231,Media & Entertainment  ==> media,8.7 BUSD,0.0 millions USD,,270
+180,4716,232,Technology  ==> electronics,8.5 BUSD,0.0 millions USD,,204
+181,8024,233,Technology  ==> Intel,8.5 BUSD,0.0 millions USD,,153
+182,7670,234,Diversified  ==> diversified,8.3 BUSD,0.0 millions USD,,183
+183,4231,235,"Sports  ==> sports, real estate",8.3 BUSD,0.0 millions USD,,184
+184,8752,236,Finance and Investments  ==> investments,8.2 BUSD,0.0 millions USD,,188
+185,2170,237,Gambling & Casinos  ==> gambling,8.1 BUSD,0.0 millions USD,,209
+186,4244,238,Diversified  ==> conglomerate,8.1 BUSD,0.0 millions USD,,189
+187,3672,239,Media & Entertainment  ==> cable television,8.1 BUSD,0.326 millions USD,,201
+188,4021,240,"Telecom  ==> internet, telecom",8.1 BUSD,0.001 millions USD,,322
+189,3832,241,Diversified  ==> media,8.0 BUSD,0.063 millions USD,,231
+190,7025,242,Healthcare  ==> medical devices,8.0 BUSD,0.0 millions USD,,176
+191,8892,243,"Media & Entertainment  ==> movies, record labels",8.0 BUSD,0.0 millions USD,,182
+192,3921,244,Real Estate  ==> real estate,8.0 BUSD,0.0 millions USD,,168
+193,2360,245,Real Estate  ==> real estate,8.0 BUSD,0.001 millions USD,,196
+194,5176,246,Finance and Investments  ==> hedge funds,8.0 BUSD,0.0 millions USD,,194
+195,4780,247,Finance and Investments  ==> money management,7.9 BUSD,0.0 millions USD,,198
+196,1717,248,Healthcare  ==> pharmaceuticals,7.9 BUSD,0.0 millions USD,,215
+197,1918,249,Technology  ==> business software,7.8 BUSD,0.0 millions USD,,180
+198,4034,250,"Energy  ==> oil & gas, banking",7.8 BUSD,0.0 millions USD,,195
+199,7730,251,Healthcare  ==> pharmaceuticals,7.8 BUSD,-20.685 millions USD,,207
+200,3163,252,Technology  ==> smartphone screens,7.8 BUSD,-0.001 millions USD,,272
+201,1650,253,Metals & Mining  ==> diamonds,7.7 BUSD,0.0 millions USD,,200
+202,8551,254,Healthcare  ==> pharmaceuticals,7.7 BUSD,0.0 millions USD,,131
+203,4191,255,Real Estate  ==> real estate,7.7 BUSD,0.0 millions USD,,186
+204,9378,256,"Energy  ==> oil, banking, telecom",7.6 BUSD,0.0 millions USD,,236
+205,5384,257,Real Estate  ==> real estate,7.6 BUSD,0.0 millions USD,,206
+206,9073,258,Finance and Investments  ==> investments,7.4 BUSD,0.0 millions USD,,293
+207,5545,259,Food and Beverage  ==> Cargill,7.4 BUSD,0.0 millions USD,,212
+208,8305,260,Diversified  ==> Samsung,7.4 BUSD,0.001 millions USD,,230
+209,9247,261,Fashion & Retail  ==> fashion retail,7.4 BUSD,0.0 millions USD,,239
+210,6247,262,Finance and Investments  ==> investments,7.3 BUSD,0.0 millions USD,,216
+211,5171,263,"Energy  ==> hotels, energy",7.3 BUSD,0.0 millions USD,,202
+212,8121,264,"Metals & Mining  ==> mining, metals, machinery",7.3 BUSD,0.0 millions USD,,229
+213,3465,265,Healthcare  ==> health care,7.3 BUSD,0.0 millions USD,,225
+214,3017,266,Real Estate  ==> real estate,7.3 BUSD,0.0 millions USD,,187
+215,4267,267,Fashion & Retail  ==> Walmart,7.3 BUSD,0.0 millions USD,,259
+216,5207,268,Automotive  ==> auto parts,7.2 BUSD,0.0 millions USD,,218
+217,9252,269,"Telecom  ==> telecoms, media, oil-services",7.2 BUSD,0.005 millions USD,,274
+218,2120,270,Energy  ==> oil,7.2 BUSD,0.0 millions USD,,175
+219,6734,271,"Diversified  ==> banking, property",7.2 BUSD,0.0 millions USD,,221
+220,5382,272,Real Estate  ==> real estate,7.2 BUSD,0.001 millions USD,,316
+221,3664,273,Technology  ==> venture capital,7.1 BUSD,-0.001 millions USD,,181
+222,9946,274,Telecom  ==> telecom,7.1 BUSD,0.0 millions USD,,601
+223,8749,275,Food and Beverage  ==> beverages,7.1 BUSD,-0.001 millions USD,,267
+224,1277,276,Construction & Engineering  ==> Construction,7.1 BUSD,0.0 millions USD,,240
+225,5417,277,"Fashion & Retail  ==> retail, media",7.1 BUSD,0.0 millions USD,,327
+226,2456,278,Fashion & Retail  ==> cosmetics,7.1 BUSD,0.001 millions USD,,226
+227,4317,279,Finance and Investments  ==> financial services,7.0 BUSD,0.001 millions USD,,840
+228,8265,280,Logistics  ==> shipping,7.0 BUSD,0.8029999999999999 millions USD,,213
+229,4902,281,Manufacturing  ==> paints,7.0 BUSD,0.0 millions USD,,191
+230,4238,282,Manufacturing  ==> polyester,7.0 BUSD,0.0 millions USD,,222
+231,9134,283,Real Estate  ==> real estate,7.0 BUSD,-0.001 millions USD,,275
+232,5858,284,Food and Beverage  ==> packaging,7.0 BUSD,0.0 millions USD,,208
+233,1595,285,Fashion & Retail  ==> luxury goods,7.0 BUSD,-0.001 millions USD,,242
+234,6954,286,Logistics  ==> shipping,7.0 BUSD,0.0 millions USD,,228
+235,6432,287,Food and Beverage  ==> wine,7.0 BUSD,0.0 millions USD,,234
+236,6768,288,Energy  ==> oil,6.9 BUSD,0.0 millions USD,,219
+237,2944,289,Technology  ==> online games,6.9 BUSD,0.0 millions USD,,254
+238,3234,290,Fashion & Retail  ==> Zara,6.9 BUSD,0.0 millions USD,,220
+239,7727,291,Diversified  ==> diversified,6.9 BUSD,-0.057 millions USD,,243
+240,5904,292,Finance and Investments  ==> hedge funds,6.9 BUSD,0.0 millions USD,,253
+241,7728,293,Real Estate  ==> real estate,6.8 BUSD,0.0 millions USD,,386
+242,1351,294,Fashion & Retail  ==> retail,6.8 BUSD,0.0 millions USD,,203
+243,7502,295,Fashion & Retail  ==> supermarkets,6.8 BUSD,0.0 millions USD,,223
+244,4595,296,Manufacturing  ==> fertilizer,6.8 BUSD,0.0 millions USD,,237
+245,1358,297,"Food and Beverage  ==> food, beverages",6.8 BUSD,0.0 millions USD,,199
+246,9917,298,Technology  ==> Google,6.8 BUSD,0.0 millions USD,,227
+247,1381,299,"Metals & Mining  ==> aluminum, utilities",6.7 BUSD,0.001 millions USD,,681
+248,8687,300,Service  ==> diversified,6.7 BUSD,0.0 millions USD,,249
+249,6169,301,Finance and Investments  ==> pharmaceuticals,6.7 BUSD,0.0 millions USD,,306
+250,1721,302,Technology  ==> WhatsApp,6.6 BUSD,0.0 millions USD,,256
+251,4093,303,Finance and Investments  ==> private equity,6.6 BUSD,0.0 millions USD,,248
+252,7522,304,Fashion & Retail  ==> Walmart,6.6 BUSD,0.0 millions USD,,313
+253,5652,305,Food and Beverage  ==> candy,6.6 BUSD,0.0 millions USD,,255
+254,5605,306,Food and Beverage  ==> packaging,6.6 BUSD,0.0 millions USD,,250
+255,6536,307,Food and Beverage  ==> packaging,6.6 BUSD,0.0 millions USD,,251
+256,9365,308,"Fashion & Retail  ==> retail, real estate",6.6 BUSD,0.0 millions USD,,261
+257,1427,309,"Construction & Engineering  ==> construction, chemicals",6.6 BUSD,0.0 millions USD,,235
+258,2353,310,Finance and Investments  ==> banking,6.6 BUSD,0.0 millions USD,,264
+259,1733,311,Energy  ==> wind turbines,6.6 BUSD,0.0 millions USD,,305
+260,9156,312,Finance and Investments  ==> private equity,6.5 BUSD,0.0 millions USD,,258
+261,7415,313,Metals & Mining  ==> mining,6.5 BUSD,-0.805 millions USD,,241
+262,6653,314,Finance and Investments  ==> hedge funds,6.5 BUSD,0.0 millions USD,,277
+263,5283,315,Automotive  ==> automobiles,6.5 BUSD,0.0 millions USD,,365
+264,4330,316,Real Estate  ==> real estate,6.4 BUSD,0.0 millions USD,,262
+265,4185,317,Fashion & Retail  ==> retail,6.4 BUSD,nan millions USD,,262
+266,8568,318,Media & Entertainment  ==> advertising,6.4 BUSD,0.0 millions USD,,308
+267,3041,319,Finance and Investments  ==> investments,6.4 BUSD,0.0 millions USD,,396
+268,5712,320,Real Estate  ==> real estate,6.4 BUSD,0.0 millions USD,,276
+269,1338,321,Food and Beverage  ==> soy sauce maker,6.4 BUSD,0.0 millions USD,,172
+270,1295,322,Finance and Investments  ==> hedge funds,6.4 BUSD,0.0 millions USD,,282
+271,9621,323,Real Estate  ==> real estate,6.4 BUSD,0.0 millions USD,,337
+272,9332,324,Real Estate  ==> real estate,6.4 BUSD,0.0 millions USD,,233
+273,2112,325,Food and Beverage  ==> consumer goods,6.3 BUSD,0.0 millions USD,,252
+274,5032,326,Healthcare  ==> optometry,6.3 BUSD,0.0 millions USD,,294
+275,3208,327,Finance and Investments  ==> Quicken Loans,6.3 BUSD,0.0 millions USD,,257
+276,1734,328,Diversified  ==> diversified,6.3 BUSD,0.0 millions USD,,285
+277,8139,329,Automotive  ==> motorcycles,6.3 BUSD,0.0 millions USD,,266
+278,4485,330,Real Estate  ==> real estate,6.3 BUSD,0.0 millions USD,,265
+279,2635,331,Automotive  ==> auto parts,6.3 BUSD,0.0 millions USD,,329
+280,9707,332,Finance and Investments  ==> investments,6.2 BUSD,0.0 millions USD,,299
+281,5013,333,Energy  ==> pipelines,6.2 BUSD,0.0 millions USD,,273
+282,3536,334,Sports  ==> New England Patriots,6.2 BUSD,0.0 millions USD,,278
+283,8753,335,Fashion & Retail  ==> Ralph Lauren,6.2 BUSD,-3.216 millions USD,,232
+284,4347,336,Finance and Investments  ==> banking,6.2 BUSD,0.0 millions USD,,331
+285,6916,337,Food and Beverage  ==> consumer goods,6.2 BUSD,0.001 millions USD,,217
+286,2547,338,Service  ==> food services,6.1 BUSD,0.0 millions USD,,377
+287,1897,339,Fashion & Retail  ==> retail,6.1 BUSD,-1.569 millions USD,,335
+288,3199,340,Manufacturing  ==> cement,6.0 BUSD,0.0 millions USD,,362
+289,9693,341,Technology  ==> Google,6.0 BUSD,0.0 millions USD,,260
+290,9947,342,"Fashion & Retail  ==> textiles, apparel",6.0 BUSD,0.0 millions USD,,192
+291,3221,343,Food and Beverage  ==> Cargill,6.0 BUSD,0.0 millions USD,,291
+292,1659,344,Diversified  ==> diversified,6.0 BUSD,0.0 millions USD,,359
+293,1867,345,Automotive  ==> auto parts,6.0 BUSD,0.0 millions USD,,381
+294,2582,346,Finance and Investments  ==> banking,6.0 BUSD,0.0 millions USD,,281
+295,1423,347,Diversified  ==> diversified,5.9 BUSD,4.548 millions USD,,315
+296,2365,348,"Food and Beverage  ==> beer, investments",5.9 BUSD,0.0 millions USD,,295
+297,8666,349,Technology  ==> internet service provider,5.9 BUSD,0.0 millions USD,,300
+298,9576,350,Real Estate  ==> shopping malls,5.9 BUSD,0.0 millions USD,,304
+299,8853,351,Healthcare  ==> pharmaceuticals,5.9 BUSD,0.0 millions USD,,320
+300,8047,352,"Food and Beverage  ==> candy, pet food",5.9 BUSD,0.0 millions USD,,287
+301,8598,353,"Food and Beverage  ==> candy, pet food",5.9 BUSD,0.0 millions USD,,288
+302,4951,354,"Food and Beverage  ==> candy, pet food",5.9 BUSD,0.0 millions USD,,289
+303,6062,355,"Food and Beverage  ==> candy, pet food",5.9 BUSD,0.0 millions USD,,290
+304,5637,356,"Diversified  ==> media, retail",5.8 BUSD,0.0 millions USD,,284
+305,2371,357,Diversified  ==> food and beverage,5.8 BUSD,-0.001 millions USD,,556
+306,6314,358,Technology  ==> online games,5.8 BUSD,0.0 millions USD,,529
+307,8907,359,Fashion & Retail  ==> Walmart,5.8 BUSD,0.0 millions USD,,387
+308,3904,360,Real Estate  ==> real estate,5.8 BUSD,0.0 millions USD,,324
+309,7651,361,Fashion & Retail  ==> retail & gas stations,5.8 BUSD,0.0 millions USD,,263
+310,5359,362,Energy  ==> investments,5.8 BUSD,0.0 millions USD,,317
+311,4389,363,"Logistics  ==> construction, mining",5.8 BUSD,0.0 millions USD,,303
+312,6081,364,Manufacturing  ==> furniture,5.8 BUSD,0.0 millions USD,,283
+313,9460,365,Fashion & Retail  ==> appliance retailer,5.8 BUSD,0.0 millions USD,,245
+314,2138,366,Food and Beverage  ==> tequila,5.7 BUSD,0.0 millions USD,,437
+315,7382,367,Technology  ==> computer hardware,5.7 BUSD,0.0 millions USD,,246
+316,5979,368,Technology  ==> computer hardware,5.7 BUSD,0.0 millions USD,,247
+317,9635,369,Manufacturing  ==> heating equipment,5.7 BUSD,0.0 millions USD,,352
+318,3026,370,Manufacturing  ==> metalworking tools,5.7 BUSD,0.0 millions USD,,318
+319,5131,371,Healthcare  ==> medical devices,5.7 BUSD,0.0 millions USD,,319
+320,2239,372,Manufacturing  ==> vacuums,5.6 BUSD,0.0 millions USD,,353
+321,4223,373,Fashion & Retail  ==> diamond jewelry,5.6 BUSD,0.0 millions USD,,333
+322,7280,374,Technology  ==> semiconductors,5.6 BUSD,0.0 millions USD,,286
+323,9017,375,Finance and Investments  ==> money management,5.6 BUSD,0.0 millions USD,,394
+324,5702,376,Sports  ==> Dallas Cowboys,5.6 BUSD,0.0 millions USD,,334
+325,1666,377,Real Estate  ==> real estate,5.6 BUSD,0.0 millions USD,,244
+326,6808,378,Real Estate  ==> Real Estate,5.6 BUSD,0.0 millions USD,,351
+327,1023,379,"Manufacturing  ==> palm oil, property",5.6 BUSD,0.0 millions USD,,389
+328,7079,380,Real Estate  ==> real estate,5.6 BUSD,0.0 millions USD,,280
+329,3346,381,Manufacturing  ==> motors,5.6 BUSD,0.0 millions USD,,328
+330,1645,382,Manufacturing  ==> manufacturing,5.6 BUSD,0.0 millions USD,,297
+331,9202,383,Media & Entertainment  ==> publishing,5.6 BUSD,0.0 millions USD,,422
+332,3350,384,Manufacturing  ==> electronics,5.6 BUSD,0.0 millions USD,,330
+333,6781,385,"Metals & Mining  ==> steel, coal",5.5 BUSD,0.0 millions USD,,345
+334,7257,386,Service  ==> Carnival Cruises,5.5 BUSD,37.583 millions USD,,360
+335,9523,387,Energy  ==> pipelines,5.5 BUSD,0.0 millions USD,,310
+336,3077,388,Manufacturing  ==> chemicals,5.5 BUSD,0.0 millions USD,,379
+337,5495,389,Manufacturing  ==> chemicals,5.5 BUSD,0.0 millions USD,,400
+338,4870,390,Energy  ==> pipelines,5.5 BUSD,0.0 millions USD,,312
+339,3896,391,Energy  ==> pipelines,5.5 BUSD,0.0 millions USD,,311
+340,3313,392,Construction & Engineering  ==> roofing,5.5 BUSD,0.0 millions USD,,414
+341,1404,393,Manufacturing  ==> chemicals,5.5 BUSD,0.0 millions USD,,380
+342,5654,394,Fashion & Retail  ==> online retail,5.5 BUSD,0.001 millions USD,,493
+343,9492,395,Gambling & Casinos  ==> videogames,5.5 BUSD,0.0 millions USD,,339
+344,4258,396,"Real Estate  ==> real estate, finance",5.5 BUSD,0.0 millions USD,,344
+345,5432,397,Manufacturing  ==> manufacturing,5.5 BUSD,0.0 millions USD,,378
+346,9545,398,Manufacturing  ==> chemicals,5.5 BUSD,0.0 millions USD,,401
+347,4431,399,Energy  ==> pipelines,5.5 BUSD,0.0 millions USD,,309
+348,3458,400,Service  ==> after-school tutoring,5.5 BUSD,0.0 millions USD,,224
+349,7110,401,Metals & Mining  ==> aluminum products,5.5 BUSD,-0.001 millions USD,,413
+350,8823,402,Food and Beverage  ==> cheese,5.4 BUSD,0.0 millions USD,,349
+351,4032,403,Food and Beverage  ==> cheese,5.4 BUSD,0.0 millions USD,,350
+352,5286,404,Service  ==> Amway,5.4 BUSD,0.0 millions USD,,363
+353,2401,405,Fashion & Retail  ==> coffee,5.4 BUSD,0.0 millions USD,,366
+354,7714,406,Fashion & Retail  ==> coffee,5.4 BUSD,0.0 millions USD,,367
+355,8839,407,Manufacturing  ==> Lego,5.4 BUSD,0.0 millions USD,,370
+356,3919,408,Manufacturing  ==> Lego,5.4 BUSD,0.0 millions USD,,371
+357,1873,409,Manufacturing  ==> Lego,5.4 BUSD,0.0 millions USD,,372
+358,1597,410,Manufacturing  ==> smartphone screens,5.4 BUSD,0.0 millions USD,,348
+359,2024,411,Technology  ==> electronics,5.4 BUSD,-0.001 millions USD,,486
+360,1929,412,Food and Beverage  ==> commodities,5.4 BUSD,0.0 millions USD,,356
+361,2396,413,Finance and Investments  ==> private equity,5.4 BUSD,0.0 millions USD,,323
+362,9656,414,Real Estate  ==> real estate,5.4 BUSD,0.0 millions USD,,301
+363,3874,415,Manufacturing  ==> Lego,5.4 BUSD,0.0 millions USD,,369
+364,9653,416,"Diversified  ==> telecom, oil",5.3 BUSD,0.0 millions USD,,469
+365,3425,417,Manufacturing  ==> New Balance,5.3 BUSD,0.0 millions USD,,292
+366,6444,418,Technology  ==> Yahoo,5.3 BUSD,530.206 millions USD,,307
+367,1962,419,Gambling & Casinos  ==> casinos,5.3 BUSD,0.0 millions USD,,374
+368,5299,420,Finance and Investments  ==> private equity,5.3 BUSD,0.0 millions USD,,332
+369,1958,421,Food and Beverage  ==> cheese,5.3 BUSD,0.0 millions USD,,347
+370,8169,422,"Manufacturing  ==> chemicals, logistics",5.3 BUSD,0.0 millions USD,,487
+371,6824,423,"Metals & Mining  ==> steel, mining",5.2 BUSD,-0.001 millions USD,,314
+372,9432,424,Finance and Investments  ==> hedge funds,5.2 BUSD,0.0 millions USD,,296
+373,6373,425,Service  ==> temp agency,5.2 BUSD,0.0 millions USD,,420
+374,8074,426,"Food and Beverage  ==> pizza, sports team",5.2 BUSD,nan millions USD,,420
+375,1623,427,Finance and Investments  ==> hedge funds,5.2 BUSD,0.0 millions USD,,364
+376,4883,428,Media & Entertainment  ==> Star Wars,5.2 BUSD,0.0 millions USD,,357
+377,6486,429,Media & Entertainment  ==> media,5.2 BUSD,0.0 millions USD,,507
+378,4596,430,Media & Entertainment  ==> publishing,5.2 BUSD,0.0 millions USD,,415
+379,2926,431,Food and Beverage  ==> frozen foods,5.2 BUSD,0.0 millions USD,,341
+380,2749,432,"Automotive  ==> batteries, automobiles",5.2 BUSD,0.0 millions USD,,496
+381,8574,433,"Diversified  ==> energy, investments",5.1 BUSD,0.0 millions USD,,373
+382,2105,434,"Energy  ==> oil, banking, telecom",5.1 BUSD,0.0 millions USD,,443
+383,6188,435,Fashion & Retail  ==> Home Depot,5.1 BUSD,0.0 millions USD,,354
+384,5732,436,"Diversified  ==> banking, minerals",5.1 BUSD,0.0 millions USD,,558
+385,9310,437,Logistics  ==> FedEx,5.1 BUSD,-0.001 millions USD,,361
+386,7478,438,Healthcare  ==> medical equipment,5.1 BUSD,0.0 millions USD,,336
+387,1766,439,Diversified  ==> Virgin,5.0 BUSD,0.0 millions USD,,388
+388,2439,440,Media & Entertainment  ==> media,5.0 BUSD,0.0 millions USD,,441
+389,4475,441,Gambling & Casinos  ==> online gambling,5.0 BUSD,0.0 millions USD,,446
+390,7093,442,"Media & Entertainment  ==> book distribution, transportation",5.0 BUSD,0.0 millions USD,,358
+391,3802,443,Real Estate  ==> real estate,5.0 BUSD,0.0 millions USD,,406
+392,7829,444,Finance and Investments  ==> investments,5.0 BUSD,0.0 millions USD,,391
+393,5546,445,Manufacturing  ==> appliances,5.0 BUSD,0.0 millions USD,,405
+394,2700,446,"Diversified  ==> banking, minerals",5.0 BUSD,0.0 millions USD,,570
+395,7150,447,"Diversified  ==> banking, minerals",5.0 BUSD,0.0 millions USD,,569
+396,5138,448,"Finance and Investments  ==> banking, minerals",5.0 BUSD,0.0 millions USD,,571
+397,1885,449,Healthcare  ==> pharmaceuticals,5.0 BUSD,0.0 millions USD,,433
+398,2938,450,"Service  ==> hotels, investments",5.0 BUSD,0.0 millions USD,,385
+399,6313,451,Construction & Engineering  ==> cement,5.0 BUSD,0.0 millions USD,,466
+400,4510,452,Fashion & Retail  ==> duty-free,5.0 BUSD,-0.001 millions USD,,416
+401,4874,453,Manufacturing  ==> diapers,5.0 BUSD,0.0 millions USD,,321
+402,3250,454,Fashion & Retail  ==> retail,5.0 BUSD,0.0 millions USD,,497
+403,1315,455,"Energy  ==> oil, investments",4.9 BUSD,0.0 millions USD,,407
+404,8636,456,Technology  ==> business software,4.9 BUSD,0.001 millions USD,,302
+405,1327,457,"Construction & Engineering  ==> construction, media",4.9 BUSD,0.0 millions USD,,461
+406,7542,458,Automotive  ==> motor vehicles,4.9 BUSD,0.0 millions USD,,474
+407,7641,459,Media & Entertainment  ==> cable television,4.9 BUSD,0.0 millions USD,,346
+408,7676,460,"Energy  ==> oil, real estate",4.9 BUSD,0.0 millions USD,,392
+409,1583,461,Service  ==> agribusiness,4.9 BUSD,0.0 millions USD,,508
+410,5398,462,Finance and Investments  ==> hedge funds,4.9 BUSD,0.0 millions USD,,343
+411,3724,463,Healthcare  ==> pharmaceuticals,4.9 BUSD,0.0 millions USD,,453
+412,7452,464,Logistics  ==> ports,4.9 BUSD,0.0 millions USD,,639
+413,3332,465,Media & Entertainment  ==> media,4.9 BUSD,-0.001 millions USD,,411
+414,5470,466,Metals & Mining  ==> pipe manufacturing,4.9 BUSD,0.0 millions USD,,355
+415,3134,467,Healthcare  ==> medical devices,4.9 BUSD,0.0 millions USD,,340
+416,8641,468,Finance and Investments  ==> hedge funds,4.9 BUSD,0.0 millions USD,,342
+417,5810,469,Metals & Mining  ==> steel,4.9 BUSD,0.0 millions USD,,428
+418,6033,470,Finance and Investments  ==> mining,4.9 BUSD,0.0 millions USD,,421
+419,3955,471,"Real Estate  ==> real estate, private equity",4.9 BUSD,-0.001 millions USD,,398
+420,6997,472,Fashion & Retail  ==> fashion retail,4.9 BUSD,0.0 millions USD,,399
+421,6530,473,Diversified  ==> diversified,4.8 BUSD,0.0 millions USD,,390
+422,3910,474,Technology  ==> Uber,4.8 BUSD,0.0 millions USD,,429
+423,1947,475,Food and Beverage  ==> Chick-fil-A,4.8 BUSD,0.0 millions USD,,402
+424,2243,476,Food and Beverage  ==> Chick-fil-A,4.8 BUSD,0.0 millions USD,,403
+425,4365,477,Technology  ==> surveillance equipment,4.8 BUSD,0.0 millions USD,,515
+426,2035,478,Fashion & Retail  ==> fashion retail,4.8 BUSD,0.0 millions USD,,424
+427,9846,479,"Energy  ==> oil, real estate",4.8 BUSD,0.0 millions USD,,468
+428,2468,480,Finance and Investments  ==> money management,4.8 BUSD,0.0 millions USD,,524
+429,4629,481,Technology  ==> Uber,4.8 BUSD,0.0 millions USD,,430
+430,3365,482,Metals & Mining  ==> metals,4.8 BUSD,0.0 millions USD,,447
+431,7173,483,Fashion & Retail  ==> retail,4.8 BUSD,0.0 millions USD,,530
+432,9889,484,Metals & Mining  ==> fertilizer,4.8 BUSD,0.0 millions USD,,500
+433,2949,485,Energy  ==> oil & gas,4.8 BUSD,0.0 millions USD,,431
+434,3263,486,Gambling & Casinos  ==> online gambling,4.8 BUSD,0.0 millions USD,,434
+435,6448,487,Technology  ==> eBay,4.8 BUSD,0.0 millions USD,,409
+436,9308,488,Food and Beverage  ==> food,4.8 BUSD,0.0 millions USD,,553
+437,5535,489,Finance and Investments  ==> investments,4.8 BUSD,0.0 millions USD,,425
+438,4507,490,Finance and Investments  ==> investments,4.8 BUSD,0.0 millions USD,,426
+439,8400,491,Finance and Investments  ==> investments,4.8 BUSD,0.0 millions USD,,427
+440,2007,492,Manufacturing  ==> auto parts,4.7 BUSD,0.0 millions USD,,495
+441,5021,493,Healthcare  ==> hospitals,4.7 BUSD,0.0 millions USD,,448
+442,1995,494,Media & Entertainment  ==> record label,4.7 BUSD,0.0 millions USD,,442
+443,2618,495,Finance and Investments  ==> hedge funds,4.7 BUSD,0.0 millions USD,,444
+444,8137,496,Real Estate  ==> real estate,4.7 BUSD,0.0 millions USD,,383
+445,2653,497,Manufacturing  ==> petrochemicals,4.7 BUSD,-0.001 millions USD,,408
+446,5421,498,Gambling & Casinos  ==> casinos,4.7 BUSD,0.001 millions USD,,338
+447,5540,499,Healthcare  ==> medical devices,4.7 BUSD,0.0 millions USD,,298
+448,5218,500,"Real Estate  ==> real estate, investments",4.7 BUSD,0.0 millions USD,,559
+449,5586,501,Food and Beverage  ==> Cargill,4.7 BUSD,0.0 millions USD,,438
+450,1493,502,Food and Beverage  ==> food distribution,4.7 BUSD,0.0 millions USD,,325
+451,9280,503,Food and Beverage  ==> food distribution,4.7 BUSD,0.0 millions USD,,326
+452,1630,504,Real Estate  ==> real estate,4.7 BUSD,0.0 millions USD,,445
+453,6002,505,Real Estate  ==> real estate,4.7 BUSD,0.0 millions USD,,439
+454,8405,506,Diversified  ==> diversified,4.7 BUSD,0.0 millions USD,,645
+455,6634,507,"Real Estate  ==> real estate, retail",4.6 BUSD,0.0 millions USD,,509
+456,2070,508,Food and Beverage  ==> agriculture,4.6 BUSD,0.0 millions USD,,550
+457,3991,509,Diversified  ==> biotech,4.6 BUSD,0.0 millions USD,,476
+458,8634,510,Real Estate  ==> real estate,4.6 BUSD,0.0 millions USD,,404
+459,6838,511,Finance and Investments  ==> investments,4.6 BUSD,0.0 millions USD,,450
+460,9285,512,Service  ==> concessions,4.6 BUSD,0.0 millions USD,,393
+461,4505,513,Finance and Investments  ==> cryptocurrency,4.6 BUSD,0.0 millions USD,,449
+462,5395,514,Manufacturing  ==> paper,4.6 BUSD,-0.001 millions USD,,440
+463,5939,515,Manufacturing  ==> construction equipment,4.6 BUSD,0.0 millions USD,,419
+464,6516,516,Telecom  ==> telecom,4.6 BUSD,0.121 millions USD,,492
+465,5642,517,Service  ==> airlines,4.5 BUSD,0.0 millions USD,,522
+466,8514,518,Food and Beverage  ==> spirits,4.5 BUSD,0.0 millions USD,,464
+467,9626,519,"Telecom  ==> IT, telecom",4.5 BUSD,0.0 millions USD,,565
+468,3502,520,Manufacturing  ==> steel,4.5 BUSD,0.001 millions USD,,613
+469,6515,521,Manufacturing  ==> fertilizers,4.5 BUSD,0.0 millions USD,,545
+470,7731,522,Service  ==> education,4.5 BUSD,0.0 millions USD,,463
+471,3120,523,Real Estate  ==> real estate,4.5 BUSD,0.0 millions USD,,451
+472,3584,524,Finance and Investments  ==> hedge funds,4.5 BUSD,0.0 millions USD,,458
+473,5405,525,Fashion & Retail  ==> retail,4.5 BUSD,0.0 millions USD,,499
+474,2520,526,Finance and Investments  ==> banking,4.5 BUSD,0.013000000000000001 millions USD,,460
+475,9171,527,Fashion & Retail  ==> supermarkets,4.5 BUSD,0.0 millions USD,,473
+476,6162,528,Technology  ==> software,4.5 BUSD,0.0 millions USD,,384
+477,1052,529,Real Estate  ==> real estate,4.5 BUSD,0.0 millions USD,,465
+478,2344,530,Healthcare  ==> pharmaceuticals,4.5 BUSD,-0.001 millions USD,,454
+479,1838,531,Construction & Engineering  ==> construction equipment,4.4 BUSD,0.0 millions USD,,581
+480,3132,532,Real Estate  ==> real estate,4.4 BUSD,0.0 millions USD,,472
+481,1197,533,Finance and Investments  ==> banking,4.4 BUSD,0.0 millions USD,,520
+482,3257,534,Service  ==> hotels,4.4 BUSD,0.0 millions USD,,547
+483,1122,535,Metals & Mining  ==> mining,4.4 BUSD,0.001 millions USD,,586
+484,8102,536,Gambling & Casinos  ==> gambling,4.4 BUSD,0.0 millions USD,,527
+485,3220,537,Service  ==> self storage,4.4 BUSD,0.0 millions USD,,382
+486,4160,538,Fashion & Retail  ==> retail,4.4 BUSD,0.035 millions USD,,693
+487,5161,539,Fashion & Retail  ==> grocery stores,4.4 BUSD,0.0 millions USD,,532
+488,8494,540,Telecom  ==> telecom,4.4 BUSD,0.0 millions USD,,477
+489,2142,541,Fashion & Retail  ==> sporting goods retail,4.4 BUSD,0.0 millions USD,,412
+490,3197,542,Food and Beverage  ==> dairy,4.4 BUSD,0.0 millions USD,,470
+491,2902,543,Fashion & Retail  ==> home furnishings,4.4 BUSD,0.0 millions USD,,418
+492,5748,544,Fashion & Retail  ==> consumer goods,4.4 BUSD,0.0 millions USD,,540
+493,1224,545,Fashion & Retail  ==> consumer goods,4.4 BUSD,0.0 millions USD,,537
+494,1047,546,Fashion & Retail  ==> consumer goods,4.4 BUSD,0.0 millions USD,,539
+495,1298,547,Fashion & Retail  ==> consumer goods,4.4 BUSD,0.0 millions USD,,538
+496,8552,548,Finance and Investments  ==> private equity,4.4 BUSD,0.0 millions USD,,481
+497,2935,549,Food and Beverage  ==> energy drinks,4.4 BUSD,0.0 millions USD,,482
+498,3338,550,Fashion & Retail  ==> retail,4.3 BUSD,0.0 millions USD,,471
+499,3971,551,Automotive  ==> motorcycles,4.3 BUSD,0.0 millions USD,,452
+500,4294,552,Manufacturing  ==> auto parts,4.3 BUSD,0.0 millions USD,,587
+501,1658,553,Telecom  ==> telecom,4.3 BUSD,0.0 millions USD,,459
+502,4086,554,Fashion & Retail  ==> coffee makers,4.3 BUSD,0.0 millions USD,,536
+503,6629,555,"Food and Beverage  ==> Houston Rockets, entertainment",4.3 BUSD,0.0 millions USD,,475
+504,9046,556,"Fashion & Retail  ==> retail, real estate",4.3 BUSD,0.0 millions USD,,417
+505,4315,557,Energy  ==> natural gas,4.3 BUSD,0.0 millions USD,,491
+506,2009,558,Technology  ==> wireless networking gear,4.3 BUSD,0.0 millions USD,,397
+507,8344,559,Service  ==> pest control,4.3 BUSD,0.0 millions USD,,479
+508,6943,560,Service  ==> pest control,4.3 BUSD,0.0 millions USD,,480
+509,1334,561,Food and Beverage  ==> beer,4.3 BUSD,0.001 millions USD,,516
+510,3265,562,Food and Beverage  ==> beer,4.3 BUSD,0.001 millions USD,,513
+511,2650,563,Diversified  ==> diversified,4.3 BUSD,0.0 millions USD,,238
+512,4620,564,Fashion & Retail  ==> retail,4.3 BUSD,0.0 millions USD,,555
+513,5383,565,"Sports  ==> staffing, Baltimore Ravens",4.2 BUSD,0.0 millions USD,,478
+514,3127,566,Food and Beverage  ==> Cargill,4.2 BUSD,0.0 millions USD,,510
+515,7739,567,Food and Beverage  ==> Cargill,4.2 BUSD,0.0 millions USD,,511
+516,4607,568,"Manufacturing  ==> timberland, lumber mills",4.2 BUSD,0.0 millions USD,,498
+517,6061,569,"Manufacturing  ==> elevators, escalators",4.2 BUSD,-0.001 millions USD,,523
+518,7560,570,Diversified  ==> diversified,4.2 BUSD,-0.001 millions USD,,551
+519,8489,571,Fashion & Retail  ==> retail,4.2 BUSD,0.0 millions USD,,695
+520,1755,572,Food and Beverage  ==> Cargill,4.2 BUSD,0.0 millions USD,,512
+521,1850,573,Technology  ==> Snapchat,4.2 BUSD,0.0 millions USD,,807
+522,8740,574,Real Estate  ==> real estate,4.2 BUSD,0.0 millions USD,,514
+523,1432,575,"Energy  ==> utilities, telecom",4.2 BUSD,0.0 millions USD,,526
+524,2988,576,Finance and Investments  ==> investments,4.2 BUSD,0.0 millions USD,,518
+525,9451,577,Energy  ==> natural gas distribution,4.2 BUSD,0.0 millions USD,,423
+526,5100,578,Finance and Investments  ==> investments,4.1 BUSD,0.001 millions USD,,616
+527,6362,579,Sports  ==> Home Depot,4.1 BUSD,0.0 millions USD,,504
+528,7797,580,Diversified  ==> diversified,4.1 BUSD,0.001 millions USD,,567
+529,7286,581,Technology  ==> mapping software,4.1 BUSD,0.0 millions USD,,435
+530,5296,582,Energy  ==> petrochemicals,4.1 BUSD,0.0 millions USD,,462
+531,9130,583,Real Estate  ==> shopping malls,4.1 BUSD,0.0 millions USD,,563
+532,6965,584,Fashion & Retail  ==> sunglasses,4.1 BUSD,0.0 millions USD,,521
+533,7889,585,Diversified  ==> diversified,4.1 BUSD,-19.162 millions USD,,568
+534,8221,586,Real Estate  ==> real estate,4.1 BUSD,0.0 millions USD,,583
+535,1657,587,Automotive  ==> motorcycles,4.1 BUSD,0.0 millions USD,,557
+536,5542,588,Food and Beverage  ==> candy,4.1 BUSD,0.0 millions USD,,620
+537,1026,589,Gambling & Casinos  ==> casinos,4.1 BUSD,0.0 millions USD,,552
+538,4599,590,Media & Entertainment  ==> Marvel comics,4.1 BUSD,0.0 millions USD,,535
+539,9520,591,"Diversified  ==> computer services, real estate",4.1 BUSD,0.0 millions USD,,517
+540,5371,592,Manufacturing  ==> kitchen appliances,4.1 BUSD,0.0 millions USD,,670
+541,7962,593,"Finance and Investments  ==> hotels, investments",4.1 BUSD,0.0 millions USD,,541
+542,5619,594,Finance and Investments  ==> hedge funds,4.1 BUSD,0.0 millions USD,,543
+543,3515,595,Fashion & Retail  ==> fashion,4.1 BUSD,0.0 millions USD,,654
+544,8976,596,Real Estate  ==> real estate,4.1 BUSD,23.79 millions USD,,800
+545,2557,597,Telecom  ==> mobile phone retailer,4.1 BUSD,0.0 millions USD,,368
+546,3828,598,Technology  ==> Snapchat,4.1 BUSD,0.0 millions USD,,817
+547,1071,599,Technology  ==> e-commerce,4.1 BUSD,0.0 millions USD,,549
+548,8343,600,Energy  ==> pipelines,4.1 BUSD,0.0 millions USD,,503
+549,2274,601,Real Estate  ==> real estate,4.0 BUSD,0.0 millions USD,,560
+550,5274,602,Real Estate  ==> retail,4.0 BUSD,0.0 millions USD,,592
+551,5778,603,Healthcare  ==> medical technology,4.0 BUSD,0.0 millions USD,,593
+552,5701,604,Fashion & Retail  ==> furniture retailing,4.0 BUSD,0.0 millions USD,,467
+553,3639,605,Technology  ==> Dolby Laboratories,4.0 BUSD,0.0 millions USD,,544
+554,2462,606,"Healthcare  ==> pharmaceuticals, medical equipment",4.0 BUSD,0.0 millions USD,,561
+555,6364,607,Automotive  ==> Toyota dealerships,4.0 BUSD,0.0 millions USD,,531
+556,5444,608,Fashion & Retail  ==> retail,4.0 BUSD,0.0 millions USD,,623
+557,1860,609,Real Estate  ==> real estate,4.0 BUSD,0.0 millions USD,,679
+558,8109,610,Construction & Engineering  ==> construction,4.0 BUSD,0.0 millions USD,,780
+559,3769,611,Fashion & Retail  ==> Estee Lauder,4.0 BUSD,0.0 millions USD,,548
+560,7475,612,Fashion & Retail  ==> sporting goods,4.0 BUSD,0.0 millions USD,,643
+561,1006,613,Technology  ==> venture capital,4.0 BUSD,3.895 millions USD,,485
+562,4019,614,Food and Beverage  ==> food,4.0 BUSD,0.0 millions USD,,577
+563,3033,615,Telecom  ==> telecom,4.0 BUSD,-0.392 millions USD,,533
+564,9575,616,Fashion & Retail  ==> Best Buy,4.0 BUSD,0.0 millions USD,,505
+565,8718,617,Healthcare  ==> healthcare,4.0 BUSD,0.0 millions USD,,534
+566,7100,618,Real Estate  ==> real estate,4.0 BUSD,0.0 millions USD,,572
+567,6441,619,Food and Beverage  ==> food,4.0 BUSD,0.0 millions USD,,686
+568,4227,620,Logistics  ==> package delivery,4.0 BUSD,0.001 millions USD,,650
+569,8886,621,Metals & Mining  ==> aluminum,4.0 BUSD,0.0 millions USD,,588
+570,1108,622,Technology  ==> software,4.0 BUSD,0.0 millions USD,,562
+571,3272,623,Diversified  ==> diversified,3.9 BUSD,0.0 millions USD,,740
+572,4142,624,Real Estate  ==> real estate,3.9 BUSD,0.0 millions USD,,574
+573,5836,625,Finance and Investments  ==> private equity,3.9 BUSD,0.0 millions USD,,575
+574,7104,626,Finance and Investments  ==> financial services,3.9 BUSD,0.0 millions USD,,489
+575,4211,627,Finance and Investments  ==> coffee,3.9 BUSD,0.0 millions USD,,614
+576,8278,628,Finance and Investments  ==> coffee,3.9 BUSD,0.0 millions USD,,615
+577,3229,629,Fashion & Retail  ==> retail,3.9 BUSD,0.0 millions USD,,542
+578,7313,630,Technology  ==> electronics,3.9 BUSD,0.0 millions USD,,635
+579,2126,631,Diversified  ==> diversified,3.9 BUSD,-0.001 millions USD,,624
+580,7582,632,Construction & Engineering  ==> construction,3.9 BUSD,0.0 millions USD,,619
+581,4225,633,"Food and Beverage  ==> agriculture, water",3.9 BUSD,0.0 millions USD,,436
+582,8322,634,Real Estate  ==> real estate,3.9 BUSD,0.0 millions USD,,576
+583,8256,635,Food and Beverage  ==> agriculture,3.9 BUSD,0.0 millions USD,,719
+584,4457,636,Finance and Investments  ==> banking,3.9 BUSD,0.001 millions USD,,854
+585,4638,637,Service  ==> aircraft leasing,3.9 BUSD,0.0 millions USD,,582
+586,2740,638,Healthcare  ==> dental implants,3.9 BUSD,0.0 millions USD,,610
+587,5225,639,Technology  ==> Airbnb,3.8 BUSD,0.0 millions USD,,598
+588,2177,640,Media & Entertainment  ==> publishing,3.8 BUSD,0.0 millions USD,,647
+589,1889,641,Finance and Investments  ==> insurance,3.8 BUSD,0.0 millions USD,,618
+590,3222,642,Technology  ==> Airbnb,3.8 BUSD,0.0 millions USD,,596
+591,9852,643,Diversified  ==> investments,3.8 BUSD,-71.331 millions USD,,696
+592,6644,644,Technology  ==> Airbnb,3.8 BUSD,0.0 millions USD,,597
+593,3861,645,Construction & Engineering  ==> homebuilding,3.8 BUSD,0.0 millions USD,,699
+594,2393,646,"Real Estate  ==> real estate, investments",3.8 BUSD,0.0 millions USD,,600
+595,6273,647,Manufacturing  ==> chemicals,3.8 BUSD,0.0 millions USD,,692
+596,1403,648,Finance and Investments  ==> diversified,3.8 BUSD,0.001 millions USD,,599
+597,7618,649,Real Estate  ==> real estate,3.8 BUSD,0.0 millions USD,,612
+598,2801,650,"Sports  ==> energy, sports",3.8 BUSD,0.0 millions USD,,602
+599,6104,651,Fashion & Retail  ==> shoes,3.8 BUSD,0.0 millions USD,,636
+600,5183,652,Real Estate  ==> real estate,3.8 BUSD,0.0 millions USD,,607
+601,8135,653,Finance and Investments  ==> investments,3.8 BUSD,0.0 millions USD,,590
+602,5525,654,Technology  ==> semiconductors,3.8 BUSD,0.0 millions USD,,566
+603,6467,655,Technology  ==> smartphone components,3.8 BUSD,0.0 millions USD,,634
+604,2639,656,Diversified  ==> diversified,3.8 BUSD,-8.253 millions USD,,632
+605,8124,657,Food and Beverage  ==> beverages,3.7 BUSD,0.0 millions USD,,506
+606,7152,658,Media & Entertainment  ==> online media,3.7 BUSD,0.0 millions USD,,608
+607,8926,659,Finance and Investments  ==> money management,3.7 BUSD,0.0 millions USD,,621
+608,5490,660,Finance and Investments  ==> banking,3.7 BUSD,0.0 millions USD,,638
+609,4978,661,Finance and Investments  ==> hedge funds,3.7 BUSD,0.0 millions USD,,633
+610,8440,662,Manufacturing  ==> cleaning products,3.7 BUSD,0.0 millions USD,,671
+611,1054,663,Manufacturing  ==> cleaning products,3.7 BUSD,nan millions USD,,671
+612,2757,664,Manufacturing  ==> cleaning products,3.7 BUSD,0.0 millions USD,,657
+613,4298,665,Manufacturing  ==> cleaning products,3.7 BUSD,0.0 millions USD,,656
+614,5594,666,Manufacturing  ==> cleaning products,3.7 BUSD,0.0 millions USD,,658
+615,4842,667,"Manufacturing  ==> fertilizer, real estate",3.7 BUSD,0.0 millions USD,,653
+616,1696,668,Construction & Engineering  ==> real estate,3.7 BUSD,0.0 millions USD,,796
+617,7154,669,Finance and Investments  ==> finance,3.7 BUSD,0.0 millions USD,,662
+618,3369,670,Gambling & Casinos  ==> casinos,3.7 BUSD,0.0 millions USD,,578
+619,1297,671,Manufacturing  ==> hair dryers,3.7 BUSD,0.0 millions USD,,804
+620,2726,672,Real Estate  ==> real estate,3.7 BUSD,0.0 millions USD,,849
+621,1695,673,Finance and Investments  ==> investments,3.7 BUSD,0.0 millions USD,,609
+622,9278,674,Finance and Investments  ==> tech investments,3.7 BUSD,0.0 millions USD,,617
+623,8824,675,Healthcare  ==> pharmaceuticals,3.7 BUSD,0.0 millions USD,,667
+624,9580,676,Healthcare  ==> pharmaceuticals,3.7 BUSD,0.0 millions USD,,668
+625,4734,677,Healthcare  ==> pharmaceuticals,3.7 BUSD,0.0 millions USD,,376
+626,6809,678,Real Estate  ==> real estate,3.7 BUSD,-8.447000000000001 millions USD,,626
+627,7653,679,Diversified  ==> diversified,3.7 BUSD,0.001 millions USD,,525
+628,3329,680,Fashion & Retail  ==> sports retailing,3.6 BUSD,0.0 millions USD,,627
+629,6343,681,Healthcare  ==> pharmaceuticals,3.6 BUSD,-0.001 millions USD,,457
+630,8006,682,Energy  ==> oil,3.6 BUSD,0.0 millions USD,,528
+631,3793,683,Healthcare  ==> vaccine production,3.6 BUSD,0.0 millions USD,,279
+632,2471,684,Finance and Investments  ==> money management,3.6 BUSD,0.0 millions USD,,651
+633,5537,685,Finance and Investments  ==> money management,3.6 BUSD,0.0 millions USD,,652
+634,7053,686,Finance and Investments  ==> investments,3.6 BUSD,0.0 millions USD,,708
+635,1975,687,Healthcare  ==> pharmaceuticals,3.6 BUSD,0.0 millions USD,,1018
+636,7027,688,Manufacturing  ==> manufacturing,3.6 BUSD,0.0 millions USD,,689
+637,3807,689,Healthcare  ==> biotech,3.6 BUSD,0.0 millions USD,,664
+638,5475,690,"Diversified  ==> drilling, shipping",3.6 BUSD,6.684 millions USD,,798
+639,1484,691,Diversified  ==> consumer goods,3.6 BUSD,0.0 millions USD,,603
+640,5074,692,Food and Beverage  ==> pig breeding,3.6 BUSD,0.0 millions USD,,745
+641,8545,693,Fashion & Retail  ==> fashion retail,3.6 BUSD,0.001 millions USD,,432
+642,8196,694,Energy  ==> energy,3.6 BUSD,0.0 millions USD,,770
+643,6070,695,Finance and Investments  ==> discount brokerage,3.6 BUSD,0.0 millions USD,,605
+644,8558,696,Media & Entertainment  ==> Movies,3.6 BUSD,0.0 millions USD,,637
+645,9701,697,Automotive  ==> auto parts,3.6 BUSD,0.0 millions USD,,775
+646,8314,698,Logistics  ==> cruise ships,3.6 BUSD,0.001 millions USD,,721
+647,7300,699,Healthcare  ==> pharmaceuticals,3.6 BUSD,0.0 millions USD,,659
+648,7218,700,Real Estate  ==> real estate,3.6 BUSD,0.001 millions USD,,716
+649,8708,701,Real Estate  ==> real estate,3.6 BUSD,0.0 millions USD,,683
+650,4643,702,Manufacturing  ==> chemicals,3.6 BUSD,-0.254 millions USD,,985
+651,3475,703,"Fashion & Retail  ==> fashion retail, investments",3.5 BUSD,0.001 millions USD,,701
+652,2786,704,"Fashion & Retail  ==> fashion retail, investments",3.5 BUSD,0.001 millions USD,,702
+653,1532,705,"Fashion & Retail  ==> fashion retail, investments",3.5 BUSD,0.001 millions USD,,703
+654,4845,706,"Fashion & Retail  ==> fashion retail, investments",3.5 BUSD,0.0 millions USD,,704
+655,5672,707,Healthcare  ==> hospitals,3.5 BUSD,0.001 millions USD,,375
+656,5667,708,Manufacturing  ==> paints,3.5 BUSD,0.0 millions USD,,585
+657,9401,709,Fashion & Retail  ==> retail,3.5 BUSD,0.0 millions USD,,963
+658,4136,710,Sports  ==> Formula One,3.5 BUSD,0.0 millions USD,,720
+659,7877,711,Technology  ==> health IT,3.5 BUSD,0.0 millions USD,,666
+660,3438,712,"Real Estate  ==> real estate, finance",3.5 BUSD,0.0 millions USD,,1061
+661,4194,713,Finance and Investments  ==> private equity,3.5 BUSD,0.001 millions USD,,680
+662,1510,714,Energy  ==> oil,3.5 BUSD,0.0 millions USD,,502
+663,1994,715,Construction & Engineering  ==> engineering,3.5 BUSD,0.0 millions USD,,847
+664,2384,716,Service  ==> airport,3.5 BUSD,0.0 millions USD,,729
+665,8960,717,Finance and Investments  ==> venture capital,3.5 BUSD,0.0 millions USD,,580
+666,6040,718,Real Estate  ==> real estate,3.5 BUSD,0.0 millions USD,,674
+667,5329,719,Media & Entertainment  ==> movie making,3.5 BUSD,0.0 millions USD,,630
+668,7808,720,"Diversified  ==> retail, real estate",3.5 BUSD,0.0 millions USD,,687
+669,5504,721,"Service  ==> hotels, investments",3.5 BUSD,0.0 millions USD,,677
+670,3008,722,"Finance and Investments  ==> hotels, investments",3.5 BUSD,0.0 millions USD,,678
+671,1121,723,"Manufacturing  ==> manufacturing, investments",3.5 BUSD,0.001 millions USD,,604
+672,4301,724,"Logistics  ==> shipping, seafood",3.5 BUSD,0.0 millions USD,,455
+673,7063,725,"Finance and Investments  ==> banking, real estate",3.5 BUSD,-0.001 millions USD,,648
+674,7470,726,Real Estate  ==> real estate,3.5 BUSD,0.0 millions USD,,663
+675,8387,727,Diversified  ==> diversified,3.5 BUSD,0.0 millions USD,,682
+676,8111,728,Diversified  ==> diversified,3.5 BUSD,-0.001 millions USD,,611
+677,8349,729,Food and Beverage  ==> meat processing,3.5 BUSD,0.0 millions USD,,665
+678,6397,730,Energy  ==> energy,3.4 BUSD,0.0 millions USD,,1431
+679,1509,731,Metals & Mining  ==> metals,3.4 BUSD,0.0 millions USD,,747
+680,3180,732,"Construction & Engineering  ==> engineering, construction",3.4 BUSD,0.0 millions USD,,738
+681,5391,733,"Construction & Engineering  ==> engineering, construction",3.4 BUSD,0.0 millions USD,,739
+682,6010,734,Technology  ==> software,3.4 BUSD,0.0 millions USD,,483
+683,4945,735,Construction & Engineering  ==> construction,3.4 BUSD,0.0 millions USD,,705
+684,9604,736,Manufacturing  ==> chemicals,3.4 BUSD,0.0 millions USD,,742
+685,3726,737,Technology  ==> software,3.4 BUSD,0.0 millions USD,,484
+686,6492,738,"Logistics  ==> logistics, real estate",3.4 BUSD,0.0 millions USD,,735
+687,6721,739,"Fashion & Retail  ==> gas stations, retail",3.4 BUSD,0.0 millions USD,,640
+688,1919,740,Fashion & Retail  ==> retail,3.4 BUSD,0.0 millions USD,,743
+689,4297,741,Technology  ==> navigation equipment,3.4 BUSD,0.0 millions USD,,707
+690,7807,742,Technology  ==> internet search,3.4 BUSD,0.0 millions USD,,554
+691,2218,743,Healthcare  ==> medical devices,3.4 BUSD,0.001 millions USD,,676
+692,2102,744,"Logistics  ==> real estate, airport",3.4 BUSD,0.0 millions USD,,726
+693,5573,745,Finance and Investments  ==> finance,3.4 BUSD,0.0 millions USD,,646
+694,9666,746,Diversified  ==> diversified,3.4 BUSD,0.0 millions USD,,706
+695,7733,747,Gambling & Casinos  ==> gambling software,3.4 BUSD,3.9589999999999996 millions USD,,691
+696,6946,748,Telecom  ==> telecom,3.4 BUSD,0.0 millions USD,,709
+697,5505,749,"Logistics  ==> real estate, airport",3.4 BUSD,0.0 millions USD,,725
+698,6103,750,Diversified  ==> diversified,3.4 BUSD,-0.001 millions USD,,765
+699,8042,751,Real Estate  ==> real estate,3.4 BUSD,0.0 millions USD,,688
+700,9705,752,Construction & Engineering  ==> construction,3.4 BUSD,0.0 millions USD,,1016
+701,5152,753,"Gambling & Casinos  ==> casinos, hotels",3.4 BUSD,0.0 millions USD,,805
+702,9502,754,"Metals & Mining  ==> mining, metals",3.3 BUSD,0.001 millions USD,,832
+703,4326,755,"Automotive  ==> auto dealers, investments",3.3 BUSD,0.0 millions USD,,733
+704,8219,756,Finance and Investments  ==> hedge funds,3.3 BUSD,0.0 millions USD,,732
+705,7953,757,"Energy  ==> oil, investments",3.3 BUSD,0.0 millions USD,,675
+706,3216,758,Fashion & Retail  ==> retail,3.3 BUSD,-0.16 millions USD,,823
+707,4228,759,Healthcare  ==> medical equipment,3.3 BUSD,0.0 millions USD,,622
+708,4893,760,"Finance and Investments  ==> insurance, beverages",3.3 BUSD,0.0 millions USD,,860
+709,5450,761,"Gambling & Casinos  ==> casinos, property, energy",3.3 BUSD,0.0 millions USD,,631
+710,8730,762,Real Estate  ==> real estate,3.3 BUSD,0.0 millions USD,,711
+711,6950,763,Manufacturing  ==> paints,3.3 BUSD,0.0 millions USD,,672
+712,3795,764,Service  ==> airline,3.3 BUSD,0.0 millions USD,,815
+713,3467,765,Technology  ==> LinkedIn,3.3 BUSD,0.0 millions USD,,718
+714,7175,766,Media & Entertainment  ==> cable television,3.3 BUSD,0.0 millions USD,,737
+715,8341,767,Real Estate  ==> real estate,3.3 BUSD,0.0 millions USD,,898
+716,8028,768,"Real Estate  ==> hotels, motels",3.3 BUSD,0.0 millions USD,,456
+717,5522,769,Finance and Investments  ==> investments,3.3 BUSD,0.001 millions USD,,684
+718,2667,770,Real Estate  ==> real estate,3.3 BUSD,0.0 millions USD,,784
+719,3415,771,Finance and Investments  ==> investments,3.3 BUSD,-0.001 millions USD,,710
+720,2314,772,Manufacturing  ==> aluminum products,3.3 BUSD,0.0 millions USD,,649
+721,2672,773,Manufacturing  ==> chemicals,3.3 BUSD,0.0 millions USD,,488
+722,8234,774,Food and Beverage  ==> Campbell Soup,3.3 BUSD,0.0 millions USD,,822
+723,2312,775,Technology  ==> semiconductors,3.3 BUSD,0.0 millions USD,,644
+724,7831,776,Real Estate  ==> real estate,3.3 BUSD,0.0 millions USD,,897
+725,5355,777,Healthcare  ==> medical equipment,3.3 BUSD,-0.409 millions USD,,625
+726,7773,778,Finance and Investments  ==> real estate,3.3 BUSD,0.0 millions USD,,766
+727,2534,779,Food and Beverage  ==> flavorings,3.3 BUSD,0.0 millions USD,,769
+728,7148,780,Media & Entertainment  ==> media,3.2 BUSD,0.0 millions USD,,746
+729,5707,781,Fashion & Retail  ==> luxury goods,3.2 BUSD,0.0 millions USD,,628
+730,2739,782,Real Estate  ==> real estate,3.2 BUSD,0.0 millions USD,,722
+731,7533,783,Food and Beverage  ==> restaurants,3.2 BUSD,0.0 millions USD,,715
+732,9831,784,Technology  ==> software,3.2 BUSD,-0.001 millions USD,,589
+733,1750,785,Finance and Investments  ==> hedge funds,3.2 BUSD,0.0 millions USD,,750
+734,3036,786,"Fashion & Retail  ==> hair products, tequila",3.2 BUSD,0.0 millions USD,,713
+735,3616,787,Finance and Investments  ==> investments,3.2 BUSD,-0.001 millions USD,,595
+736,8748,788,Food and Beverage  ==> beer,3.2 BUSD,0.0 millions USD,,863
+737,6140,789,Finance and Investments  ==> finance,3.2 BUSD,0.0 millions USD,,700
+738,8663,790,Service  ==> payroll services,3.2 BUSD,-4.504 millions USD,,690
+739,7541,791,Construction & Engineering  ==> engineering,3.2 BUSD,0.0 millions USD,,801
+740,3803,792,Technology  ==> acoustic components,3.2 BUSD,0.0 millions USD,,988
+741,2509,793,Gambling & Casinos  ==> lotteries,3.2 BUSD,0.0 millions USD,,797
+742,4471,794,Fashion & Retail  ==> furniture retailing,3.2 BUSD,0.0 millions USD,,810
+743,9020,795,Finance and Investments  ==> banking,3.2 BUSD,1.315 millions USD,,778
+744,2178,796,Finance and Investments  ==> banking,3.2 BUSD,1.315 millions USD,,779
+745,7043,797,"Diversified  ==> banking, shipping",3.2 BUSD,0.0 millions USD,,874
+746,8567,798,Finance and Investments  ==> hedge funds,3.2 BUSD,0.0 millions USD,,755
+747,3420,799,Automotive  ==> tires,3.2 BUSD,0.0 millions USD,,803
+748,1049,800,Energy  ==> energy,3.2 BUSD,0.0 millions USD,,712
+749,8938,801,Healthcare  ==> pharmaceuticals,3.2 BUSD,-0.001 millions USD,,752
+750,6871,802,Manufacturing  ==> prosthetics,3.2 BUSD,0.0 millions USD,,789
+751,9659,803,Service  ==> logistics,3.2 BUSD,0.0 millions USD,,501
+752,4253,804,Finance and Investments  ==> hedge funds,3.2 BUSD,0.0 millions USD,,756
+753,1573,805,Fashion & Retail  ==> luxury goods,3.2 BUSD,0.0 millions USD,,629
+754,2269,806,Finance and Investments  ==> private equity,3.2 BUSD,0.0 millions USD,,758
+755,8443,807,"Media & Entertainment  ==> TV network, investments",3.2 BUSD,2.0069999999999997 millions USD,,760
+756,6436,808,Finance and Investments  ==> banking,3.2 BUSD,0.0 millions USD,,753
+757,3833,809,Fashion & Retail  ==> retail,3.2 BUSD,0.001 millions USD,,982
+758,2694,810,"Energy  ==> oil & gas, investments",3.2 BUSD,0.0 millions USD,,751
+759,4873,811,Automotive  ==> U-Haul,3.2 BUSD,0.001 millions USD,,787
+760,1079,812,Finance and Investments  ==> investments,3.2 BUSD,0.0 millions USD,,808
+761,8164,813,Finance and Investments  ==> finance,3.2 BUSD,0.0 millions USD,,730
+762,9047,814,Finance and Investments  ==> finance,3.2 BUSD,0.0 millions USD,,731
+763,7898,815,Technology  ==> drones,3.2 BUSD,0.0 millions USD,,749
+764,7737,816,Technology  ==> eBay,3.2 BUSD,-2.0340000000000003 millions USD,,728
+765,6020,817,"Energy  ==> oil, real estate",3.1 BUSD,0.0 millions USD,,768
+766,8837,818,Fashion & Retail  ==> fashion retail,3.1 BUSD,0.0 millions USD,,792
+767,4480,819,Healthcare  ==> pharmaceuticals,3.1 BUSD,0.0 millions USD,,490
+768,5370,820,Media & Entertainment  ==> online media,3.1 BUSD,0.0 millions USD,,717
+769,4414,821,Technology  ==> Twitter,3.1 BUSD,0.0 millions USD,,395
+770,4887,822,Real Estate  ==> real estate,3.1 BUSD,0.0 millions USD,,727
+771,4443,823,Real Estate  ==> real estate,3.1 BUSD,0.0 millions USD,,773
+772,5582,824,Real Estate  ==> real estate,3.1 BUSD,0.0 millions USD,,764
+773,5216,825,Real Estate  ==> real estate,3.1 BUSD,0.0 millions USD,,767
+774,1686,826,Diversified  ==> pharmacies,3.1 BUSD,0.0 millions USD,,826
+775,7196,827,Real Estate  ==> real estate,3.1 BUSD,0.0 millions USD,,771
+776,9034,828,Metals & Mining  ==> mining,3.1 BUSD,0.0 millions USD,,748
+777,8499,829,Logistics  ==> package delivery,3.1 BUSD,0.0 millions USD,,564
+778,9358,830,Gambling & Casinos  ==> gambling,3.1 BUSD,0.0 millions USD,,892
+779,4427,831,Food and Beverage  ==> cheese,3.1 BUSD,0.0 millions USD,,813
+780,9700,832,Diversified  ==> conglomerate,3.1 BUSD,0.001 millions USD,,786
+781,5473,833,Fashion & Retail  ==> retail,3.1 BUSD,0.0 millions USD,,862
+782,3452,834,Diversified  ==> airlines,3.1 BUSD,0.0 millions USD,,824
+783,5943,835,Diversified  ==> diversified,3.1 BUSD,0.001 millions USD,,816
+784,7607,836,Manufacturing  ==> kitchen appliances,3.1 BUSD,0.001 millions USD,,1068
+785,2830,837,Food and Beverage  ==> Food & Beverage,3.1 BUSD,0.001 millions USD,,698
+786,7243,838,"Diversified  ==> construction equipment, media",3.1 BUSD,-3.884 millions USD,,641
+787,6778,839,"Real Estate  ==> television, real estate",3.1 BUSD,0.0 millions USD,,776
+788,3448,840,Technology  ==> software,3.1 BUSD,0.0 millions USD,,785
+789,8751,841,Technology  ==> healthcare services,3.1 BUSD,0.0 millions USD,,1117
+790,1498,842,Finance and Investments  ==> Investment Management,3.0 BUSD,0.0 millions USD,,642
+791,2341,843,Healthcare  ==> pharmaceuticals,3.0 BUSD,0.0 millions USD,,660
+792,5146,844,Healthcare  ==> pharmaceuticals,3.0 BUSD,0.0 millions USD,,661
+793,3968,845,Sports  ==> New Orleans Saints,3.0 BUSD,nan millions USD,,661
+794,6737,846,Technology  ==> venture capital,3.0 BUSD,0.0 millions USD,,754
+795,8546,847,Energy  ==> oil & gas,3.0 BUSD,0.0 millions USD,,827
+796,2443,848,Healthcare  ==> pharmaceuticals,3.0 BUSD,0.0 millions USD,,931
+797,5930,849,Finance and Investments  ==> financial services,3.0 BUSD,0.011000000000000001 millions USD,,1010
+798,3556,850,Technology  ==> mobile payments,3.0 BUSD,0.0 millions USD,,806
+799,7890,851,Manufacturing  ==> lasers,3.0 BUSD,0.0 millions USD,,795
+800,5090,852,"Technology  ==> software, investments",3.0 BUSD,0.0 millions USD,,763
+801,1748,853,Finance and Investments  ==> Hedge funds,3.0 BUSD,0.0 millions USD,,802
+802,4631,854,Logistics  ==> trucking,3.0 BUSD,0.0 millions USD,,744
+803,5697,855,Finance and Investments  ==> investments,3.0 BUSD,0.001 millions USD,,819
+804,8889,856,"Automotive  ==> automobiles, batteries",3.0 BUSD,0.0 millions USD,,1002
+805,5926,857,Food and Beverage  ==> tobacco,3.0 BUSD,0.0 millions USD,,791
+806,8991,858,Gambling & Casinos  ==> casinos,3.0 BUSD,0.0 millions USD,,830
+807,4787,859,Real Estate  ==> real estate,3.0 BUSD,0.0 millions USD,,809
+808,9779,860,Healthcare  ==> hospitals,3.0 BUSD,0.0 millions USD,,723
+809,9677,861,"Service  ==> hotels, investments",3.0 BUSD,0.0 millions USD,,794
+810,8462,862,Diversified  ==> diversified,3.0 BUSD,0.0 millions USD,,846
+811,7052,863,"Construction & Engineering  ==> construction, pipes, banking",3.0 BUSD,0.0 millions USD,,971
+812,9605,864,Fashion & Retail  ==> online retail,3.0 BUSD,0.0 millions USD,,818
+813,7735,865,Food and Beverage  ==> Food & Beverage,3.0 BUSD,0.001 millions USD,,736
+814,9537,866,Real Estate  ==> real estate,3.0 BUSD,0.0 millions USD,,757
+815,6670,867,Food and Beverage  ==> meat processing,3.0 BUSD,0.0 millions USD,,781
+816,5868,868,Real Estate  ==> real estate,3.0 BUSD,-0.001 millions USD,,573
+817,2001,869,Food and Beverage  ==> AriZona Beverages,3.0 BUSD,0.0 millions USD,,820
+818,9239,870,Real Estate  ==> real estate,3.0 BUSD,0.0 millions USD,,546
+819,8698,871,Telecom  ==> electronics,3.0 BUSD,0.0 millions USD,,1172
+820,5214,872,Technology  ==> online payment service,3.0 BUSD,0.001 millions USD,,814
+821,4640,873,Food and Beverage  ==> fishing,2.9 BUSD,0.0 millions USD,,850
+822,1879,874,Healthcare  ==> pharmaceuticals,2.9 BUSD,0.0 millions USD,,494
+823,5209,875,Food and Beverage  ==> beverages,2.9 BUSD,0.0 millions USD,,1185
+824,1711,876,Technology  ==> electronics,2.9 BUSD,0.0 millions USD,,848
+825,2076,877,Diversified  ==> consumer goods,2.9 BUSD,0.0 millions USD,,838
+826,3909,878,Fashion & Retail  ==> sports apparel,2.9 BUSD,0.0 millions USD,,655
+827,9519,879,"Metals & Mining  ==> copper, education",2.9 BUSD,0.001 millions USD,,788
+828,2984,880,Finance and Investments  ==> banking,2.9 BUSD,0.0 millions USD,,844
+829,8114,881,Service  ==> employment agency,2.9 BUSD,0.0 millions USD,,920
+830,7095,882,Diversified  ==> consumer goods,2.9 BUSD,0.0 millions USD,,835
+831,1562,883,Diversified  ==> consumer goods,2.9 BUSD,0.0 millions USD,,836
+832,1096,884,Diversified  ==> consumer goods,2.9 BUSD,0.0 millions USD,,837
+833,1149,885,Food and Beverage  ==> poultry processing,2.9 BUSD,0.0 millions USD,,866
+834,7994,886,Service  ==> consulting,2.9 BUSD,0.0 millions USD,,909
+835,5149,887,Healthcare  ==> pharmaceuticals,2.9 BUSD,0.0 millions USD,,724
+836,3952,888,Healthcare  ==> pharmaceuticals,2.9 BUSD,0.051 millions USD,,812
+837,5834,889,"Finance and Investments  ==> construction, investments",2.9 BUSD,0.0 millions USD,,886
+838,6286,890,Real Estate  ==> real estate,2.9 BUSD,0.0 millions USD,,1066
+839,6130,891,Food and Beverage  ==> bakeries,2.9 BUSD,0.0 millions USD,,851
+840,8632,892,Technology  ==> online retail,2.9 BUSD,0.0 millions USD,,594
+841,3989,893,Service  ==> travel,2.9 BUSD,0.0 millions USD,,865
+842,5467,894,"Finance and Investments  ==> chemicals, investments",2.9 BUSD,0.0 millions USD,,899
+843,3123,895,Fashion & Retail  ==> drugstores,2.9 BUSD,0.0 millions USD,,864
+844,2654,896,Diversified  ==> consumer goods,2.9 BUSD,-0.001 millions USD,,833
+845,5006,897,"Finance and Investments  ==> finance, diversified",2.9 BUSD,0.0 millions USD,,1050
+846,3183,898,Diversified  ==> petrochemicals,2.9 BUSD,0.0 millions USD,,1022
+847,4379,899,Technology  ==> Facebook,2.9 BUSD,0.0 millions USD,,734
+848,2381,900,Technology  ==> business software,2.9 BUSD,0.0 millions USD,,852
+849,3551,901,Finance and Investments  ==> hedge funds,2.9 BUSD,0.0 millions USD,,855
+850,2579,902,Manufacturing  ==> blinds,2.9 BUSD,0.0 millions USD,,940
+851,3349,903,Healthcare  ==> medical equipment,2.9 BUSD,0.0 millions USD,,741
+852,8887,904,"Diversified  ==> real estate, construction",2.9 BUSD,0.0 millions USD,,889
+853,7310,905,Finance and Investments  ==> finance,2.9 BUSD,0.0 millions USD,,777
+854,4492,906,Finance and Investments  ==> electronic trading,2.9 BUSD,0.0 millions USD,,782
+855,2825,907,Real Estate  ==> real estate,2.9 BUSD,0.0 millions USD,,877
+856,8959,908,Technology  ==> electronics components,2.9 BUSD,0.0 millions USD,,861
+857,7609,909,Technology  ==> electronics components,2.9 BUSD,0.0 millions USD,,868
+858,1107,910,"Food and Beverage  ==> soft drinks, diversified",2.8 BUSD,0.0 millions USD,,937
+859,2616,911,Finance and Investments  ==> private equity,2.8 BUSD,0.0 millions USD,,881
+860,8808,912,Finance and Investments  ==> private equity,2.8 BUSD,0.0 millions USD,,885
+861,2448,913,Service  ==> staffing & recruiting,2.8 BUSD,0.0 millions USD,,762
+862,4727,914,Fashion & Retail  ==> sportswear,2.8 BUSD,0.0 millions USD,,685
+863,6907,915,Food and Beverage  ==> Campbell Soup,2.8 BUSD,0.0 millions USD,,883
+864,9075,916,Fashion & Retail  ==> Gap,2.8 BUSD,0.0 millions USD,,857
+865,5723,917,Fashion & Retail  ==> Gap,2.8 BUSD,0.0 millions USD,,843
+866,4295,918,Diversified  ==> conglomerate,2.8 BUSD,0.0 millions USD,,992
+867,7337,919,Healthcare  ==> medical products,2.8 BUSD,0.0 millions USD,,900
+868,7844,920,Real Estate  ==> real estate,2.8 BUSD,0.0 millions USD,,829
+869,7253,921,Finance and Investments  ==> investments,2.8 BUSD,nan millions USD,,829
+870,9343,922,Healthcare  ==> biotech,2.8 BUSD,0.0 millions USD,,902
+871,2597,923,Manufacturing  ==> petrochemicals,2.8 BUSD,0.0 millions USD,,841
+872,3333,924,Telecom  ==> telecom,2.8 BUSD,0.267 millions USD,,952
+873,4215,925,Diversified  ==> art collection,2.8 BUSD,0.0 millions USD,,884
+874,2061,926,Diversified  ==> diversified,2.8 BUSD,0.0 millions USD,,980
+875,8433,927,Finance and Investments  ==> investments,2.8 BUSD,0.0 millions USD,,873
+876,3575,928,"Finance and Investments  ==> hotels, investments",2.8 BUSD,0.0 millions USD,,880
+877,5998,929,Fashion & Retail  ==> Hermes,2.8 BUSD,0.0 millions USD,,714
+878,3929,930,Real Estate  ==> real estate,2.8 BUSD,0.0 millions USD,,904
+879,2620,931,Finance and Investments  ==> private equity,2.8 BUSD,0.0 millions USD,,869
+880,3304,932,"Diversified  ==> online games, investments",2.8 BUSD,0.001 millions USD,,1288
+881,3289,933,Media & Entertainment  ==> TV broadcasting,2.8 BUSD,0.0 millions USD,,946
+882,5602,934,Logistics  ==> shipping,2.8 BUSD,0.0 millions USD,,859
+883,8720,935,Finance and Investments  ==> finance,2.8 BUSD,0.0 millions USD,,761
+884,7570,936,Food and Beverage  ==> chewing gum,2.8 BUSD,0.0 millions USD,,901
+885,7424,937,"Real Estate  ==> real estate, media",2.8 BUSD,0.0 millions USD,,853
+886,2717,938,"Construction & Engineering  ==> scaffolding, cement mixers",2.7 BUSD,0.0 millions USD,,962
+887,6349,939,Diversified  ==> diversified,2.7 BUSD,-0.001 millions USD,,1121
+888,1574,940,"Diversified  ==> forestry, mining",2.7 BUSD,0.0 millions USD,,1053
+889,2064,941,"Diversified  ==> hospitals, investments",2.7 BUSD,0.0 millions USD,,856
+890,2790,942,"Diversified  ==> art, electronics",2.7 BUSD,0.0 millions USD,,410
+891,2630,943,Energy  ==> pipelines,2.7 BUSD,0.0 millions USD,,887
+892,2924,944,Real Estate  ==> shopping centers,2.7 BUSD,0.0 millions USD,,831
+893,8417,945,Food and Beverage  ==> Campbell Soup,2.7 BUSD,0.0 millions USD,,1027
+894,6171,946,"Diversified  ==> airports, investments",2.7 BUSD,0.0 millions USD,,906
+895,1352,947,Automotive  ==> automobiles,2.7 BUSD,0.0 millions USD,,790
+896,3597,948,Manufacturing  ==> manufacturing,2.7 BUSD,0.001 millions USD,,958
+897,3358,949,Manufacturing  ==> furniture,2.7 BUSD,0.0 millions USD,,793
+898,7920,950,Finance and Investments  ==> auto loans,2.7 BUSD,0.0 millions USD,,930
+899,3489,951,Media & Entertainment  ==> Netflix,2.7 BUSD,0.0 millions USD,,519
+900,4296,952,Real Estate  ==> real estate,2.7 BUSD,0.0 millions USD,,986
+901,5839,953,Sports  ==> Indianapolis Colts,2.7 BUSD,0.0 millions USD,,910
+902,6298,954,Technology  ==> online services,2.7 BUSD,0.0 millions USD,,949
+903,5531,955,Fashion & Retail  ==> fashion retail,2.7 BUSD,0.0 millions USD,,1130
+904,6918,956,Diversified  ==> diversified,2.7 BUSD,-0.251 millions USD,,911
+905,7135,957,Telecom  ==> telecom,2.7 BUSD,0.267 millions USD,,970
+906,6607,958,Diversified  ==> diversified,2.7 BUSD,0.0 millions USD,,1049
+907,2166,959,Technology  ==> web hosting,2.7 BUSD,0.0 millions USD,,905
+908,3446,960,"Media & Entertainment  ==> media, real estate",2.7 BUSD,0.0 millions USD,,774
+909,7559,961,Service  ==> security services,2.7 BUSD,0.0 millions USD,,1043
+910,1800,962,"Diversified  ==> casinos, real estate",2.7 BUSD,0.0 millions USD,,916
+911,3149,963,Food and Beverage  ==> Starbucks,2.7 BUSD,0.0 millions USD,,948
+912,2792,964,Automotive  ==> U-Haul,2.7 BUSD,0.0 millions USD,,915
+913,5626,965,Healthcare  ==> dental implants,2.7 BUSD,0.0 millions USD,,842
+914,9583,966,Fashion & Retail  ==> fashion investments,2.7 BUSD,0.0 millions USD,,928
+915,7476,967,Diversified  ==> diversified,2.7 BUSD,-0.001 millions USD,,1092
+916,8502,968,Finance and Investments  ==> finance,2.7 BUSD,0.0 millions USD,,894
+917,5328,969,Fashion & Retail  ==> nutrition and wellness products,2.7 BUSD,0.0 millions USD,,673
+918,6633,970,Fashion & Retail  ==> fashion,2.7 BUSD,-2.001 millions USD,,1140
+919,1420,971,"Real Estate  ==> real estate, plush toys",2.7 BUSD,0.0 millions USD,,908
+920,6310,972,Media & Entertainment  ==> TV shows,2.7 BUSD,0.0 millions USD,,783
+921,7757,973,Fashion & Retail  ==> Retail,2.7 BUSD,0.0 millions USD,,934
+922,9129,974,Real Estate  ==> real estate services,2.7 BUSD,0.0 millions USD,,919
+923,9292,975,Finance and Investments  ==> investments,2.6 BUSD,0.0 millions USD,,981
+924,1737,976,Diversified  ==> diversified,2.6 BUSD,-0.001 millions USD,,1333
+925,3121,977,Technology  ==> online gaming,2.6 BUSD,0.0 millions USD,,839
+926,2404,978,"Media & Entertainment  ==> media, investments",2.6 BUSD,0.0 millions USD,,969
+927,8381,979,Finance and Investments  ==> private equity,2.6 BUSD,0.0 millions USD,,941
+928,3941,980,"Construction & Engineering  ==> cement, diversified",2.6 BUSD,-0.001 millions USD,,1079
+929,8845,981,Telecom  ==> mobile phones,2.6 BUSD,0.0 millions USD,,990
+930,4632,982,Finance and Investments  ==> investments,2.6 BUSD,0.001 millions USD,,772
+931,6505,983,Logistics  ==> logistics,2.6 BUSD,0.0 millions USD,,997
+932,8627,984,Finance and Investments  ==> investments,2.6 BUSD,0.0 millions USD,,1057
+933,6795,985,Real Estate  ==> real estate,2.6 BUSD,0.0 millions USD,,950
+934,5341,986,Healthcare  ==> pharmaceuticals,2.6 BUSD,-0.001 millions USD,,879
+935,2562,987,Healthcare  ==> hospitals,2.6 BUSD,-0.001 millions USD,,1076
+936,3399,988,Service  ==> self storage,2.6 BUSD,0.0 millions USD,,867
+937,5282,989,Energy  ==> energy generation,2.6 BUSD,0.0 millions USD,,936
+938,9912,990,Real Estate  ==> real estate,2.6 BUSD,0.0 millions USD,,995
+939,1143,991,Healthcare  ==> pharmaceuticals,2.6 BUSD,0.0 millions USD,,875
+940,6660,992,"Diversified  ==> palm oil, property",2.6 BUSD,0.0 millions USD,,913
+941,4998,993,Finance and Investments  ==> hedge funds,2.6 BUSD,0.0 millions USD,,821
+942,8949,994,Healthcare  ==> laboratory services,2.6 BUSD,0.0 millions USD,,1078
+943,2971,995,"Metals & Mining  ==> mining, commodities",2.6 BUSD,-0.301 millions USD,,921
+944,4782,996,Technology  ==> electronics components,2.6 BUSD,0.0 millions USD,,929
+945,8955,997,Healthcare  ==> hospitals,2.6 BUSD,0.0 millions USD,,1081
+946,3389,998,Diversified  ==> diversified,2.6 BUSD,0.0 millions USD,,1199
+947,7858,999,Technology  ==> Facebook,2.6 BUSD,0.0 millions USD,,953
+948,5047,1000,Real Estate  ==> real estate,2.6 BUSD,0.0 millions USD,,882
+949,3050,1001,Finance and Investments  ==> insurance,2.6 BUSD,0.0 millions USD,,947
+950,7161,1002,Media & Entertainment  ==> Bloomberg LP,2.6 BUSD,0.0 millions USD,,845
+951,1744,1003,Metals & Mining  ==> steel production,2.6 BUSD,-0.001 millions USD,,1012
+952,8403,1004,Real Estate  ==> real estate,2.6 BUSD,0.0 millions USD,,606
+953,2078,1005,Technology  ==> software,2.6 BUSD,0.0 millions USD,,944
+954,4909,1006,"Diversified  ==> aluminum, diversified",2.6 BUSD,0.0 millions USD,,1042
+955,9540,1007,Finance and Investments  ==> investment banking,2.6 BUSD,0.001 millions USD,,932
+956,8098,1008,Service  ==> printing,2.6 BUSD,0.0 millions USD,,878
+957,8754,1009,Fashion & Retail  ==> shoes,2.6 BUSD,0.0 millions USD,,896
+958,7285,1010,Energy  ==> oil trading,2.6 BUSD,0.0 millions USD,,933
+959,2347,1011,"Metals & Mining  ==> mining, banking, hotels",2.6 BUSD,-0.043 millions USD,,942
+960,9544,1012,Fashion & Retail  ==> Lululemon,2.6 BUSD,0.0 millions USD,,669
+961,3820,1013,Technology  ==> Yahoo,2.6 BUSD,118.35700000000001 millions USD,,893
+962,9328,1014,Technology  ==> touch screens,2.6 BUSD,0.0 millions USD,,1151
+963,8095,1015,Construction & Engineering  ==> construction,2.6 BUSD,0.0 millions USD,,1160
+964,9011,1016,Food and Beverage  ==> Diversified,2.5 BUSD,0.0 millions USD,,1025
+965,4714,1017,"Energy  ==> oil, investments",2.5 BUSD,0.0 millions USD,,964
+966,9345,1018,"Energy  ==> oil, investments",2.5 BUSD,0.0 millions USD,,956
+967,2469,1019,Food and Beverage  ==> vodka,2.5 BUSD,0.0 millions USD,,968
+968,6662,1020,Energy  ==> oil & gas,2.5 BUSD,0.0 millions USD,,967
+969,7118,1021,Finance and Investments  ==> banking,2.5 BUSD,0.0 millions USD,,1063
+970,8712,1022,"Automotive  ==> art, car dealerships",2.5 BUSD,0.0 millions USD,,927
+971,7510,1023,Automotive  ==> auto parts,2.5 BUSD,0.0 millions USD,,1163
+972,7640,1024,Manufacturing  ==> auto parts,2.5 BUSD,0.0 millions USD,,1003
+973,3013,1025,Gambling & Casinos  ==> online gambling,2.5 BUSD,0.0 millions USD,,1069
+974,4220,1026,Manufacturing  ==> chemicals,2.5 BUSD,0.0 millions USD,,1338
+975,7109,1027,Finance and Investments  ==> banking,2.5 BUSD,0.0 millions USD,,1135
+976,4123,1028,"Media & Entertainment  ==> circus, live entertainment",2.5 BUSD,0.0 millions USD,,979
+977,1281,1029,Food and Beverage  ==> spirits,2.5 BUSD,0.0 millions USD,,907
+978,8218,1030,Finance and Investments  ==> hedge funds,2.5 BUSD,0.0 millions USD,,998
+979,4396,1031,Finance and Investments  ==> investments,2.5 BUSD,-0.001 millions USD,,975
+980,2684,1032,Fashion & Retail  ==> consumer goods,2.5 BUSD,-0.001 millions USD,,983
+981,8947,1033,Gambling & Casinos  ==> pachinko parlors,2.5 BUSD,0.0 millions USD,,1039
+982,7387,1034,Sports  ==> sports,2.5 BUSD,0.0 millions USD,,961
+983,9572,1035,Gambling & Casinos  ==> casinos,2.5 BUSD,1.018 millions USD,,872
+984,6367,1036,Manufacturing  ==> hygiene products,2.5 BUSD,0.0 millions USD,,924
+985,5008,1037,Diversified  ==> diversified,2.5 BUSD,-0.001 millions USD,,1380
+986,7307,1038,Manufacturing  ==> synthetic gloves,2.5 BUSD,0.0 millions USD,,959
+987,5749,1039,Fashion & Retail  ==> cosmetics,2.5 BUSD,0.0 millions USD,,890
+988,2130,1040,Fashion & Retail  ==> cosmetics,2.5 BUSD,0.0 millions USD,,876
+989,3342,1041,Real Estate  ==> real estate,2.5 BUSD,0.0 millions USD,,1034
+990,4020,1042,Fashion & Retail  ==> fashion retailer,2.5 BUSD,0.0 millions USD,,1014
+991,9260,1043,Real Estate  ==> real estate,2.5 BUSD,-0.001 millions USD,,1090
+992,6450,1044,Manufacturing  ==> flooring,2.5 BUSD,0.0 millions USD,,1165
+993,9670,1045,Finance and Investments  ==> investment research,2.5 BUSD,0.0 millions USD,,694
+994,6147,1046,Media & Entertainment  ==> media,2.5 BUSD,0.0 millions USD,,1100
+995,7800,1047,Media & Entertainment  ==> media,2.5 BUSD,0.0 millions USD,,1094
+996,4261,1048,Food and Beverage  ==> investments,2.5 BUSD,0.001 millions USD,,966
+997,5980,1049,"Metals & Mining  ==> mining, commodities",2.5 BUSD,-0.299 millions USD,,951
+998,2550,1050,"Sports  ==> billboards, Anaheim Angels",2.5 BUSD,-0.001 millions USD,,1000
+999,3306,1051,Real Estate  ==> real estate,2.5 BUSD,0.0 millions USD,,996
+1000,4304,1052,Real Estate  ==> WeWork,2.5 BUSD,0.0 millions USD,,1001
+1001,9426,1053,Real Estate  ==> real estate,2.5 BUSD,0.0 millions USD,,974
+1002,6275,1054,Real Estate  ==> real estate,2.5 BUSD,0.0 millions USD,,943
+1003,1196,1055,Manufacturing  ==> manufacturing,2.5 BUSD,0.0 millions USD,,1026
+1004,8492,1056,Healthcare  ==> pharmaceuticals,2.5 BUSD,0.0 millions USD,,1021
+1005,8967,1057,Finance and Investments  ==> hedge funds,2.5 BUSD,0.0 millions USD,,1030
+1006,4327,1058,Healthcare  ==> generic drugs,2.5 BUSD,0.0 millions USD,,1129
+1007,6036,1059,Finance and Investments  ==> investments,2.5 BUSD,0.0 millions USD,,984
+1008,1985,1060,Service  ==> ticketing service,2.5 BUSD,0.0 millions USD,,955
+1009,3230,1061,Technology  ==> Microsoft,2.5 BUSD,0.0 millions USD,,888
+1010,4691,1062,Finance and Investments  ==> venture capital,2.5 BUSD,15.620999999999999 millions USD,,912
+1011,9747,1063,Manufacturing  ==> hygiene products,2.5 BUSD,0.0 millions USD,,923
+1012,1468,1064,Construction & Engineering  ==> construction,2.5 BUSD,0.0 millions USD,,1294
+1013,7082,1065,Fashion & Retail  ==> H&M,2.5 BUSD,0.0 millions USD,,1073
+1014,6836,1066,"Finance and Investments  ==> Facebook, Palantir",2.5 BUSD,0.0 millions USD,,972
+1015,9755,1067,"Gambling & Casinos  ==> casinos, hotels",2.5 BUSD,-0.001 millions USD,,957
+1016,3142,1068,Sports  ==> San Francisco 49ers,2.5 BUSD,0.0 millions USD,,1004
+1017,1379,1069,Technology  ==> technology,2.5 BUSD,0.0 millions USD,,1009
+1018,8076,1070,Healthcare  ==> pharmaceuticals,2.5 BUSD,0.0 millions USD,,1071
+1019,4459,1071,"Real Estate  ==> real estate, investments",2.4 BUSD,-0.001 millions USD,,1020
+1020,9839,1072,Real Estate  ==> real estate,2.4 BUSD,0.0 millions USD,,977
+1021,2835,1073,Food and Beverage  ==> liquor,2.4 BUSD,0.0 millions USD,,1033
+1022,6700,1074,Food and Beverage  ==> Subway sandwich shops,2.4 BUSD,0.0 millions USD,,1015
+1023,1113,1075,Finance and Investments  ==> investments,2.4 BUSD,0.0 millions USD,,1089
+1024,7594,1076,Real Estate  ==> real estate,2.4 BUSD,0.0 millions USD,,999
+1025,4122,1077,Manufacturing  ==> flavorings,2.4 BUSD,0.0 millions USD,,1019
+1026,2413,1078,Fashion & Retail  ==> drugstores,2.4 BUSD,0.0 millions USD,,1083
+1027,2778,1079,Food and Beverage  ==> orange juice,2.4 BUSD,0.0 millions USD,,1017
+1028,5051,1080,Manufacturing  ==> cement,2.4 BUSD,0.0 millions USD,,1278
+1029,7966,1081,Food and Beverage  ==> consumer goods,2.4 BUSD,0.0 millions USD,,1104
+1030,3903,1082,Finance and Investments  ==> banking,2.4 BUSD,0.0 millions USD,,1454
+1031,5892,1083,Finance and Investments  ==> private equity,2.4 BUSD,0.0 millions USD,,1007
+1032,9727,1084,Finance and Investments  ==> banking,2.4 BUSD,-0.001 millions USD,,1207
+1033,9112,1085,Real Estate  ==> real estate,2.4 BUSD,0.0 millions USD,,1099
+1034,3211,1086,Automotive  ==> automobiles,2.4 BUSD,-0.001 millions USD,,1024
+1035,3170,1087,Finance and Investments  ==> private equity,2.4 BUSD,0.0 millions USD,,1006
+1036,2861,1088,Real Estate  ==> real estate,2.4 BUSD,0.001 millions USD,,1133
+1037,3710,1089,Real Estate  ==> real estate,2.4 BUSD,0.0 millions USD,,1062
+1038,2994,1090,Fashion & Retail  ==> supermarkets,2.4 BUSD,0.0 millions USD,,1029
+1039,1683,1091,Finance and Investments  ==> investment,2.4 BUSD,0.0 millions USD,,1040
+1040,8236,1092,"Fashion & Retail  ==> tobacco distribution, retail",2.4 BUSD,0.0 millions USD,,1041
+1041,9892,1093,Manufacturing  ==> aluminum,2.4 BUSD,0.0 millions USD,,1366
+1042,4168,1094,Food and Beverage  ==> retail,2.4 BUSD,0.0 millions USD,,1045
+1043,6524,1095,Technology  ==> software,2.4 BUSD,0.0 millions USD,,991
+1044,8557,1096,Finance and Investments  ==> investments,2.4 BUSD,0.0 millions USD,,1059
+1045,8085,1097,Media & Entertainment  ==> media,2.4 BUSD,0.0 millions USD,,1148
+1046,9179,1098,"Fashion & Retail  ==> Wal-Mart, logistics",2.4 BUSD,0.0 millions USD,,1131
+1047,9382,1099,Metals & Mining  ==> mining,2.4 BUSD,-0.26 millions USD,,1302
+1048,1866,1100,Fashion & Retail  ==> consumer goods,2.4 BUSD,0.0 millions USD,,1102
+1049,6798,1101,Fashion & Retail  ==> consumer goods,2.4 BUSD,0.0 millions USD,,1103
+1050,7489,1102,Fashion & Retail  ==> consumer goods,2.4 BUSD,0.0 millions USD,,1105
+1051,5963,1103,Fashion & Retail  ==> consumer goods,2.4 BUSD,0.0 millions USD,,1106
+1052,3658,1104,Fashion & Retail  ==> consumer goods,2.4 BUSD,0.0 millions USD,,1107
+1053,8154,1105,Fashion & Retail  ==> consumer goods,2.4 BUSD,0.0 millions USD,,1108
+1054,7935,1106,"Service  ==> hotels, investments",2.4 BUSD,0.0 millions USD,,1035
+1055,9086,1107,"Finance and Investments  ==> hotels, investments",2.4 BUSD,0.0 millions USD,,1023
+1056,7465,1108,Fashion & Retail  ==> retail,2.4 BUSD,0.0 millions USD,,1713
+1057,3249,1109,Healthcare  ==> pharmaceuticals,2.4 BUSD,0.0 millions USD,,1060
+1058,4126,1110,Diversified  ==> diversified,2.4 BUSD,0.001 millions USD,,1193
+1059,6316,1111,Fashion & Retail  ==> consumer goods,2.4 BUSD,0.0 millions USD,,1109
+1060,1081,1112,Fashion & Retail  ==> hardware stores,2.4 BUSD,0.0 millions USD,,993
+1061,4654,1113,"Sports  ==> real estate, Los Angeles Chargers",2.4 BUSD,0.0 millions USD,,1013
+1062,9995,1114,Healthcare  ==> pharmaceuticals,2.4 BUSD,0.0 millions USD,,1085
+1063,5635,1115,Real Estate  ==> real estate,2.4 BUSD,0.0 millions USD,,1064
+1064,3718,1116,Automotive  ==> auto repair,2.4 BUSD,0.0 millions USD,,1052
+1065,7473,1117,Service  ==> education,2.4 BUSD,0.0 millions USD,,935
+1066,6760,1118,Finance and Investments  ==> private equity,2.4 BUSD,0.0 millions USD,,1008
+1067,2217,1119,Fashion & Retail  ==> retail,2.4 BUSD,0.0 millions USD,,1031
+1068,6168,1120,Service  ==> education,2.4 BUSD,0.0 millions USD,,891
+1069,3111,1121,Technology  ==> Computer Associates,2.3 BUSD,0.0 millions USD,,1028
+1070,4281,1122,Real Estate  ==> real estate,2.3 BUSD,-0.001 millions USD,,1093
+1071,4488,1123,Healthcare  ==> biotech,2.3 BUSD,0.0 millions USD,,828
+1072,1158,1124,Finance and Investments  ==> finance,2.3 BUSD,0.06 millions USD,,1243
+1073,3608,1125,Healthcare  ==> pharmaceuticals,2.3 BUSD,0.0 millions USD,,1113
+1074,3069,1126,Logistics  ==> VistaJet,2.3 BUSD,0.0 millions USD,,2063
+1075,1439,1127,Healthcare  ==> pharmaceuticals,2.3 BUSD,0.0 millions USD,,1114
+1076,1229,1128,Diversified  ==> diversified,2.3 BUSD,-0.001 millions USD,,1125
+1077,8805,1129,Finance and Investments  ==> investments,2.3 BUSD,-0.001 millions USD,,1111
+1078,1073,1130,Manufacturing  ==> Detergents,2.3 BUSD,0.0 millions USD,,1038
+1079,8352,1131,Fashion & Retail  ==> truck stops,2.3 BUSD,0.0 millions USD,,976
+1080,5807,1132,Healthcare  ==> pharmaceuticals,2.3 BUSD,0.001 millions USD,,1269
+1081,4867,1133,Energy  ==> oil,2.3 BUSD,0.0 millions USD,,939
+1082,8758,1134,"Metals & Mining  ==> mining, metals",2.3 BUSD,0.0 millions USD,,1046
+1083,1034,1135,Logistics  ==> logistics,2.3 BUSD,0.0 millions USD,,903
+1084,4772,1136,Real Estate  ==> tobacco,2.3 BUSD,0.0 millions USD,,1065
+1085,8461,1137,Technology  ==> venture capital,2.3 BUSD,0.001 millions USD,,870
+1086,9728,1138,Finance and Investments  ==> financial services,2.3 BUSD,0.0 millions USD,,1005
+1087,5527,1139,Technology  ==> e-commerce,2.3 BUSD,-0.001 millions USD,,1116
+1088,3914,1140,"Construction & Engineering  ==> construction, real estate",2.3 BUSD,0.0 millions USD,,1396
+1089,3814,1141,Finance and Investments  ==> investments,2.3 BUSD,0.0 millions USD,,1132
+1090,1920,1142,Finance and Investments  ==> textiles,2.3 BUSD,0.0 millions USD,,1228
+1091,2688,1143,"Metals & Mining  ==> mining, metals",2.3 BUSD,0.0 millions USD,,1091
+1092,7526,1144,Food and Beverage  ==> pet food,2.3 BUSD,0.0 millions USD,,1048
+1093,7834,1145,"Real Estate  ==> real estate, retail",2.3 BUSD,0.0 millions USD,,1097
+1094,2638,1146,Finance and Investments  ==> TD Ameritrade,2.3 BUSD,0.0 millions USD,,1032
+1095,3061,1147,Fashion & Retail  ==> drugstores,2.3 BUSD,-0.001 millions USD,,1349
+1096,6654,1148,Diversified  ==> diversified,2.3 BUSD,0.0 millions USD,,1290
+1097,4820,1149,Sports  ==> Washington Redskins,2.3 BUSD,0.0 millions USD,,1080
+1098,1687,1150,Manufacturing  ==> train cars,2.3 BUSD,0.0 millions USD,,1244
+1099,2690,1151,Fashion & Retail  ==> fashion retail,2.3 BUSD,0.0 millions USD,,1084
+1100,6158,1152,Food and Beverage  ==> food processing,2.3 BUSD,0.0 millions USD,,1149
+1101,3326,1153,Manufacturing  ==> furniture,2.3 BUSD,0.0 millions USD,,1087
+1102,6506,1154,Finance and Investments  ==> banking,2.2 BUSD,0.0 millions USD,,1494
+1103,9186,1155,"Diversified  ==> petroleum, diversified",2.2 BUSD,-0.001 millions USD,,1381
+1104,6160,1156,Finance and Investments  ==> money management,2.2 BUSD,0.0 millions USD,,1074
+1105,2816,1157,Diversified  ==> Diversified,2.2 BUSD,0.0 millions USD,,1144
+1106,7759,1158,Fashion & Retail  ==> Columbia Sportswear,2.2 BUSD,0.001 millions USD,,960
+1107,6012,1159,Food and Beverage  ==> beer,2.2 BUSD,0.0 millions USD,,1169
+1108,4506,1160,Real Estate  ==> real estate,2.2 BUSD,0.0 millions USD,,1316
+1109,1337,1161,Finance and Investments  ==> hedge fund,2.2 BUSD,0.0 millions USD,,918
+1110,1366,1162,Finance and Investments  ==> finance,2.2 BUSD,0.0 millions USD,,1198
+1111,9702,1163,Finance and Investments  ==> private equity,2.2 BUSD,0.0 millions USD,,1127
+1112,9880,1164,"Healthcare  ==> hospitals, health care",2.2 BUSD,0.0 millions USD,,1274
+1113,5649,1165,Finance and Investments  ==> banking,2.2 BUSD,-0.001 millions USD,,1560
+1114,1467,1166,"Sports  ==> casinos, mixed martial arts",2.2 BUSD,0.0 millions USD,,1101
+1115,3776,1167,"Sports  ==> casinos, mixed martial arts",2.2 BUSD,0.0 millions USD,,1095
+1116,2486,1168,"Food and Beverage  ==> Nutella, chocolates",2.2 BUSD,0.0 millions USD,,1197
+1117,5241,1169,"Metals & Mining  ==> mining, steel",2.2 BUSD,-0.001 millions USD,,978
+1118,4016,1170,Automotive  ==> used cars,2.2 BUSD,0.0 millions USD,,591
+1119,3685,1171,Fashion & Retail  ==> shoes,2.2 BUSD,-0.001 millions USD,,1443
+1120,2411,1172,Manufacturing  ==> electrical equipment,2.2 BUSD,0.0 millions USD,,1112
+1121,7983,1173,Service  ==> cruises,2.2 BUSD,0.0 millions USD,,1110
+1122,5571,1174,Service  ==> landscape architecture,2.2 BUSD,0.0 millions USD,,1304
+1123,2893,1175,Technology  ==> SAP,2.2 BUSD,0.0 millions USD,,1173
+1124,5528,1176,Media & Entertainment  ==> DirecTV,2.2 BUSD,0.0 millions USD,,1167
+1125,8728,1177,Diversified  ==> investments,2.2 BUSD,0.001 millions USD,,1231
+1126,9524,1178,Diversified  ==> diversified,2.2 BUSD,0.0 millions USD,,1504
+1127,6933,1179,Real Estate  ==> real estate,2.2 BUSD,0.0 millions USD,,1051
+1128,3009,1180,Diversified  ==> Diversified,2.2 BUSD,nan millions USD,,1051
+1129,9760,1181,Healthcare  ==> dental products,2.2 BUSD,0.0 millions USD,,1155
+1130,9481,1182,Finance and Investments  ==> private equity,2.2 BUSD,0.0 millions USD,,1122
+1131,1900,1183,Technology  ==> Groupon,2.2 BUSD,0.0 millions USD,,1152
+1132,6800,1184,Finance and Investments  ==> investments,2.2 BUSD,0.001 millions USD,,987
+1133,7299,1185,Technology  ==> optical components,2.2 BUSD,0.0 millions USD,,965
+1134,5317,1186,Real Estate  ==> shopping centers,2.2 BUSD,0.0 millions USD,,1180
+1135,3712,1187,Technology  ==> health IT,2.2 BUSD,0.0 millions USD,,973
+1136,6252,1188,Healthcare  ==> drug distribution,2.2 BUSD,0.0 millions USD,,1118
+1137,3936,1189,"Finance and Investments  ==> banking, credit cards",2.2 BUSD,0.0 millions USD,,994
+1138,8340,1190,Food and Beverage  ==> beer,2.2 BUSD,0.0 millions USD,,1168
+1139,4975,1191,Fashion & Retail  ==> jewelry,2.2 BUSD,0.0 millions USD,,1056
+1140,3707,1192,Fashion & Retail  ==> retail,2.2 BUSD,0.001 millions USD,,1142
+1141,5976,1193,Real Estate  ==> real estate,2.2 BUSD,0.0 millions USD,,1150
+1142,3637,1194,Finance and Investments  ==> banking,2.2 BUSD,0.0 millions USD,,1054
+1143,7718,1195,Finance and Investments  ==> finance,2.2 BUSD,0.0 millions USD,,1137
+1144,4022,1196,Logistics  ==> shipping,2.2 BUSD,0.0 millions USD,,1120
+1145,6424,1197,Media & Entertainment  ==> cable television,2.2 BUSD,0.0 millions USD,,1096
+1146,6046,1198,Diversified  ==> diversified,2.2 BUSD,0.0 millions USD,,1086
+1147,4832,1199,Real Estate  ==> real estate,2.2 BUSD,0.0 millions USD,,1218
+1148,9791,1200,Real Estate  ==> real estate,2.2 BUSD,0.001 millions USD,,1058
+1149,7304,1201,Food and Beverage  ==> bakery chain,2.2 BUSD,0.0 millions USD,,834
+1150,8477,1202,Media & Entertainment  ==> entertainment,2.2 BUSD,-0.001 millions USD,,1141
+1151,2627,1203,Real Estate  ==> real estate,2.2 BUSD,0.0 millions USD,,1202
+1152,4624,1204,Fashion & Retail  ==> retail,2.2 BUSD,0.0 millions USD,,1158
+1153,5251,1205,Manufacturing  ==> plastics,2.2 BUSD,0.0 millions USD,,1119
+1154,1399,1206,Real Estate  ==> Real Estate,2.2 BUSD,0.0 millions USD,,1128
+1155,2310,1207,Automotive  ==> automobiles,2.2 BUSD,0.0 millions USD,,1138
+1156,2390,1208,Sports  ==> sports team,2.1 BUSD,0.0 millions USD,,1192
+1157,4460,1209,"Diversified  ==> forestry, mining",2.1 BUSD,0.0 millions USD,,1312
+1158,2805,1210,Food and Beverage  ==> frozen foods,2.1 BUSD,0.0 millions USD,,1252
+1159,4100,1211,"Energy  ==> oil, gas",2.1 BUSD,0.0 millions USD,,1070
+1160,7946,1212,Finance and Investments  ==> investments,2.1 BUSD,0.0 millions USD,,1187
+1161,3173,1213,Food and Beverage  ==> soy sauce,2.1 BUSD,0.0 millions USD,,825
+1162,1374,1214,"Metals & Mining  ==> mining, metals",2.1 BUSD,0.0 millions USD,,1212
+1163,4879,1215,Real Estate  ==> hotels,2.1 BUSD,0.0 millions USD,,1011
+1164,3774,1216,Fashion & Retail  ==> hair care products,2.1 BUSD,0.0 millions USD,,1182
+1165,3228,1217,Media & Entertainment  ==> television,2.1 BUSD,0.0 millions USD,,1229
+1166,5851,1218,Real Estate  ==> hotels,2.1 BUSD,0.0 millions USD,,1248
+1167,8145,1219,Energy  ==> Getty Oil,2.1 BUSD,0.0 millions USD,,1157
+1168,8743,1220,Fashion & Retail  ==> retail stores,2.1 BUSD,0.0 millions USD,,1249
+1169,5952,1221,Diversified  ==> diversified,2.1 BUSD,0.0 millions USD,,1283
+1170,9849,1222,Finance and Investments  ==> private equity,2.1 BUSD,0.0 millions USD,,1139
+1171,1722,1223,Finance and Investments  ==> Investment,2.1 BUSD,0.0 millions USD,,1255
+1172,8426,1224,"Real Estate  ==> real estate, investments, logistics",2.1 BUSD,0.0 millions USD,,1162
+1173,8232,1225,Real Estate  ==> hotels,2.1 BUSD,0.0 millions USD,,1551
+1174,9599,1226,Real Estate  ==> real estate,2.1 BUSD,0.0 millions USD,,1242
+1175,7129,1227,Construction & Engineering  ==> construction,2.1 BUSD,0.0 millions USD,,1263
+1176,1103,1228,Food and Beverage  ==> soft drinks,2.1 BUSD,0.0 millions USD,,1123
+1177,2741,1229,Real Estate  ==> real estate,2.1 BUSD,0.0 millions USD,,1200
+1178,8747,1230,Real Estate  ==> real estate,2.1 BUSD,0.0 millions USD,,1213
+1179,6102,1231,Food and Beverage  ==> food processing,2.1 BUSD,0.0 millions USD,,1225
+1180,1566,1232,Manufacturing  ==> palm oil,2.1 BUSD,0.0 millions USD,,1136
+1181,5326,1233,Finance and Investments  ==> accounting services,2.1 BUSD,0.0 millions USD,,1175
+1182,2192,1234,Fashion & Retail  ==> drugstores,2.1 BUSD,0.0 millions USD,,1203
+1183,8163,1235,Manufacturing  ==> paper & related products,2.1 BUSD,0.0 millions USD,,1260
+1184,8485,1236,Healthcare  ==> medical devices,2.1 BUSD,0.0 millions USD,,1211
+1185,7059,1237,Food and Beverage  ==> nutrition supplements,2.1 BUSD,0.0 millions USD,,1214
+1186,2960,1238,Food and Beverage  ==> drugstores,2.1 BUSD,0.0 millions USD,,1232
+1187,7906,1239,Manufacturing  ==> valve manufacturing,2.1 BUSD,0.0 millions USD,,1239
+1188,1083,1240,Energy  ==> investments,2.1 BUSD,0.0 millions USD,,1181
+1189,1187,1241,Technology  ==> cooking appliances,2.1 BUSD,0.0 millions USD,,1208
+1190,7666,1242,Food and Beverage  ==> consumer goods,2.1 BUSD,0.0 millions USD,,1088
+1191,7617,1243,Logistics  ==> aircraft leasing,2.1 BUSD,0.0 millions USD,,1183
+1192,6037,1244,"Food and Beverage  ==> Dole, real estate",2.1 BUSD,0.0 millions USD,,1205
+1193,7284,1245,Technology  ==> software services,2.1 BUSD,0.0 millions USD,,1156
+1194,2244,1246,Technology  ==> software,2.1 BUSD,0.0 millions USD,,922
+1195,1182,1247,Real Estate  ==> real estate,2.1 BUSD,0.0 millions USD,,1143
+1196,4524,1248,Healthcare  ==> Roche Holding,2.1 BUSD,0.0 millions USD,,1194
+1197,7605,1249,Diversified  ==> diversified,2.1 BUSD,0.0 millions USD,,1279
+1198,6509,1250,Real Estate  ==> real estate,2.1 BUSD,0.0 millions USD,,1177
+1199,7022,1251,Metals & Mining  ==> commodities,2.1 BUSD,-0.243 millions USD,,1126
+1200,4403,1252,"Manufacturing  ==> manufacturing, investment",2.1 BUSD,-0.001 millions USD,,1206
+1201,5693,1253,Healthcare  ==> pharmaceuticals,2.1 BUSD,0.0 millions USD,,1164
+1202,4762,1254,Finance and Investments  ==> insurance,2.1 BUSD,0.0 millions USD,,1178
+1203,9778,1255,"Technology  ==> venture capital, Google",2.1 BUSD,-0.001 millions USD,,1145
+1204,6797,1256,Fashion & Retail  ==> cosmetics,2.1 BUSD,0.0 millions USD,,1250
+1205,9455,1257,Real Estate  ==> real estate,2.1 BUSD,0.0 millions USD,,1154
+1206,9389,1258,Real Estate  ==> real estate,2.1 BUSD,0.0 millions USD,,1196
+1207,1255,1259,"Finance and Investments  ==> real estate, investments",2.1 BUSD,0.0 millions USD,,1176
+1208,3275,1260,Real Estate  ==> real estate,2.1 BUSD,0.0 millions USD,,1174
+1209,2587,1261,Manufacturing  ==> furniture,2.1 BUSD,0.0 millions USD,,1297
+1210,6610,1262,"Media & Entertainment  ==> TV, movie production",2.1 BUSD,0.0 millions USD,,1344
+1211,5703,1263,Technology  ==> business software,2.1 BUSD,0.0 millions USD,,1055
+1212,2803,1264,Diversified  ==> conglomerate,2.1 BUSD,0.0 millions USD,,1188
+1213,6667,1265,Manufacturing  ==> solar panel materials,2.1 BUSD,0.0 millions USD,,1233
+1214,1045,1266,Diversified  ==> diversified,2.0 BUSD,0.0 millions USD,,1301
+1215,2612,1267,Food and Beverage  ==> Slim-Fast,2.0 BUSD,0.0 millions USD,,1204
+1216,8173,1268,Diversified  ==> pharmaceuticals,2.0 BUSD,0.0 millions USD,,1507
+1217,6558,1269,Energy  ==> oil & gas,2.0 BUSD,0.0 millions USD,,1287
+1218,5433,1270,Diversified  ==> investments,2.0 BUSD,0.0 millions USD,,1277
+1219,9092,1271,"Manufacturing  ==> metals, mining",2.0 BUSD,0.0 millions USD,,1296
+1220,3940,1272,Healthcare  ==> medical technology,2.0 BUSD,0.0 millions USD,,1265
+1221,6983,1273,Healthcare  ==> medical technology,2.0 BUSD,0.0 millions USD,,1266
+1222,1960,1274,Healthcare  ==> medical technology,2.0 BUSD,0.0 millions USD,,1267
+1223,7563,1275,"Finance and Investments  ==> supermarkets, investments",2.0 BUSD,0.0 millions USD,,1067
+1224,3106,1276,Food and Beverage  ==> consumer goods,2.0 BUSD,0.0 millions USD,,1146
+1225,7650,1277,Real Estate  ==> real estate,2.0 BUSD,0.0 millions USD,,1276
+1226,8200,1278,"Technology  ==> Netscape, investments",2.0 BUSD,0.001 millions USD,,1153
+1227,7208,1279,Energy  ==> coal,2.0 BUSD,0.0 millions USD,,1262
+1228,3143,1280,Food and Beverage  ==> Cargill,2.0 BUSD,0.0 millions USD,,1220
+1229,3031,1281,Healthcare  ==> pharmaceuticals,2.0 BUSD,0.0 millions USD,,799
+1230,1396,1282,Automotive  ==> auto parts,2.0 BUSD,0.0 millions USD,,1387
+1231,4897,1283,Finance and Investments  ==> hedge funds,2.0 BUSD,0.0 millions USD,,1219
+1232,3486,1284,Healthcare  ==> pharmaceuticals,2.0 BUSD,-0.001 millions USD,,1257
+1233,3357,1285,Finance and Investments  ==> insurance,2.0 BUSD,0.0 millions USD,,1452
+1234,8117,1286,Food and Beverage  ==> frozen foods,2.0 BUSD,-0.6809999999999999 millions USD,,1314
+1235,9104,1287,Finance and Investments  ==> insurance,2.0 BUSD,0.0 millions USD,,1170
+1236,6357,1288,Diversified  ==> banking,2.0 BUSD,0.0 millions USD,,1247
+1237,4738,1289,Fashion & Retail  ==> consumer goods,2.0 BUSD,0.0 millions USD,,1282
+1238,2535,1290,Healthcare  ==> pharmaceuticals,2.0 BUSD,0.0 millions USD,,895
+1239,3610,1291,Automotive  ==> auto distribution,2.0 BUSD,0.0 millions USD,,917
+1240,8555,1292,Healthcare  ==> pharmaceuticals,2.0 BUSD,0.0 millions USD,,1346
+1241,3316,1293,Finance and Investments  ==> private equity,2.0 BUSD,0.0 millions USD,,1258
+1242,8597,1294,Finance and Investments  ==> hedge funds,2.0 BUSD,0.0 millions USD,,1237
+1243,9424,1295,"Service  ==> computer services, tourism",2.0 BUSD,0.001 millions USD,,1339
+1244,9761,1296,"Diversified  ==> food products, entertainment",2.0 BUSD,0.0 millions USD,,1393
+1245,1931,1297,Construction & Engineering  ==> engineering,2.0 BUSD,0.0 millions USD,,1355
+1246,8151,1298,Healthcare  ==> biotech,2.0 BUSD,0.0 millions USD,,584
+1247,3510,1299,Diversified  ==> diversified,2.0 BUSD,0.0 millions USD,,1605
+1248,6521,1300,Energy  ==> natural gas distribution,2.0 BUSD,0.0 millions USD,,858
+1249,4252,1301,Sports  ==> Philadelphia Eagles,2.0 BUSD,0.0 millions USD,,1201
+1250,5480,1302,Healthcare  ==> pharmaceuticals,2.0 BUSD,-0.001 millions USD,,1098
+1251,2802,1303,Food and Beverage  ==> Cargill,2.0 BUSD,0.0 millions USD,,1223
+1252,5829,1304,Finance and Investments  ==> private equity,2.0 BUSD,0.001 millions USD,,1273
+1253,8689,1305,Real Estate  ==> real estate,2.0 BUSD,0.0 millions USD,,1270
+1254,8802,1306,Automotive  ==> tractors,2.0 BUSD,0.0 millions USD,,1427
+1255,5386,1307,Fashion & Retail  ==> shoes,2.0 BUSD,0.0 millions USD,,1326
+1256,6351,1308,"Food and Beverage  ==> agriculture, land",2.0 BUSD,0.001 millions USD,,1179
+1257,2367,1309,Real Estate  ==> real estate,2.0 BUSD,0.0 millions USD,,1525
+1258,2818,1310,Finance and Investments  ==> private equity,2.0 BUSD,0.0 millions USD,,1361
+1259,3331,1311,Construction & Engineering  ==> construction,2.0 BUSD,0.0 millions USD,,1115
+1260,1771,1312,Finance and Investments  ==> motorcycle loans,2.0 BUSD,-0.001 millions USD,,1477
+1261,4891,1313,Finance and Investments  ==> investments,2.0 BUSD,nan millions USD,,1477
+1262,7292,1314,Automotive  ==> tires,2.0 BUSD,0.0 millions USD,,1308
+1263,2472,1315,Diversified  ==> diversified,2.0 BUSD,0.0 millions USD,,1398
+1264,9258,1316,Telecom  ==> telecom equipment,2.0 BUSD,0.0 millions USD,,1702
+1265,2568,1317,Finance and Investments  ==> finance,2.0 BUSD,0.0 millions USD,,1235
+1266,6713,1318,"Manufacturing  ==> steel, autoparts",2.0 BUSD,0.0 millions USD,,1159
+1267,2909,1319,Food and Beverage  ==> energy drinks,2.0 BUSD,-31.543000000000003 millions USD,,1357
+1268,5608,1320,Food and Beverage  ==> energy drinks,2.0 BUSD,-18.864 millions USD,,1335
+1269,7950,1321,Finance and Investments  ==> investments,2.0 BUSD,0.0 millions USD,,1236
+1270,2940,1322,Food and Beverage  ==> Cargill,2.0 BUSD,0.0 millions USD,,1222
+1271,5905,1323,"Real Estate  ==> utilities, real estate",2.0 BUSD,0.0 millions USD,,1429
+1272,9053,1324,Fashion & Retail  ==> cosmetics,2.0 BUSD,0.0 millions USD,,1044
+1273,8957,1325,Food and Beverage  ==> Cargill,2.0 BUSD,0.0 millions USD,,1221
+1274,4758,1326,"Energy  ==> oil & gas, investments",2.0 BUSD,0.0 millions USD,,1075
+1275,8262,1327,Manufacturing  ==> hydraulic machinery,2.0 BUSD,0.0 millions USD,,1227
+1276,4127,1328,Manufacturing  ==> tires,2.0 BUSD,0.0 millions USD,,1428
+1277,7436,1329,Real Estate  ==> real estate,2.0 BUSD,0.0 millions USD,,1610
+1278,8361,1330,Healthcare  ==> medical equipment,2.0 BUSD,0.0 millions USD,,1259
+1279,4367,1331,Gambling & Casinos  ==> video games,2.0 BUSD,0.0 millions USD,,1240
+1280,2352,1332,"Telecom  ==> telecom, investments",2.0 BUSD,0.0 millions USD,,1544
+1281,9595,1333,Media & Entertainment  ==> Bloomberg LP,2.0 BUSD,0.0 millions USD,,1124
+1282,5342,1334,Healthcare  ==> pharmaceuticals,2.0 BUSD,0.0 millions USD,,1224
+1283,1365,1335,Diversified  ==> diversified,1.9 BUSD,5.485 millions USD,,1281
+1284,6593,1336,"Diversified  ==> engineering, energy, construction",1.9 BUSD,0.001 millions USD,,1600
+1285,7789,1337,Manufacturing  ==> chemicals,1.9 BUSD,0.0 millions USD,,1353
+1286,6280,1338,Manufacturing  ==> fasteners,1.9 BUSD,0.0 millions USD,,1328
+1287,2306,1339,Fashion & Retail  ==> retail,1.9 BUSD,0.0 millions USD,,1369
+1288,7239,1340,Logistics  ==> shipping,1.9 BUSD,0.0 millions USD,,1330
+1289,2961,1341,Diversified  ==> diversified,1.9 BUSD,0.0 millions USD,,1358
+1290,7010,1342,Healthcare  ==> pharmaceuticals,1.9 BUSD,0.0 millions USD,,1251
+1291,9973,1343,Finance and Investments  ==> banking,1.9 BUSD,0.0 millions USD,,1363
+1292,2703,1344,Finance and Investments  ==> hedge funds,1.9 BUSD,0.0 millions USD,,1171
+1293,9137,1345,Manufacturing  ==> aviation,1.9 BUSD,0.0 millions USD,,1072
+1294,4166,1346,Fashion & Retail  ==> fashion retail,1.9 BUSD,0.0 millions USD,,1421
+1295,2145,1347,Finance and Investments  ==> investments,1.9 BUSD,0.0 millions USD,,989
+1296,7455,1348,Finance and Investments  ==> investments,1.9 BUSD,0.0 millions USD,,1318
+1297,1422,1349,"Real Estate  ==> real estate, education",1.9 BUSD,0.0 millions USD,,1400
+1298,9660,1350,Automotive  ==> automotive,1.9 BUSD,0.0 millions USD,,1298
+1299,7530,1351,Finance and Investments  ==> banking,1.9 BUSD,0.0 millions USD,,1311
+1300,7293,1352,"Manufacturing  ==> vacuums, cleaning products",1.9 BUSD,0.0 millions USD,,1572
+1301,3514,1353,Fashion & Retail  ==> fashion retail,1.9 BUSD,0.0 millions USD,,1422
+1302,6256,1354,Fashion & Retail  ==> retail,1.9 BUSD,0.0 millions USD,,1190
+1303,9743,1355,"Diversified  ==> computer services, tourism",1.9 BUSD,0.001 millions USD,,1418
+1304,5936,1356,Metals & Mining  ==> cobalt mining,1.9 BUSD,0.0 millions USD,,1774
+1305,1942,1357,Manufacturing  ==> petrochemicals,1.9 BUSD,0.0 millions USD,,1215
+1306,1390,1358,Manufacturing  ==> petrochemicals,1.9 BUSD,0.0 millions USD,,1216
+1307,9025,1359,Diversified  ==> diversified,1.9 BUSD,-0.268 millions USD,,1268
+1308,4792,1360,Fashion & Retail  ==> art collection,1.9 BUSD,0.0 millions USD,,1325
+1309,2268,1361,"Finance and Investments  ==> metals, banking, fertilizers",1.9 BUSD,0.0 millions USD,,1347
+1310,8678,1362,Technology  ==> software services,1.9 BUSD,0.0 millions USD,,1307
+1311,2074,1363,Service  ==> education,1.9 BUSD,0.0 millions USD,,1323
+1312,8696,1364,Finance and Investments  ==> mutual funds,1.9 BUSD,0.0 millions USD,,1382
+1313,5614,1365,"Service  ==> hotels, investments",1.9 BUSD,0.0 millions USD,,1272
+1314,5543,1366,Manufacturing  ==> hand tools,1.9 BUSD,0.0 millions USD,,1395
+1315,1631,1367,Finance and Investments  ==> investments,1.9 BUSD,-0.7170000000000001 millions USD,,1491
+1316,7408,1368,Diversified  ==> processed milk,1.9 BUSD,0.0 millions USD,,1515
+1317,5903,1369,Fashion & Retail  ==> sports apparel,1.9 BUSD,307.971 millions USD,,1184
+1318,5369,1370,Fashion & Retail  ==> winter jackets,1.9 BUSD,0.0 millions USD,,938
+1319,8158,1371,Real Estate  ==> real estate,1.9 BUSD,0.0 millions USD,,1253
+1320,8918,1372,Finance and Investments  ==> investments,1.9 BUSD,0.0 millions USD,,1329
+1321,7924,1373,Technology  ==> software,1.9 BUSD,0.0 millions USD,,1077
+1322,9162,1374,Manufacturing  ==> petrochemicals,1.9 BUSD,0.0 millions USD,,1217
+1323,4053,1375,Fashion & Retail  ==> drugstores,1.9 BUSD,0.0 millions USD,,1082
+1324,8575,1376,Metals & Mining  ==> steel smelting,1.9 BUSD,0.0 millions USD,,1340
+1325,4980,1377,Technology  ==> Twitter,1.9 BUSD,0.0 millions USD,,1047
+1326,2358,1378,Food and Beverage  ==> fish farming,1.9 BUSD,0.0 millions USD,,945
+1327,2644,1379,Fashion & Retail  ==> footwear,1.9 BUSD,0.0 millions USD,,1406
+1328,3604,1380,Diversified  ==> fertilizer,1.9 BUSD,0.001 millions USD,,1604
+1329,5213,1381,Finance and Investments  ==> investments,1.9 BUSD,0.0 millions USD,,1313
+1330,5226,1382,Technology  ==> software,1.9 BUSD,0.0 millions USD,,1230
+1331,1409,1383,"Fashion & Retail  ==> retail, investments",1.9 BUSD,0.001 millions USD,,1456
+1332,2205,1384,Energy  ==> batteries,1.9 BUSD,0.0 millions USD,,1292
+1333,4255,1385,Diversified  ==> valves,1.9 BUSD,0.0 millions USD,,1286
+1334,2315,1386,Fashion & Retail  ==> supermarket,1.9 BUSD,0.0 millions USD,,1567
+1335,3513,1387,Diversified  ==> investments,1.9 BUSD,0.001 millions USD,,1303
+1336,8356,1388,Real Estate  ==> real estate,1.9 BUSD,0.0 millions USD,,1331
+1337,5918,1389,"Manufacturing  ==> vacuums, home cleaning products",1.9 BUSD,0.0 millions USD,,1573
+1338,3416,1390,Fashion & Retail  ==> real estate,1.8 BUSD,0.0 millions USD,,1432
+1339,3902,1391,Real Estate  ==> real estate,1.8 BUSD,0.0 millions USD,,1261
+1340,3462,1392,Healthcare  ==> pharmaceuticals,1.8 BUSD,0.0 millions USD,,1134
+1341,7769,1393,"Metals & Mining  ==> mining, commodities",1.8 BUSD,-0.213 millions USD,,1320
+1342,7592,1394,Finance and Investments  ==> investments,1.8 BUSD,0.0 millions USD,,1370
+1343,1727,1395,Energy  ==> oil,1.8 BUSD,0.0 millions USD,,1440
+1344,7699,1396,Finance and Investments  ==> banking,1.8 BUSD,0.0 millions USD,,1376
+1345,6894,1397,Healthcare  ==> medical technology,1.8 BUSD,0.0 millions USD,,1448
+1346,5840,1398,Healthcare  ==> medical technology,1.8 BUSD,0.0 millions USD,,1449
+1347,1810,1399,Healthcare  ==> medical technology,1.8 BUSD,0.0 millions USD,,1450
+1348,3501,1400,Food and Beverage  ==> consumer goods,1.8 BUSD,0.0 millions USD,,1284
+1349,9549,1401,Finance and Investments  ==> asset management,1.8 BUSD,0.0 millions USD,,1410
+1350,2235,1402,Manufacturing  ==> chemicals,1.8 BUSD,0.001 millions USD,,1332
+1351,2889,1403,Manufacturing  ==> paper manufacturing,1.8 BUSD,0.0 millions USD,,1337
+1352,7042,1404,"Manufacturing  ==> shipbuilding, industrial machines",1.8 BUSD,0.0 millions USD,,1848
+1353,6083,1405,Food and Beverage  ==> fast food,1.8 BUSD,-0.001 millions USD,,1334
+1354,2718,1406,Manufacturing  ==> electric components,1.8 BUSD,0.0 millions USD,,1505
+1355,6547,1407,Manufacturing  ==> shipbuilding,1.8 BUSD,0.0 millions USD,,1521
+1356,4931,1408,Fashion & Retail  ==> shoes,1.8 BUSD,-0.001 millions USD,,1476
+1357,3630,1409,"Diversified  ==> energy, chemicals",1.8 BUSD,0.0 millions USD,,1356
+1358,6445,1410,Energy  ==> oil & gas,1.8 BUSD,-1.14 millions USD,,1481
+1359,2418,1411,Service  ==> hotels,1.8 BUSD,0.0 millions USD,,1291
+1360,6790,1412,Construction & Engineering  ==> construction,1.8 BUSD,0.0 millions USD,,1475
+1361,1986,1413,"Sports  ==> Nascar, racing",1.8 BUSD,0.0 millions USD,,1351
+1362,1864,1414,Technology  ==> software services,1.8 BUSD,0.0 millions USD,,1295
+1363,2026,1415,Finance and Investments  ==> finance,1.8 BUSD,0.0 millions USD,,1374
+1364,7997,1416,Finance and Investments  ==> Berkshire Hathaway,1.8 BUSD,0.0 millions USD,,1373
+1365,3568,1417,Real Estate  ==> real estate,1.8 BUSD,0.001 millions USD,,1725
+1366,5153,1418,Finance and Investments  ==> investments,1.8 BUSD,-0.001 millions USD,,1345
+1367,4037,1419,Healthcare  ==> healthcare,1.8 BUSD,-0.177 millions USD,,1716
+1368,9665,1420,Fashion & Retail  ==> Estee Lauder,1.8 BUSD,0.0 millions USD,,1234
+1369,7279,1421,Healthcare  ==> pharmaceuticals,1.8 BUSD,-0.001 millions USD,,1245
+1370,8831,1422,Healthcare  ==> medical devices,1.8 BUSD,-2.4290000000000003 millions USD,,1434
+1371,3000,1423,Technology  ==> software,1.8 BUSD,0.0 millions USD,,1246
+1372,1504,1424,Energy  ==> oil & gas,1.8 BUSD,0.0 millions USD,,1463
+1373,2853,1425,"Service  ==> hotels, investments",1.8 BUSD,0.0 millions USD,,1372
+1374,4692,1426,Media & Entertainment  ==> movie theaters,1.8 BUSD,0.0 millions USD,,1483
+1375,7671,1427,Finance and Investments  ==> finance,1.8 BUSD,0.0 millions USD,,1293
+1376,1505,1428,Service  ==> Comcast,1.8 BUSD,0.002 millions USD,,1471
+1377,5459,1429,Healthcare  ==> pharmaceuticals,1.8 BUSD,0.0 millions USD,,1615
+1378,3459,1430,Finance and Investments  ==> finance,1.8 BUSD,0.0 millions USD,,1411
+1379,2093,1431,Finance and Investments  ==> investments,1.8 BUSD,0.0 millions USD,,1341
+1380,1937,1432,Technology  ==> software,1.8 BUSD,0.0 millions USD,,1241
+1381,6630,1433,Service  ==> hotels,1.8 BUSD,0.0 millions USD,,1365
+1382,7513,1434,Automotive  ==> auto parts,1.8 BUSD,0.0 millions USD,,1533
+1383,2182,1435,Automotive  ==> auto parts,1.8 BUSD,0.0 millions USD,,1534
+1384,2036,1436,Manufacturing  ==> metals. coal,1.8 BUSD,0.0 millions USD,,1522
+1385,6204,1437,Automotive  ==> automotive,1.8 BUSD,0.0 millions USD,,1390
+1386,6253,1438,Food and Beverage  ==> greek yogurt,1.8 BUSD,0.0 millions USD,,1384
+1387,8884,1439,Manufacturing  ==> building materials,1.8 BUSD,0.0 millions USD,,1352
+1388,8742,1440,Healthcare  ==> pharmaceuticals,1.8 BUSD,0.0 millions USD,,925
+1389,3421,1441,Healthcare  ==> medical devices,1.8 BUSD,0.0 millions USD,,1409
+1390,2174,1442,Real Estate  ==> real estate,1.8 BUSD,0.0 millions USD,,1161
+1391,1679,1443,Food and Beverage  ==> beverages,1.8 BUSD,0.0 millions USD,,1271
+1392,9199,1444,Real Estate  ==> real estate,1.8 BUSD,0.0 millions USD,,1359
+1393,9226,1445,Real Estate  ==> real estate,1.7 BUSD,0.0 millions USD,,1447
+1394,6974,1446,Finance and Investments  ==> investment banking,1.7 BUSD,0.0 millions USD,,1419
+1395,3781,1447,Finance and Investments  ==> security,1.7 BUSD,3.253 millions USD,,1417
+1396,5082,1448,"Finance and Investments  ==> banking, development",1.7 BUSD,0.0 millions USD,,1527
+1397,3586,1449,Media & Entertainment  ==> TV broadcasting,1.7 BUSD,0.0 millions USD,,1468
+1398,7832,1450,Diversified  ==> diversified,1.7 BUSD,0.0 millions USD,,1541
+1399,3851,1451,Real Estate  ==> real estate,1.7 BUSD,0.0 millions USD,,1464
+1400,9503,1452,Metals & Mining  ==> mining,1.7 BUSD,0.0 millions USD,,1416
+1401,4466,1453,Automotive  ==> auto parts,1.7 BUSD,0.0 millions USD,,1547
+1402,2014,1454,Healthcare  ==> medical technology,1.7 BUSD,0.0 millions USD,,1489
+1403,6425,1455,Fashion & Retail  ==> luxury goods,1.7 BUSD,0.0 millions USD,,1364
+1404,8722,1456,Fashion & Retail  ==> luxury goods,1.7 BUSD,0.0 millions USD,,1310
+1405,8368,1457,Logistics  ==> package delivery,1.7 BUSD,0.0 millions USD,,1855
+1406,7943,1458,Technology  ==> eletronics,1.7 BUSD,0.0 millions USD,,1226
+1407,2660,1459,Healthcare  ==> pharmaceuticals,1.7 BUSD,0.0 millions USD,,1343
+1408,8238,1460,Food and Beverage  ==> meat processing,1.7 BUSD,0.0 millions USD,,1401
+1409,3001,1461,Gambling & Casinos  ==> casinos,1.7 BUSD,0.0 millions USD,,1503
+1410,7451,1462,Fashion & Retail  ==> fashion retail,1.7 BUSD,0.0 millions USD,,1682
+1411,4724,1463,Fashion & Retail  ==> luxury goods,1.7 BUSD,0.0 millions USD,,1552
+1412,4476,1464,Technology  ==> messaging app,1.7 BUSD,0.0 millions USD,,1426
+1413,8202,1465,Manufacturing  ==> chemicals,1.7 BUSD,-0.068 millions USD,,1457
+1414,6643,1466,Service  ==> Gap,1.7 BUSD,0.0 millions USD,,1386
+1415,1568,1467,Fashion & Retail  ==> Gap,1.7 BUSD,0.0 millions USD,,1362
+1416,3827,1468,Fashion & Retail  ==> luxury goods,1.7 BUSD,0.0 millions USD,,1528
+1417,8669,1469,Finance and Investments  ==> insurance,1.7 BUSD,0.0 millions USD,,1462
+1418,7273,1470,Technology  ==> information technology,1.7 BUSD,0.0 millions USD,,1289
+1419,5990,1471,Real Estate  ==> real estate,1.7 BUSD,0.0 millions USD,,1470
+1420,8503,1472,"Diversified  ==> tourism, construction",1.7 BUSD,0.0 millions USD,,1659
+1421,1586,1473,Healthcare  ==> pharmaceuticals,1.7 BUSD,0.0 millions USD,,1526
+1422,5094,1474,Fashion & Retail  ==> retail,1.7 BUSD,0.0 millions USD,,1693
+1423,3692,1475,"Energy  ==> oil & gas, investments",1.7 BUSD,0.0 millions USD,,1391
+1424,3007,1476,Real Estate  ==> real estate,1.7 BUSD,0.0 millions USD,,1451
+1425,8126,1477,Energy  ==> coal,1.7 BUSD,0.0 millions USD,,1472
+1426,3632,1478,Manufacturing  ==> chemicals,1.7 BUSD,0.0 millions USD,,1601
+1427,8818,1479,Automotive  ==> auto parts,1.7 BUSD,0.0 millions USD,,1585
+1428,2876,1480,Metals & Mining  ==> coal,1.7 BUSD,0.0 millions USD,,1306
+1429,9775,1481,Diversified  ==> diversified,1.7 BUSD,0.0 millions USD,,1486
+1430,2330,1482,"Energy  ==> oil, investments",1.7 BUSD,0.0 millions USD,,1402
+1431,2968,1483,Diversified  ==> manufacturing,1.7 BUSD,0.0 millions USD,,1460
+1432,8993,1484,Finance and Investments  ==> hedge funds,1.7 BUSD,0.0 millions USD,,1436
+1433,8107,1485,Manufacturing  ==> machine tools,1.7 BUSD,0.0 millions USD,,1562
+1434,6076,1486,Manufacturing  ==> machine tools,1.7 BUSD,0.0 millions USD,,1563
+1435,4924,1487,Manufacturing  ==> construction equipment,1.7 BUSD,0.0 millions USD,,1264
+1436,6474,1488,Real Estate  ==> real estate,1.7 BUSD,0.0 millions USD,,1424
+1437,6924,1489,Energy  ==> oil trading,1.7 BUSD,0.0 millions USD,,1469
+1438,7998,1490,Manufacturing  ==> paper manufacturing,1.7 BUSD,0.0 millions USD,,1397
+1439,7438,1491,Manufacturing  ==> LED lighting,1.7 BUSD,0.0 millions USD,,1280
+1440,9111,1492,"Food and Beverage  ==> coffee, shipping",1.7 BUSD,0.0 millions USD,,1487
+1441,3492,1493,Automotive  ==> automobiles,1.7 BUSD,0.0 millions USD,,1254
+1442,6727,1494,Food and Beverage  ==> consumer goods,1.7 BUSD,0.0 millions USD,,1336
+1443,9456,1495,Telecom  ==> telecom,1.7 BUSD,0.0 millions USD,,1385
+1444,1906,1496,Real Estate  ==> WeWork,1.7 BUSD,0.0 millions USD,,1404
+1445,3060,1497,Sports  ==> wrestling,1.7 BUSD,0.0 millions USD,,871
+1446,7407,1498,Manufacturing  ==> manufacturing,1.7 BUSD,0.0 millions USD,,1317
+1447,8573,1499,Healthcare  ==> medical patents,1.7 BUSD,0.0 millions USD,,1425
+1448,6706,1500,Energy  ==> oil refinery,1.7 BUSD,0.0 millions USD,,1379
+1449,4930,1501,Diversified  ==> diversified,1.7 BUSD,0.0 millions USD,,1420
+1450,6966,1502,Logistics  ==> Transportation,1.7 BUSD,0.0 millions USD,,1603
+1451,5351,1503,Finance and Investments  ==> Berkshire Hathaway,1.7 BUSD,0.0 millions USD,,1459
+1452,1835,1504,Finance and Investments  ==> investment,1.7 BUSD,0.0 millions USD,,1635
+1453,3785,1505,Real Estate  ==> real estate,1.7 BUSD,0.0 millions USD,,1342
+1454,4593,1506,Diversified  ==> diversified,1.7 BUSD,0.0 millions USD,,1540
+1455,8496,1507,Real Estate  ==> real estate,1.7 BUSD,0.0 millions USD,,1438
+1456,9553,1508,Manufacturing  ==> sneakers,1.7 BUSD,0.0 millions USD,,914
+1457,9316,1509,Finance and Investments  ==> investments,1.7 BUSD,0.0 millions USD,,1433
+1458,5253,1510,Automotive  ==> cars,1.7 BUSD,0.0 millions USD,,1319
+1459,8972,1511,Real Estate  ==> real estate,1.7 BUSD,0.001 millions USD,,1785
+1460,7458,1512,Technology  ==> financial information,1.7 BUSD,0.0 millions USD,,1309
+1461,6732,1513,Diversified  ==> diversified,1.7 BUSD,0.0 millions USD,,1566
+1462,7519,1514,Metals & Mining  ==> steel,1.7 BUSD,0.0 millions USD,,1367
+1463,5155,1515,Service  ==> financial technology,1.7 BUSD,0.0 millions USD,,1407
+1464,5515,1516,"Metals & Mining  ==> gold, coal mining",1.7 BUSD,0.0 millions USD,,1445
+1465,4650,1517,Finance and Investments  ==> hedge funds,1.7 BUSD,0.0 millions USD,,1403
+1466,7788,1518,Real Estate  ==> investments,1.7 BUSD,-0.001 millions USD,,1348
+1467,1278,1519,Fashion & Retail  ==> pet food,1.7 BUSD,0.0 millions USD,,1538
+1468,1938,1520,"Logistics  ==> transport, engineering, real estate",1.7 BUSD,0.0 millions USD,,1482
+1469,8379,1521,Media & Entertainment  ==> online media,1.7 BUSD,0.0 millions USD,,1437
+1470,4805,1522,Real Estate  ==> real estate,1.7 BUSD,0.0 millions USD,,1444
+1471,5030,1523,Manufacturing  ==> electrical equipment,1.7 BUSD,0.0 millions USD,,1413
+1472,3690,1524,Real Estate  ==> real estate,1.7 BUSD,-0.179 millions USD,,1488
+1473,6698,1525,Healthcare  ==> medical equipment,1.7 BUSD,0.0 millions USD,,1360
+1474,8794,1526,"Diversified  ==> food, art",1.7 BUSD,0.0 millions USD,,1710
+1475,5916,1527,Logistics  ==> logistics,1.7 BUSD,0.0 millions USD,,1576
+1476,7342,1528,Technology  ==> internet security,1.6 BUSD,0.0 millions USD,,1500
+1477,4910,1529,Fashion & Retail  ==> consumer goods,1.6 BUSD,0.001 millions USD,,1597
+1478,4121,1530,"Fashion & Retail  ==> retail, investments",1.6 BUSD,0.0 millions USD,,1497
+1479,1199,1531,"Diversified  ==> hotels, diversified",1.6 BUSD,-5.19 millions USD,,1435
+1480,9391,1532,Manufacturing  ==> hearing aids,1.6 BUSD,0.0 millions USD,,1430
+1481,9081,1533,Finance and Investments  ==> hedge funds,1.6 BUSD,0.0 millions USD,,1499
+1482,2285,1534,Manufacturing  ==> air coolers,1.6 BUSD,0.0 millions USD,,1701
+1483,3477,1535,"Finance and Investments  ==> banking, insurance",1.6 BUSD,0.0 millions USD,,1575
+1484,9929,1536,Finance and Investments  ==> insurance,1.6 BUSD,0.0 millions USD,,1405
+1485,9873,1537,Technology  ==> business software,1.6 BUSD,0.0 millions USD,,1399
+1486,9738,1538,Finance and Investments  ==> hedge funds,1.6 BUSD,0.0 millions USD,,1501
+1487,8270,1539,"Diversified  ==> real estate, manufacturing",1.6 BUSD,0.0 millions USD,,1510
+1488,4518,1540,Finance and Investments  ==> mutual funds,1.6 BUSD,0.0 millions USD,,1502
+1489,2261,1541,Technology  ==> photo sharing app,1.6 BUSD,0.0 millions USD,,1839
+1490,6782,1542,"Diversified  ==> energy, banking, construction",1.6 BUSD,0.0 millions USD,,1722
+1491,5864,1543,Fashion & Retail  ==> retail,1.6 BUSD,0.0 millions USD,,1906
+1492,4199,1544,Logistics  ==> package delivery,1.6 BUSD,0.0 millions USD,,1968
+1493,2521,1545,Finance and Investments  ==> finance,1.6 BUSD,0.0 millions USD,,1768
+1494,9902,1546,Diversified  ==> diversified,1.6 BUSD,0.0 millions USD,,1782
+1495,1756,1547,Technology  ==> online retail,1.6 BUSD,0.0 millions USD,,1209
+1496,1408,1548,Fashion & Retail  ==> retail,1.6 BUSD,0.0 millions USD,,1625
+1497,5040,1549,Finance and Investments  ==> electronic trading,1.6 BUSD,0.0 millions USD,,1590
+1498,3652,1550,Energy  ==> oil services,1.6 BUSD,0.0 millions USD,,1530
+1499,8699,1551,Finance and Investments  ==> private equity,1.6 BUSD,0.0 millions USD,,1529
+1500,7308,1552,Energy  ==> oil refining,1.6 BUSD,0.0 millions USD,,1315
+1501,7571,1553,Finance and Investments  ==> money management,1.6 BUSD,0.0 millions USD,,1392
+1502,7069,1554,Technology  ==> e-commerce,1.6 BUSD,0.0 millions USD,,1703
+1503,7398,1555,Fashion & Retail  ==> consumer goods,1.6 BUSD,0.001 millions USD,,1598
+1504,2566,1556,Food and Beverage  ==> salsa,1.6 BUSD,0.0 millions USD,,1511
+1505,4179,1557,Service  ==> EasyJet,1.6 BUSD,0.0 millions USD,,1474
+1506,1477,1558,"Manufacturing  ==> elevators, escalators",1.6 BUSD,0.0 millions USD,,1520
+1507,6331,1559,Finance and Investments  ==> hedge funds,1.6 BUSD,0.0 millions USD,,1498
+1508,1106,1560,Finance and Investments  ==> money management,1.6 BUSD,-0.156 millions USD,,1545
+1509,4934,1561,"Sports  ==> Charlotte Hornets, endorsements",1.6 BUSD,0.0 millions USD,,1458
+1510,5709,1562,Technology  ==> social network,1.6 BUSD,0.0 millions USD,,2113
+1511,6170,1563,Gambling & Casinos  ==> online games,1.6 BUSD,0.0 millions USD,,1568
+1512,2226,1564,Finance and Investments  ==> Sears,1.6 BUSD,0.0 millions USD,,1350
+1513,4486,1565,Fashion & Retail  ==> department stores,1.6 BUSD,0.0 millions USD,,1037
+1514,2866,1566,Technology  ==> IT provider,1.6 BUSD,0.0 millions USD,,1238
+1515,3059,1567,Healthcare  ==> pharmaceuticals,1.6 BUSD,0.0 millions USD,,1478
+1516,2800,1568,Healthcare  ==> pharmaceuticals,1.6 BUSD,-0.001 millions USD,,1189
+1517,9269,1569,"Diversified  ==> steel, diversified",1.6 BUSD,0.0 millions USD,,1324
+1518,5014,1570,Food and Beverage  ==> agribusiness,1.6 BUSD,0.001 millions USD,,1788
+1519,4430,1571,Fashion & Retail  ==> fashion,1.6 BUSD,0.0 millions USD,,1593
+1520,3926,1572,"Diversified  ==> real estate, oil, cars, sports",1.6 BUSD,0.0 millions USD,,1453
+1521,1690,1573,Energy  ==> oil refinery,1.6 BUSD,nan millions USD,,1453
+1522,1570,1574,Logistics  ==> transportation,1.6 BUSD,0.0 millions USD,,1388
+1523,1808,1575,Service  ==> fine jewelry,1.6 BUSD,0.0 millions USD,,1506
+1524,9414,1576,Technology  ==> software,1.6 BUSD,0.0 millions USD,,1509
+1525,2487,1577,Manufacturing  ==> appliances,1.6 BUSD,0.0 millions USD,,1666
+1526,2029,1578,Finance and Investments  ==> investments,1.6 BUSD,0.0 millions USD,,1685
+1527,1167,1579,Fashion & Retail  ==> H&M,1.6 BUSD,0.0 millions USD,,1654
+1528,6991,1580,Fashion & Retail  ==> H&M,1.6 BUSD,-0.001 millions USD,,1656
+1529,5510,1581,Metals & Mining  ==> steel pipes,1.6 BUSD,0.0 millions USD,,1558
+1530,1596,1582,Manufacturing  ==> chemicals,1.6 BUSD,0.0 millions USD,,1415
+1531,4074,1583,Finance and Investments  ==> finance,1.6 BUSD,0.0 millions USD,,1461
+1532,1453,1584,Technology  ==> Facebook,1.6 BUSD,-0.001 millions USD,,1531
+1533,6399,1585,Technology  ==> online retail,1.6 BUSD,0.0 millions USD,,1210
+1534,8685,1586,Healthcare  ==> Pharmaceuticals,1.6 BUSD,0.0 millions USD,,2087
+1535,3391,1587,Technology  ==> Pinterest,1.6 BUSD,0.0 millions USD,,1516
+1536,7923,1588,Fashion & Retail  ==> H&M,1.6 BUSD,0.0 millions USD,,1657
+1537,1621,1589,Finance and Investments  ==> hedge funds,1.6 BUSD,0.0 millions USD,,1485
+1538,4264,1590,"Energy  ==> oil, fertilizers",1.6 BUSD,0.0 millions USD,,1835
+1539,1529,1591,Telecom  ==> telecoms,1.6 BUSD,0.0 millions USD,,1806
+1540,9718,1592,Manufacturing  ==> chemicals,1.6 BUSD,0.0 millions USD,,1550
+1541,8697,1593,Technology  ==> lighting,1.6 BUSD,0.0 millions USD,,1327
+1542,2779,1594,Food and Beverage  ==> Campbell Soup,1.6 BUSD,0.0 millions USD,,1587
+1543,6787,1595,"Food and Beverage  ==> food, beverages",1.6 BUSD,0.0 millions USD,,1423
+1544,4592,1596,"Food and Beverage  ==> food, beverages",1.6 BUSD,0.0 millions USD,,1368
+1545,8912,1597,"Food and Beverage  ==> food, beverages",1.6 BUSD,0.0 millions USD,,1371
+1546,8070,1598,"Food and Beverage  ==> food, beverages",1.6 BUSD,0.0 millions USD,,1389
+1547,4495,1599,Technology  ==> software,1.6 BUSD,0.0 millions USD,,1305
+1548,8612,1600,Manufacturing  ==> electronics,1.6 BUSD,0.001 millions USD,,1644
+1549,1441,1601,Fashion & Retail  ==> retail,1.6 BUSD,0.001 millions USD,,1646
+1550,8521,1602,Automotive  ==> auto parts,1.6 BUSD,0.0 millions USD,,1591
+1551,6771,1603,Real Estate  ==> real estate,1.6 BUSD,0.0 millions USD,,1565
+1552,2050,1604,"Diversified  ==> internet, auto parts",1.6 BUSD,nan millions USD,,1565
+1553,9890,1605,Finance and Investments  ==> banking,1.6 BUSD,0.0 millions USD,,1622
+1554,2179,1606,"Diversified  ==> real estate, retail",1.6 BUSD,0.001 millions USD,,1490
+1555,7976,1607,Healthcare  ==> health clinics,1.6 BUSD,0.001 millions USD,,1186
+1556,7635,1608,Metals & Mining  ==> mining,1.6 BUSD,0.0 millions USD,,1794
+1557,8284,1609,Fashion & Retail  ==> fashion retail,1.6 BUSD,0.0 millions USD,,1548
+1558,1856,1610,"Diversified  ==> apparel, real estate",1.6 BUSD,0.0 millions USD,,1467
+1559,1305,1611,Manufacturing  ==> polyester,1.6 BUSD,0.0 millions USD,,2018
+1560,9972,1612,Finance and Investments  ==> investments,1.5 BUSD,0.0 millions USD,,1853
+1561,8988,1613,"Diversified  ==> hospitals, investments",1.5 BUSD,0.0 millions USD,,1484
+1562,4726,1614,Energy  ==> oil,1.5 BUSD,0.0 millions USD,,1496
+1563,9089,1615,Fashion & Retail  ==> shoes,1.5 BUSD,0.0 millions USD,,1512
+1564,1677,1616,Fashion & Retail  ==> shoes,1.5 BUSD,0.0 millions USD,,1519
+1565,9988,1617,Fashion & Retail  ==> shoes,1.5 BUSD,0.0 millions USD,,1513
+1566,1141,1618,Fashion & Retail  ==> jewelry,1.5 BUSD,0.0 millions USD,,1653
+1567,5547,1619,Technology  ==> online dating,1.5 BUSD,0.0 millions USD,,1537
+1568,1173,1620,Food and Beverage  ==> Publix supermarkets,1.5 BUSD,0.0 millions USD,,1542
+1569,2668,1621,Diversified  ==> diversified,1.5 BUSD,0.0 millions USD,,1606
+1570,7801,1622,"Diversified  ==> mining, banking",1.5 BUSD,0.0 millions USD,,1539
+1571,8312,1623,Diversified  ==> diversified,1.5 BUSD,0.0 millions USD,,1543
+1572,4821,1624,Healthcare  ==> pharmaceuticals,1.5 BUSD,0.0 millions USD,,2006
+1573,1544,1625,Telecom  ==> communications equipment,1.5 BUSD,0.001 millions USD,,2101
+1574,5763,1626,Media & Entertainment  ==> publishing,1.5 BUSD,0.0 millions USD,,1637
+1575,7179,1627,Diversified  ==> diversified,1.5 BUSD,0.0 millions USD,,1555
+1576,8659,1628,Diversified  ==> investments,1.5 BUSD,0.0 millions USD,,1718
+1577,5803,1629,Diversified  ==> investments,1.5 BUSD,0.0 millions USD,,1719
+1578,9837,1630,"Diversified  ==> pharmaceuticals, diversified",1.5 BUSD,0.0 millions USD,,2094
+1579,2183,1631,"Diversified  ==> pharmaceuticals, diversified",1.5 BUSD,nan millions USD,,2094
+1580,4922,1632,Automotive  ==> Ford Motor,1.5 BUSD,0.001 millions USD,,1596
+1581,2080,1633,Media & Entertainment  ==> video games,1.5 BUSD,0.0 millions USD,,1322
+1582,4519,1634,Fashion & Retail  ==> beauty products,1.5 BUSD,0.0 millions USD,,1619
+1583,3619,1635,"Construction & Engineering  ==> construction, investments",1.5 BUSD,3.924 millions USD,,1921
+1584,3095,1636,Fashion & Retail  ==> Urban Outfitters,1.5 BUSD,0.0 millions USD,,1354
+1585,7005,1637,"Manufacturing  ==> elevators, escalators",1.5 BUSD,0.0 millions USD,,1633
+1586,8204,1638,Real Estate  ==> real estate,1.5 BUSD,0.0 millions USD,,1675
+1587,5574,1639,Real Estate  ==> real estate,1.5 BUSD,0.0 millions USD,,1638
+1588,4198,1640,Media & Entertainment  ==> amusement parks,1.5 BUSD,0.001 millions USD,,1383
+1589,3912,1641,Logistics  ==> logistics,1.5 BUSD,0.0 millions USD,,1742
+1590,9074,1642,"Finance and Investments  ==> insurance, investments",1.5 BUSD,-3.759 millions USD,,1588
+1591,6676,1643,Manufacturing  ==> auto parts,1.5 BUSD,0.0 millions USD,,1465
+1592,1913,1644,Real Estate  ==> transportation,1.5 BUSD,0.001 millions USD,,1455
+1593,2596,1645,Food and Beverage  ==> food,1.5 BUSD,0.0 millions USD,,1735
+1594,3177,1646,Finance and Investments  ==> investments,1.5 BUSD,0.0 millions USD,,1582
+1595,3512,1647,Real Estate  ==> real estate,1.5 BUSD,0.0 millions USD,,1564
+1596,8586,1648,Food and Beverage  ==> agriculture,1.5 BUSD,0.0 millions USD,,1559
+1597,3695,1649,Fashion & Retail  ==> cosmetics,1.5 BUSD,0.0 millions USD,,1813
+1598,5698,1650,Manufacturing  ==> glass,1.5 BUSD,0.0 millions USD,,1707
+1599,6549,1651,Manufacturing  ==> manufacturing,1.5 BUSD,0.0 millions USD,,1692
+1600,4128,1652,Technology  ==> online games,1.5 BUSD,nan millions USD,,1692
+1601,5668,1653,Automotive  ==> automobiles,1.5 BUSD,0.0 millions USD,,1627
+1602,6707,1654,Healthcare  ==> pharmaceuticals,1.5 BUSD,0.0 millions USD,,1554
+1603,1576,1655,Manufacturing  ==> chemicals,1.5 BUSD,0.0 millions USD,,1927
+1604,4271,1656,Fashion & Retail  ==> supermarkets,1.5 BUSD,0.0 millions USD,,1608
+1605,5295,1657,Real Estate  ==> real estate,1.5 BUSD,-0.001 millions USD,,1626
+1606,5513,1658,Energy  ==> coal,1.5 BUSD,0.001 millions USD,,1439
+1607,8775,1659,Real Estate  ==> real estate,1.5 BUSD,0.0 millions USD,,1607
+1608,7505,1660,Fashion & Retail  ==> apparel retailer,1.5 BUSD,0.0 millions USD,,1762
+1609,2409,1661,Finance and Investments  ==> art,1.5 BUSD,0.0 millions USD,,1581
+1610,5690,1662,Finance and Investments  ==> investments,1.5 BUSD,0.0 millions USD,,1807
+1611,5288,1663,Diversified  ==> diversified,1.5 BUSD,0.0 millions USD,,1730
+1612,4103,1664,Real Estate  ==> real estate,1.5 BUSD,0.0 millions USD,,1630
+1613,1016,1665,Manufacturing  ==> aerospace,1.5 BUSD,0.0 millions USD,,1796
+1614,6211,1666,Manufacturing  ==> aerospace,1.5 BUSD,0.0 millions USD,,1614
+1615,6334,1667,Real Estate  ==> shopping malls,1.5 BUSD,0.0 millions USD,,2039
+1616,1546,1668,Technology  ==> online games,1.5 BUSD,0.001 millions USD,,1473
+1617,3545,1669,Fashion & Retail  ==> Under Armour,1.5 BUSD,-0.001 millions USD,,1195
+1618,5782,1670,"Service  ==> hotels, investments",1.5 BUSD,0.0 millions USD,,1570
+1619,8510,1671,Healthcare  ==> pharmaceuticals,1.5 BUSD,0.0 millions USD,,1660
+1620,2840,1672,Diversified  ==> processed milk,1.5 BUSD,0.0 millions USD,,1809
+1621,4451,1673,Food and Beverage  ==> beverages,1.5 BUSD,0.0 millions USD,,1546
+1622,2092,1674,Finance and Investments  ==> hedge funds,1.5 BUSD,0.0 millions USD,,1621
+1623,8936,1675,"Media & Entertainment  ==> media, tech",1.5 BUSD,0.0 millions USD,,1763
+1624,9690,1676,Finance and Investments  ==> money management,1.5 BUSD,-0.001 millions USD,,1569
+1625,5349,1677,Media & Entertainment  ==> publishing,1.5 BUSD,0.0 millions USD,,1441
+1626,7191,1678,Fashion & Retail  ==> cosmetics,1.5 BUSD,0.0 millions USD,,1922
+1627,7687,1679,Food and Beverage  ==> alcohol,1.5 BUSD,0.0 millions USD,,1549
+1628,8571,1680,Manufacturing  ==> agrochemicals,1.5 BUSD,0.0 millions USD,,1800
+1629,1636,1681,Automotive  ==> auto parts,1.5 BUSD,0.0 millions USD,,1571
+1630,9079,1682,Technology  ==> Instagram,1.5 BUSD,0.0 millions USD,,1446
+1631,1997,1683,"Manufacturing  ==> textiles, electronics",1.5 BUSD,nan millions USD,,1446
+1632,1789,1684,Food and Beverage  ==> packaged foods,1.5 BUSD,0.0 millions USD,,1969
+1633,1719,1685,Finance and Investments  ==> online lending,1.5 BUSD,nan millions USD,,1969
+1634,5085,1686,Logistics  ==> logistics,1.5 BUSD,0.0 millions USD,,1634
+1635,1729,1687,"Diversified  ==> insurance, NFL team",1.5 BUSD,0.0 millions USD,,1535
+1636,9720,1688,Service  ==> outsourcing,1.5 BUSD,0.001 millions USD,,1508
+1637,6374,1689,Manufacturing  ==> manufacturing,1.5 BUSD,0.0 millions USD,,1743
+1638,5193,1690,Healthcare  ==> healthcare,1.5 BUSD,0.0 millions USD,,1592
+1639,1633,1691,Real Estate  ==> real estate,1.5 BUSD,0.0 millions USD,,1738
+1640,8420,1692,Media & Entertainment  ==> search engine,1.5 BUSD,0.0 millions USD,,1620
+1641,1731,1693,Media & Entertainment  ==> publishing,1.5 BUSD,0.0 millions USD,,1442
+1642,5125,1694,Real Estate  ==> real estate,1.5 BUSD,0.0 millions USD,,1958
+1643,5272,1695,Real Estate  ==> real estate,1.5 BUSD,0.0 millions USD,,1780
+1644,3487,1696,Energy  ==> energy services,1.5 BUSD,0.0 millions USD,,1611
+1645,1299,1697,Real Estate  ==> real estate,1.5 BUSD,0.0 millions USD,,1616
+1646,6841,1698,Fashion & Retail  ==> apparel,1.5 BUSD,0.0 millions USD,,1686
+1647,9795,1699,"Diversified  ==> oil, banking",1.5 BUSD,0.0 millions USD,,1036
+1648,8710,1700,Fashion & Retail  ==> e-commerce,1.5 BUSD,0.0 millions USD,,1583
+1649,8676,1701,Construction & Engineering  ==> engineering,1.4 BUSD,0.0 millions USD,,1916
+1650,6616,1702,Energy  ==> investments,1.4 BUSD,0.0 millions USD,,1724
+1651,7391,1703,Finance and Investments  ==> investments,1.4 BUSD,0.0 millions USD,,1599
+1652,7821,1704,Diversified  ==> diversified,1.4 BUSD,0.0 millions USD,,1706
+1653,3012,1705,Diversified  ==> diversified,1.4 BUSD,0.0 millions USD,,1677
+1654,5959,1706,Diversified  ==> investments,1.4 BUSD,0.0 millions USD,,1651
+1655,5424,1707,Diversified  ==> investments,1.4 BUSD,0.0 millions USD,,1652
+1656,3750,1708,Metals & Mining  ==> real estate,1.4 BUSD,0.0 millions USD,,1698
+1657,2085,1709,Healthcare  ==> pharmaceuticals,1.4 BUSD,-0.273 millions USD,,1650
+1658,9855,1710,Fashion & Retail  ==> retailing,1.4 BUSD,0.0 millions USD,,1786
+1659,2728,1711,Manufacturing  ==> graphite electrodes,1.4 BUSD,0.0 millions USD,,1612
+1660,5729,1712,Automotive  ==> car dealerships,1.4 BUSD,0.0 millions USD,,1574
+1661,4513,1713,Food and Beverage  ==> dairy,1.4 BUSD,0.0 millions USD,,2017
+1662,2260,1714,Service  ==> educational services,1.4 BUSD,0.0 millions USD,,1589
+1663,1813,1715,Real Estate  ==> real estate,1.4 BUSD,0.0 millions USD,,1764
+1664,1746,1716,Logistics  ==> package delivery,1.4 BUSD,0.0 millions USD,,1299
+1665,2190,1717,Technology  ==> online games,1.4 BUSD,0.0 millions USD,,1705
+1666,5771,1718,Diversified  ==> property,1.4 BUSD,0.0 millions USD,,1602
+1667,2287,1719,"Technology  ==> computer services, telecom",1.4 BUSD,0.0 millions USD,,1820
+1668,3457,1720,Technology  ==> software,1.4 BUSD,0.0 millions USD,,1648
+1669,8780,1721,Real Estate  ==> real estate,1.4 BUSD,0.0 millions USD,,1765
+1670,8378,1722,Fashion & Retail  ==> retail,1.4 BUSD,0.0 millions USD,,1754
+1671,7468,1723,Real Estate  ==> real estate,1.4 BUSD,0.0 millions USD,,1854
+1672,3908,1724,Finance and Investments  ==> investments,1.4 BUSD,0.0 millions USD,,1578
+1673,3688,1725,Energy  ==> power,1.4 BUSD,0.0 millions USD,,1810
+1674,9615,1726,Construction & Engineering  ==> construction,1.4 BUSD,0.0 millions USD,,1683
+1675,7426,1727,Technology  ==> software services,1.4 BUSD,0.0 millions USD,,1676
+1676,9692,1728,Healthcare  ==> vaccines,1.4 BUSD,0.0 millions USD,,759
+1677,6612,1729,Manufacturing  ==> leisure craft,1.4 BUSD,0.0 millions USD,,1663
+1678,4292,1730,Finance and Investments  ==> hedge funds,1.4 BUSD,0.0 millions USD,,1752
+1679,2795,1731,Construction & Engineering  ==> real estate,1.4 BUSD,0.0 millions USD,,1760
+1680,3461,1732,"Metals & Mining  ==> commodities, investments",1.4 BUSD,0.0 millions USD,,1661
+1681,5352,1733,Logistics  ==> trading company,1.4 BUSD,0.0 millions USD,,1876
+1682,9810,1734,Fashion & Retail  ==> sourcing,1.4 BUSD,0.001 millions USD,,1849
+1683,6854,1735,Media & Entertainment  ==> cable television,1.4 BUSD,0.0 millions USD,,1671
+1684,4355,1736,Manufacturing  ==> textiles,1.4 BUSD,0.0 millions USD,,1938
+1685,1641,1737,Service  ==> EasyJet,1.4 BUSD,0.0 millions USD,,1557
+1686,3269,1738,Diversified  ==> diversified,1.4 BUSD,nan millions USD,,1557
+1687,1239,1739,Finance and Investments  ==> investments,1.4 BUSD,0.0 millions USD,,1745
+1688,9836,1740,Metals & Mining  ==> mining,1.4 BUSD,-0.001 millions USD,,1769
+1689,6949,1741,Real Estate  ==> real estate,1.4 BUSD,0.0 millions USD,,1375
+1690,8952,1742,"Food and Beverage  ==> bakeries, fast food",1.4 BUSD,0.0 millions USD,,1631
+1691,8622,1743,Finance and Investments  ==> insurance,1.4 BUSD,0.0 millions USD,,1579
+1692,7294,1744,Food and Beverage  ==> coffee chain,1.4 BUSD,-3.805 millions USD,,1792
+1693,9602,1745,Fashion & Retail  ==> jewelry,1.4 BUSD,0.0 millions USD,,1777
+1694,3784,1746,Finance and Investments  ==> investment banking,1.4 BUSD,0.0 millions USD,,2055
+1695,4339,1747,Technology  ==> software,1.4 BUSD,0.0 millions USD,,1696
+1696,9159,1748,Healthcare  ==> pharmaceuticals,1.4 BUSD,nan millions USD,,1696
+1697,3720,1749,Manufacturing  ==> investments,1.4 BUSD,0.0 millions USD,,1639
+1698,3231,1750,"Finance and Investments  ==> banking, insurance, media",1.4 BUSD,0.0 millions USD,,1891
+1699,3266,1751,Technology  ==> video games,1.4 BUSD,0.0 millions USD,,1715
+1700,3816,1752,Technology  ==> retail,1.4 BUSD,0.0 millions USD,,1680
+1701,6271,1753,Healthcare  ==> medical products,1.4 BUSD,0.0 millions USD,,1642
+1702,8547,1754,Automotive  ==> auto dealerships,1.4 BUSD,0.0 millions USD,,1321
+1703,8324,1755,Manufacturing  ==> lithium,1.4 BUSD,0.0 millions USD,,1641
+1704,1105,1756,Technology  ==> Manufacturing,1.4 BUSD,0.0 millions USD,,1781
+1705,7183,1757,Metals & Mining  ==> investments,1.4 BUSD,0.0 millions USD,,1645
+1706,1628,1758,Fashion & Retail  ==> fashion retail,1.4 BUSD,nan millions USD,,1645
+1707,8569,1759,"Media & Entertainment  ==> cable TV, investments",1.4 BUSD,-0.001 millions USD,,1766
+1708,7210,1760,Diversified  ==> diversified,1.4 BUSD,-0.09 millions USD,,1628
+1709,4369,1761,Telecom  ==> telecom,1.4 BUSD,0.0 millions USD,,1275
+1710,3729,1762,"Fashion & Retail  ==> real estate, retail",1.4 BUSD,0.0 millions USD,,1902
+1711,2622,1763,Manufacturing  ==> power equipment,1.4 BUSD,0.0 millions USD,,1787
+1712,8639,1764,Technology  ==> software services,1.4 BUSD,nan millions USD,,1787
+1713,8193,1765,Finance and Investments  ==> investments,1.4 BUSD,0.0 millions USD,,1697
+1714,9049,1766,"Energy  ==> sugar, ethanol",1.4 BUSD,0.0 millions USD,,2133
+1715,6884,1767,Real Estate  ==> real estate,1.4 BUSD,0.0 millions USD,,1479
+1716,2928,1768,Media & Entertainment  ==> computer games,1.4 BUSD,0.0 millions USD,,1632
+1717,2323,1769,"Metals & Mining  ==> steel pipes, diversified",1.4 BUSD,0.0 millions USD,,1647
+1718,5954,1770,Fashion & Retail  ==> luxury goods,1.4 BUSD,0.0 millions USD,,1517
+1719,5372,1771,Fashion & Retail  ==> luxury goods,1.4 BUSD,0.0 millions USD,,1518
+1720,4516,1772,Healthcare  ==> health care,1.4 BUSD,0.0 millions USD,,1523
+1721,4140,1773,Sports  ==> sports teams,1.4 BUSD,0.0 millions USD,,1629
+1722,9331,1774,Fashion & Retail  ==> supermarkets,1.4 BUSD,0.0 millions USD,,1773
+1723,9333,1775,Real Estate  ==> real estate,1.4 BUSD,0.0 millions USD,,1739
+1724,2581,1776,Technology  ==> robotics,1.4 BUSD,0.0 millions USD,,2122
+1725,6084,1777,Energy  ==> petrochemicals,1.4 BUSD,0.0 millions USD,,1640
+1726,1154,1778,Fashion & Retail  ==> retail,1.4 BUSD,0.001 millions USD,,2023
+1727,4310,1779,"Energy  ==> oil & gas, investments",1.4 BUSD,0.0 millions USD,,1553
+1728,4582,1780,Real Estate  ==> hotels,1.4 BUSD,0.0 millions USD,,1733
+1729,1038,1781,Manufacturing  ==> palm oil,1.4 BUSD,0.0 millions USD,,1704
+1730,4159,1782,Service  ==> education,1.4 BUSD,4.869 millions USD,,1670
+1731,9784,1783,Healthcare  ==> pharmaceuticals,1.4 BUSD,0.0 millions USD,,1784
+1732,1157,1784,Manufacturing  ==> toys,1.4 BUSD,0.0 millions USD,,1708
+1733,3960,1785,Real Estate  ==> real estate,1.4 BUSD,0.0 millions USD,,1466
+1734,8815,1786,Metals & Mining  ==> steel,1.4 BUSD,0.0 millions USD,,1789
+1735,4433,1787,Telecom  ==> telecom,1.4 BUSD,0.0 millions USD,,1664
+1736,2224,1788,Metals & Mining  ==> steel,1.4 BUSD,0.0 millions USD,,1817
+1737,8953,1789,Automotive  ==> auto parts,1.4 BUSD,0.0 millions USD,,1775
+1738,3757,1790,Telecom  ==> telecom services,1.4 BUSD,0.0 millions USD,,1783
+1739,4033,1791,Diversified  ==> conglomerate,1.4 BUSD,0.0 millions USD,,1665
+1740,3920,1792,Energy  ==> natural gas,1.4 BUSD,0.002 millions USD,,1688
+1741,9937,1793,Energy  ==> natural gas,1.4 BUSD,0.002 millions USD,,1689
+1742,1015,1794,Finance and Investments  ==> finance,1.4 BUSD,0.0 millions USD,,1655
+1743,4898,1795,Technology  ==> software,1.4 BUSD,0.0 millions USD,,1984
+1744,1150,1796,Manufacturing  ==> metal processing,1.4 BUSD,0.0 millions USD,,1912
+1745,4359,1797,Food and Beverage  ==> beer,1.4 BUSD,0.0 millions USD,,1623
+1746,5112,1798,"Finance and Investments  ==> precious metals, real estate",1.4 BUSD,0.0 millions USD,,1584
+1747,7600,1799,Technology  ==> online games,1.4 BUSD,nan millions USD,,1584
+1748,6511,1800,Manufacturing  ==> electronic components,1.4 BUSD,0.0 millions USD,,1536
+1749,4007,1801,Food and Beverage  ==> wine,1.4 BUSD,0.0 millions USD,,1577
+1750,1120,1802,Finance and Investments  ==> cryptocurrency,1.4 BUSD,0.0 millions USD,,1681
+1751,4956,1803,Manufacturing  ==> chemicals,1.4 BUSD,0.0 millions USD,,1747
+1752,5838,1804,Manufacturing  ==> conglomerate,1.4 BUSD,0.0 millions USD,,1736
+1753,3633,1805,Healthcare  ==> pharmaceuticals,1.4 BUSD,0.0 millions USD,,1798
+1754,8317,1806,Diversified  ==> diversified,1.4 BUSD,0.0 millions USD,,1993
+1755,6890,1807,Gambling & Casinos  ==> betting machines,1.3 BUSD,0.0 millions USD,,1711
+1756,9200,1808,Media & Entertainment  ==> television,1.3 BUSD,0.0 millions USD,,1662
+1757,3677,1809,Manufacturing  ==> chemicals,1.3 BUSD,0.0 millions USD,,1879
+1758,8817,1810,Finance and Investments  ==> venture capital,1.3 BUSD,0.0 millions USD,,1823
+1759,6690,1811,Finance and Investments  ==> banking,1.3 BUSD,0.0 millions USD,,2123
+1760,1483,1812,Food and Beverage  ==> consumer goods,1.3 BUSD,0.0 millions USD,,1691
+1761,3646,1813,Technology  ==> AOL,1.3 BUSD,0.001 millions USD,,1753
+1762,9090,1814,Real Estate  ==> property,1.3 BUSD,0.0 millions USD,,1875
+1763,7023,1815,Technology  ==> electronics,1.3 BUSD,0.0 millions USD,,2060
+1764,7437,1816,Healthcare  ==> pharmaceuticals,1.3 BUSD,0.0 millions USD,,1836
+1765,6646,1817,Real Estate  ==> real estate,1.3 BUSD,0.0 millions USD,,1811
+1766,4529,1818,"Food and Beverage  ==> food, drinks",1.3 BUSD,0.0 millions USD,,1860
+1767,7802,1819,Fashion & Retail  ==> fashion,1.3 BUSD,0.0 millions USD,,1394
+1768,6435,1820,Service  ==> Xerox,1.3 BUSD,0.0 millions USD,,1804
+1769,1061,1821,Fashion & Retail  ==> shoes,1.3 BUSD,0.0 millions USD,,1946
+1770,7827,1822,Finance and Investments  ==> banking,1.3 BUSD,0.0 millions USD,,1851
+1771,6896,1823,Telecom  ==> mobile phones,1.3 BUSD,0.0 millions USD,,1832
+1772,4769,1824,Finance and Investments  ==> money management,1.3 BUSD,0.0 millions USD,,1744
+1773,2331,1825,"Media & Entertainment  ==> TV shows, movies",1.3 BUSD,0.0 millions USD,,1987
+1774,7799,1826,Service  ==> education,1.3 BUSD,0.0 millions USD,,1831
+1775,9617,1827,Manufacturing  ==> power tools,1.3 BUSD,0.0 millions USD,,1772
+1776,3107,1828,Manufacturing  ==> industrial lasers,1.3 BUSD,-0.001 millions USD,,1617
+1777,1355,1829,Fashion & Retail  ==> Nordstrom department stores,1.3 BUSD,0.0 millions USD,,1687
+1778,4965,1830,Service  ==> EasyJet,1.3 BUSD,0.0 millions USD,,1649
+1779,2536,1831,Metals & Mining  ==> trust fund,1.3 BUSD,0.0 millions USD,,1803
+1780,6850,1832,Manufacturing  ==> toys,1.3 BUSD,0.0 millions USD,,1668
+1781,1304,1833,"Construction & Engineering  ==> construction, investments",1.3 BUSD,0.0 millions USD,,1761
+1782,1098,1834,"Construction & Engineering  ==> construction, investments",1.3 BUSD,0.001 millions USD,,1805
+1783,3592,1835,Real Estate  ==> real estate,1.3 BUSD,0.0 millions USD,,1868
+1784,4728,1836,Finance and Investments  ==> hedge funds,1.3 BUSD,0.0 millions USD,,1732
+1785,8734,1837,Diversified  ==> chemicals,1.3 BUSD,0.0 millions USD,,1850
+1786,8122,1838,Technology  ==> semiconductors,1.3 BUSD,0.0 millions USD,,1846
+1787,4135,1839,Technology  ==> semiconductors,1.3 BUSD,0.0 millions USD,,1824
+1788,4272,1840,Service  ==> industrial equipment,1.3 BUSD,0.0 millions USD,,1728
+1789,9571,1841,Finance and Investments  ==> banking,1.3 BUSD,0.0 millions USD,,1828
+1790,2887,1842,Technology  ==> software firm,1.3 BUSD,0.0 millions USD,,1795
+1791,6305,1843,Finance and Investments  ==> diversified,1.3 BUSD,0.0 millions USD,,1799
+1792,9916,1844,Healthcare  ==> pharmaceuticals,1.3 BUSD,0.0 millions USD,,2073
+1793,5529,1845,Fashion & Retail  ==> retail,1.3 BUSD,0.0 millions USD,,1770
+1794,8617,1846,Finance and Investments  ==> financial services,1.3 BUSD,0.0 millions USD,,1586
+1795,4991,1847,Manufacturing  ==> electronics,1.3 BUSD,0.0 millions USD,,2079
+1796,2501,1848,"Energy  ==> oil, banking, telecom",1.3 BUSD,-0.001 millions USD,,1943
+1797,7636,1849,Diversified  ==> diversified,1.3 BUSD,0.0 millions USD,,1556
+1798,3353,1850,Fashion & Retail  ==> retail,1.3 BUSD,0.001 millions USD,,1679
+1799,2317,1851,Energy  ==> natural gas,1.3 BUSD,0.0 millions USD,,1493
+1800,1726,1852,Manufacturing  ==> chemicals,1.3 BUSD,0.0 millions USD,,2007
+1801,7457,1853,Energy  ==> gas,1.3 BUSD,0.0 millions USD,,1819
+1802,5170,1854,Manufacturing  ==> solar panel components,1.3 BUSD,0.0 millions USD,,1941
+1803,7289,1855,"Fashion & Retail  ==> footwear, apparel",1.3 BUSD,nan millions USD,,1941
+1804,6886,1856,Diversified  ==> investments,1.3 BUSD,0.0 millions USD,,2021
+1805,1839,1857,Fashion & Retail  ==> pharmacies,1.3 BUSD,0.0 millions USD,,1749
+1806,9286,1858,Construction & Engineering  ==> construction,1.3 BUSD,0.0 millions USD,,1818
+1807,3529,1859,Technology  ==> drones,1.3 BUSD,0.0 millions USD,,1814
+1808,3430,1860,Food and Beverage  ==> Cargill,1.3 BUSD,0.0 millions USD,,1756
+1809,3643,1861,Food and Beverage  ==> Cargill,1.3 BUSD,0.0 millions USD,,1757
+1810,5611,1862,Food and Beverage  ==> Cargill,1.3 BUSD,0.0 millions USD,,1758
+1811,7763,1863,Food and Beverage  ==> Cargill,1.3 BUSD,0.0 millions USD,,1759
+1812,8513,1864,Diversified  ==> investments,1.3 BUSD,0.0 millions USD,,2031
+1813,5279,1865,Technology  ==> Craigslist,1.3 BUSD,0.0 millions USD,,1790
+1814,7003,1866,Fashion & Retail  ==> Nordstrom department stores,1.3 BUSD,0.0 millions USD,,1778
+1815,5584,1867,Media & Entertainment  ==> media,1.3 BUSD,-0.001 millions USD,,1624
+1816,8457,1868,Construction & Engineering  ==> toll roads,1.3 BUSD,0.0 millions USD,,1983
+1817,9745,1869,Finance and Investments  ==> mutual funds,1.3 BUSD,0.0 millions USD,,2053
+1818,6501,1870,Finance and Investments  ==> mutual funds,1.3 BUSD,0.0 millions USD,,2054
+1819,7939,1871,Healthcare  ==> pharmaceuticals,1.3 BUSD,0.0 millions USD,,1830
+1820,4106,1872,Manufacturing  ==> toys,1.3 BUSD,0.0 millions USD,,1667
+1821,9282,1873,Metals & Mining  ==> trust fund,1.3 BUSD,0.0 millions USD,,1821
+1822,3262,1874,Metals & Mining  ==> trust fund,1.3 BUSD,0.0 millions USD,,1812
+1823,8252,1875,"Manufacturing  ==> fertilizer, real estate",1.3 BUSD,0.0 millions USD,,1802
+1824,2095,1876,Finance and Investments  ==> banking,1.3 BUSD,0.0 millions USD,,1793
+1825,1294,1877,Diversified  ==> diversified,1.3 BUSD,0.0 millions USD,,1998
+1826,3251,1878,Technology  ==> information technology,1.3 BUSD,0.0 millions USD,,1847
+1827,7335,1879,Healthcare  ==> pharmaceuticals,1.3 BUSD,-29.808000000000003 millions USD,,1862
+1828,5390,1880,Manufacturing  ==> chemicals,1.3 BUSD,0.0 millions USD,,1933
+1829,4635,1881,Manufacturing  ==> engineering,1.3 BUSD,0.0 millions USD,,1712
+1830,8395,1882,Manufacturing  ==> diversified,1.3 BUSD,0.0 millions USD,,1695
+1831,1716,1883,Technology  ==> online apparel retail,1.3 BUSD,nan millions USD,,1695
+1832,6107,1884,Fashion & Retail  ==> retail,1.3 BUSD,0.0 millions USD,,1963
+1833,5202,1885,Real Estate  ==> real estate,1.3 BUSD,0.0 millions USD,,1147
+1834,8275,1886,Logistics  ==> shipping,1.3 BUSD,nan millions USD,,1147
+1835,9557,1887,Technology  ==> lighting,1.3 BUSD,-0.001 millions USD,,2003
+1836,1070,1888,Real Estate  ==> real estate,1.3 BUSD,0.0 millions USD,,1841
+1837,4331,1889,Fashion & Retail  ==> supermarkets,1.3 BUSD,0.0 millions USD,,1595
+1838,7116,1890,Construction & Engineering  ==> Construction,1.3 BUSD,0.0 millions USD,,2088
+1839,1702,1891,Real Estate  ==> real estate,1.3 BUSD,0.0 millions USD,,2102
+1840,9802,1892,Finance and Investments  ==> diversified,1.3 BUSD,0.0 millions USD,,1690
+1841,2140,1893,Metals & Mining  ==> steel,1.3 BUSD,0.0 millions USD,,1886
+1842,8436,1894,Metals & Mining  ==> steel,1.3 BUSD,0.0 millions USD,,1887
+1843,8328,1895,"Manufacturing  ==> steel, heavy industry",1.3 BUSD,0.0 millions USD,,1865
+1844,7378,1896,Technology  ==> semiconductors,1.3 BUSD,0.0 millions USD,,1723
+1845,2300,1897,Metals & Mining  ==> coal mines,1.3 BUSD,0.0 millions USD,,1834
+1846,3409,1898,Technology  ==> technology,1.3 BUSD,0.0 millions USD,,1746
+1847,8761,1899,Food and Beverage  ==> food,1.3 BUSD,0.0 millions USD,,2145
+1848,3377,1900,Automotive  ==> auto distribution,1.3 BUSD,0.0 millions USD,,1866
+1849,6041,1901,Food and Beverage  ==> food sweeteners,1.3 BUSD,0.0 millions USD,,1833
+1850,7511,1902,Metals & Mining  ==> trust fund,1.3 BUSD,0.0 millions USD,,1822
+1851,1580,1903,Service  ==> wastewater treatment,1.3 BUSD,-0.001 millions USD,,1871
+1852,4005,1904,Real Estate  ==> real estate services,1.3 BUSD,0.0 millions USD,,1658
+1853,5397,1905,Real Estate  ==> real estate,1.3 BUSD,0.0 millions USD,,1885
+1854,2107,1906,Manufacturing  ==> packaging,1.3 BUSD,0.0 millions USD,,1838
+1855,3067,1907,Technology  ==> software,1.3 BUSD,0.0 millions USD,,2065
+1856,5985,1908,Service  ==> education,1.3 BUSD,0.0 millions USD,,1878
+1857,6816,1909,Food and Beverage  ==> brewery,1.3 BUSD,0.0 millions USD,,1609
+1858,6049,1910,"Manufacturing  ==> chemicals, spandex",1.3 BUSD,0.0 millions USD,,1957
+1859,1915,1911,Real Estate  ==> real estate,1.3 BUSD,0.0 millions USD,,1940
+1860,6628,1912,Manufacturing  ==> glass,1.3 BUSD,0.0 millions USD,,2086
+1861,5861,1913,Fashion & Retail  ==> costume jewelry,1.3 BUSD,-0.001 millions USD,,1842
+1862,4569,1914,Diversified  ==> diversified,1.3 BUSD,-0.002 millions USD,,1867
+1863,3273,1915,Real Estate  ==> real estate,1.3 BUSD,0.001 millions USD,,1903
+1864,7432,1916,Technology  ==> IT products,1.3 BUSD,0.0 millions USD,,1694
+1865,3336,1917,Manufacturing  ==> electrical equipment,1.3 BUSD,0.0 millions USD,,1961
+1866,3667,1918,Finance and Investments  ==> investments,1.2 BUSD,nan millions USD,,1961
+1867,2320,1919,Diversified  ==> diversified,1.2 BUSD,1.6369999999999998 millions USD,,1973
+1868,6887,1920,Diversified  ==> diversified,1.2 BUSD,1.6369999999999998 millions USD,,1974
+1869,7880,1921,Fashion & Retail  ==> fashion retail,1.2 BUSD,0.0 millions USD,,1864
+1870,8385,1922,Finance and Investments  ==> venture capital investing,1.2 BUSD,-0.001 millions USD,,1699
+1871,1932,1923,Metals & Mining  ==> Steel,1.2 BUSD,0.0 millions USD,,1928
+1872,8493,1924,Finance and Investments  ==> money management,1.2 BUSD,0.0 millions USD,,1898
+1873,6034,1925,Finance and Investments  ==> commodities,1.2 BUSD,0.0 millions USD,,1883
+1874,4212,1926,"Construction & Engineering  ==> investments, real estate",1.2 BUSD,0.0 millions USD,,1911
+1875,9030,1927,Fashion & Retail  ==> cosmetics,1.2 BUSD,nan millions USD,,1911
+1876,4210,1928,Fashion & Retail  ==> supermarkets,1.2 BUSD,0.0 millions USD,,1776
+1877,6926,1929,"Diversified  ==> banking, oil",1.2 BUSD,6.3629999999999995 millions USD,,1960
+1878,7931,1930,"Fashion & Retail  ==> retail, agribusiness",1.2 BUSD,0.0 millions USD,,1721
+1879,4541,1931,"Diversified  ==> banking, investments",1.2 BUSD,0.0 millions USD,,1857
+1880,2340,1932,Finance and Investments  ==> money management,1.2 BUSD,0.0 millions USD,,1888
+1881,2839,1933,Food and Beverage  ==> consumer goods,1.2 BUSD,0.0 millions USD,,1797
+1882,9853,1934,Media & Entertainment  ==> animation,1.2 BUSD,nan millions USD,,1797
+1883,5776,1935,Energy  ==> wind power generation,1.2 BUSD,0.0 millions USD,,1917
+1884,3751,1936,Service  ==> ride-hailing service,1.2 BUSD,0.0 millions USD,,1896
+1885,9945,1937,Diversified  ==> diversified,1.2 BUSD,0.0 millions USD,,1997
+1886,9974,1938,Manufacturing  ==> manufacturing,1.2 BUSD,0.0 millions USD,,2050
+1887,9105,1939,Manufacturing  ==> electrical equipment,1.2 BUSD,0.0 millions USD,,1899
+1888,8242,1940,Real Estate  ==> real estate,1.2 BUSD,nan millions USD,,1899
+1889,8116,1941,Food and Beverage  ==> Coca-Cola,1.2 BUSD,0.0 millions USD,,1791
+1890,7627,1942,Fashion & Retail  ==> clothing retail,1.2 BUSD,0.0 millions USD,,2012
+1891,8035,1943,Construction & Engineering  ==> construction,1.2 BUSD,0.0 millions USD,,1909
+1892,9272,1944,"Logistics  ==> transport, logistics",1.2 BUSD,0.0 millions USD,,1932
+1893,8406,1945,Healthcare  ==> hearing aids,1.2 BUSD,0.0 millions USD,,1669
+1894,2489,1946,Real Estate  ==> office real estate,1.2 BUSD,0.0 millions USD,,1618
+1895,9116,1947,Finance and Investments  ==> insurance,1.2 BUSD,0.0 millions USD,,1930
+1896,3498,1948,Manufacturing  ==> home appliances,1.2 BUSD,0.0 millions USD,,1939
+1897,1050,1949,Telecom  ==> investments,1.2 BUSD,0.0 millions USD,,1880
+1898,8911,1950,Automotive  ==> auto loans,1.2 BUSD,0.0 millions USD,,1709
+1899,8768,1951,Metals & Mining  ==> mining,1.2 BUSD,-0.001 millions USD,,2043
+1900,4784,1952,Manufacturing  ==> manufacturing,1.2 BUSD,0.0 millions USD,,1897
+1901,3218,1953,Food and Beverage  ==> poultry,1.2 BUSD,0.0 millions USD,,1717
+1902,2869,1954,Metals & Mining  ==> mining,1.2 BUSD,0.0 millions USD,,1877
+1903,3311,1955,Healthcare  ==> drug testing,1.2 BUSD,0.0 millions USD,,1801
+1904,7061,1956,Technology  ==> uber,1.2 BUSD,0.0 millions USD,,1873
+1905,6265,1957,Manufacturing  ==> consumer electronics,1.2 BUSD,nan millions USD,,1873
+1906,8402,1958,Finance and Investments  ==> banking,1.2 BUSD,0.001 millions USD,,1955
+1907,2599,1959,Healthcare  ==> medical devices,1.2 BUSD,0.0 millions USD,,2037
+1908,6219,1960,Food and Beverage  ==> bakeries,1.2 BUSD,0.0 millions USD,,1948
+1909,2447,1961,Fashion & Retail  ==> convenience stores,1.2 BUSD,0.0 millions USD,,2036
+1910,1676,1962,Diversified  ==> diversified,1.2 BUSD,-0.001 millions USD,,1729
+1911,1077,1963,Metals & Mining  ==> minerals,1.2 BUSD,nan millions USD,,1729
+1912,9071,1964,Real Estate  ==> storage facilities,1.2 BUSD,0.0 millions USD,,1700
+1913,8363,1965,"Energy  ==> gas, petrochemicals",1.2 BUSD,nan millions USD,,1700
+1914,8279,1966,Finance and Investments  ==> finance,1.2 BUSD,0.0 millions USD,,1737
+1915,4720,1967,Manufacturing  ==> home & office products,1.2 BUSD,0.0 millions USD,,1872
+1916,7745,1968,Real Estate  ==> real estate,1.2 BUSD,0.001 millions USD,,2027
+1917,9464,1969,Real Estate  ==> real estate,1.2 BUSD,0.0 millions USD,,1972
+1918,1230,1970,Energy  ==> oil & gas,1.2 BUSD,0.0 millions USD,,1889
+1919,8290,1971,Fashion & Retail  ==> electronics retailer,1.2 BUSD,0.0 millions USD,,1931
+1920,6891,1972,Real Estate  ==> real estate,1.2 BUSD,-0.001 millions USD,,1962
+1921,7661,1973,Manufacturing  ==> building materials,1.2 BUSD,0.0 millions USD,,2041
+1922,7557,1974,Finance and Investments  ==> Financial Services,1.2 BUSD,0.0 millions USD,,1945
+1923,8518,1975,Logistics  ==> package delivery,1.2 BUSD,0.0 millions USD,,1900
+1924,5180,1976,Media & Entertainment  ==> Cirque du Soleil,1.2 BUSD,0.0 millions USD,,1881
+1925,1822,1977,Technology  ==> Internet,1.2 BUSD,0.001 millions USD,,1991
+1926,1022,1978,Finance and Investments  ==> mutual funds,1.2 BUSD,0.0 millions USD,,1954
+1927,8883,1979,Service  ==> education,1.2 BUSD,0.0 millions USD,,1414
+1928,6914,1980,Manufacturing  ==> electronics,1.2 BUSD,0.0 millions USD,,1942
+1929,1465,1981,Fashion & Retail  ==> apparel,1.2 BUSD,nan millions USD,,1942
+1930,2711,1982,Food and Beverage  ==> soy sauce maker,1.2 BUSD,0.0 millions USD,,1412
+1931,6689,1983,Manufacturing  ==> rubber gloves,1.2 BUSD,0.0 millions USD,,1636
+1932,8915,1984,Energy  ==> gas,1.2 BUSD,0.0 millions USD,,2011
+1933,9394,1985,"Diversified  ==> copper, poultry",1.2 BUSD,0.0 millions USD,,1910
+1934,3244,1986,Service  ==> sewage treatment,1.2 BUSD,0.0 millions USD,,2115
+1935,1369,1987,Real Estate  ==> real estate,1.2 BUSD,0.0 millions USD,,1901
+1936,7331,1988,"Real Estate  ==> real estate, hotels",1.2 BUSD,0.0 millions USD,,1950
+1937,4869,1989,Technology  ==> e-commerce,1.2 BUSD,0.0 millions USD,,1514
+1938,4744,1990,Diversified  ==> energy,1.2 BUSD,0.0 millions USD,,1913
+1939,9934,1991,"Energy  ==> port, gas",1.2 BUSD,0.001 millions USD,,2080
+1940,3506,1992,Construction & Engineering  ==> toll roads,1.2 BUSD,nan millions USD,,2080
+1941,4418,1993,Telecom  ==> telecom,1.2 BUSD,0.0 millions USD,,1858
+1942,2920,1994,"Automotive  ==> basketball, car dealers",1.2 BUSD,0.0 millions USD,,1643
+1943,2642,1995,Construction & Engineering  ==> construction materials,1.2 BUSD,-17.012 millions USD,,2014
+1944,6861,1996,Real Estate  ==> real estate,1.2 BUSD,0.0 millions USD,,1852
+1945,9833,1997,Food and Beverage  ==> restaurants,1.2 BUSD,0.0 millions USD,,1480
+1946,7038,1998,"Real Estate  ==> construction, real estate",1.2 BUSD,0.0 millions USD,,1731
+1947,9480,1999,Manufacturing  ==> electronics,1.2 BUSD,nan millions USD,,1731
+1948,5343,2000,Automotive  ==> automotive,1.2 BUSD,0.0 millions USD,,1937
+1949,9618,2001,Finance and Investments  ==> investments,1.2 BUSD,0.0 millions USD,,1996
+1950,8472,2002,Energy  ==> oil & gas,1.2 BUSD,-18.398 millions USD,,1959
+1951,3334,2003,"Construction & Engineering  ==> construction, pipes, chemicals",1.2 BUSD,0.0 millions USD,,1949
+1952,5948,2004,Manufacturing  ==> building materials,1.2 BUSD,0.0 millions USD,,2029
+1953,8330,2005,Healthcare  ==> pharmaceuticals,1.2 BUSD,-0.055999999999999994 millions USD,,2051
+1954,8071,2006,Real Estate  ==> real estate,1.2 BUSD,0.0 millions USD,,2009
+1955,5764,2007,"Energy  ==> refinery, chemicals",1.2 BUSD,0.001 millions USD,,1884
+1956,7361,2008,"Energy  ==> refinery, chemicals",1.2 BUSD,0.0 millions USD,,1893
+1957,8214,2009,"Diversified  ==> tires, chemicals",1.2 BUSD,0.0 millions USD,,1895
+1958,2398,2010,Metals & Mining  ==> titanium,1.2 BUSD,nan millions USD,,1895
+1959,8286,2011,Technology  ==> software services,1.2 BUSD,0.0 millions USD,,1863
+1960,8819,2012,Fashion & Retail  ==> retail,1.2 BUSD,0.0 millions USD,,1936
+1961,5325,2013,Finance and Investments  ==> investments,1.2 BUSD,0.0 millions USD,,1840
+1962,4445,2014,Healthcare  ==> pharmaceuticals,1.2 BUSD,0.0 millions USD,,2066
+1963,9144,2015,Healthcare  ==> pharmaceuticals,1.2 BUSD,0.0 millions USD,,2077
+1964,6799,2016,"Real Estate  ==> airports, real estate",1.2 BUSD,0.0 millions USD,,1925
+1965,3227,2017,Food and Beverage  ==> In-N-Out Burger,1.2 BUSD,0.0 millions USD,,1882
+1966,5164,2018,Healthcare  ==> medical devices,1.2 BUSD,0.0 millions USD,,2038
+1967,1663,2019,Fashion & Retail  ==> consumer goods,1.2 BUSD,0.0 millions USD,,1827
+1968,8040,2020,Technology  ==> social network,1.2 BUSD,0.0 millions USD,,2001
+1969,7590,2021,Construction & Engineering  ==> construction,1.2 BUSD,nan millions USD,,2001
+1970,4923,2022,Food and Beverage  ==> restaurants,1.2 BUSD,0.0 millions USD,,1989
+1971,1613,2023,Technology  ==> measuring instruments,1.2 BUSD,0.0 millions USD,,1594
+1972,9724,2024,"Finance and Investments  ==> banking, insurance",1.2 BUSD,0.0 millions USD,,1953
+1973,6526,2025,Real Estate  ==> Real estate,1.2 BUSD,0.0 millions USD,,1894
+1974,1845,2026,"Fashion & Retail  ==> food, retail",1.2 BUSD,nan millions USD,,1894
+1975,3089,2027,Media & Entertainment  ==> movies,1.2 BUSD,0.0 millions USD,,1907
+1976,8860,2028,Real Estate  ==> real estate,1.2 BUSD,0.0 millions USD,,1976
+1977,4088,2029,Diversified  ==> airline,1.2 BUSD,0.0 millions USD,,1755
+1978,5334,2030,Service  ==> airline,1.2 BUSD,0.0 millions USD,,1771
+1979,2382,2031,"Manufacturing  ==> natural gas, fertilizers",1.2 BUSD,0.0 millions USD,,1965
+1980,3701,2032,Finance and Investments  ==> money management,1.2 BUSD,0.0 millions USD,,2062
+1981,3511,2033,Energy  ==> energy services,1.2 BUSD,0.0 millions USD,,1964
+1982,5095,2034,Healthcare  ==> pharmaceuticals,1.2 BUSD,0.0 millions USD,,1808
+1983,3406,2035,Healthcare  ==> pharmaceuticals,1.2 BUSD,0.0 millions USD,,1904
+1984,5081,2036,Service  ==> driving schools,1.2 BUSD,nan millions USD,,1904
+1985,8977,2037,Automotive  ==> auto parts,1.2 BUSD,0.0 millions USD,,1741
+1986,7525,2038,Manufacturing  ==> Agribusiness,1.2 BUSD,-0.001 millions USD,,1843
+1987,6843,2039,Healthcare  ==> pharmacy,1.2 BUSD,0.0 millions USD,,2126
+1988,4290,2040,Service  ==> private schools,1.2 BUSD,0.0 millions USD,,1837
+1989,5765,2041,Real Estate  ==> real estate,1.2 BUSD,0.0 millions USD,,1825
+1990,8821,2042,Logistics  ==> Shipping,1.2 BUSD,0.0 millions USD,,1779
+1991,3566,2043,Manufacturing  ==> paper & related products,1.2 BUSD,0.0 millions USD,,1870
+1992,1912,2044,Manufacturing  ==> precision machinery,1.2 BUSD,0.001 millions USD,,2024
+1993,9205,2045,Real Estate  ==> real estate,1.2 BUSD,0.0 millions USD,,1986
+1994,5965,2046,Fashion & Retail  ==> retail,1.2 BUSD,0.001 millions USD,,2137
+1995,3196,2047,Real Estate  ==> real estate,1.2 BUSD,0.0 millions USD,,1748
+1996,6531,2048,Manufacturing  ==> auto parts,1.2 BUSD,0.0 millions USD,,1561
+1997,8909,2049,Real Estate  ==> real estate,1.2 BUSD,0.0 millions USD,,1908
+1998,7296,2050,Finance and Investments  ==> hedge funds,1.1 BUSD,0.0 millions USD,,2032
+1999,1712,2051,Logistics  ==> chemicals,1.1 BUSD,nan millions USD,,2032
+2000,1655,2052,Construction & Engineering  ==> construction,1.1 BUSD,nan millions USD,,2032
+2001,8058,2053,Diversified  ==> diversified,1.1 BUSD,0.0 millions USD,,2042
+2002,8906,2054,Healthcare  ==> pharmaceuticals,1.1 BUSD,nan millions USD,,2042
+2003,7247,2055,Healthcare  ==> hospitals,1.1 BUSD,0.0 millions USD,,2030
+2004,4087,2056,Food and Beverage  ==> Barilla pasta,1.1 BUSD,0.0 millions USD,,2105
+2005,1804,2057,Food and Beverage  ==> Barilla pasta,1.1 BUSD,0.0 millions USD,,2106
+2006,1235,2058,Food and Beverage  ==> Barilla pasta,1.1 BUSD,0.0 millions USD,,2107
+2007,6446,2059,Food and Beverage  ==> Barilla pasta,1.1 BUSD,0.0 millions USD,,2108
+2008,3314,2060,"Energy  ==> banking, gas",1.1 BUSD,nan millions USD,,2108
+2009,1754,2061,Finance and Investments  ==> insurance,1.1 BUSD,0.0 millions USD,,1874
+2010,1704,2062,Fashion & Retail  ==> retail,1.1 BUSD,0.0 millions USD,,1740
+2011,9662,2063,Gambling & Casinos  ==> pachinko machines,1.1 BUSD,0.0 millions USD,,1750
+2012,8425,2064,Technology  ==> electronic components,1.1 BUSD,nan millions USD,,1750
+2013,5436,2065,Technology  ==> electronic components,1.1 BUSD,nan millions USD,,1750
+2014,9949,2066,Finance and Investments  ==> banking,1.1 BUSD,nan millions USD,,1750
+2015,9024,2067,"Real Estate  ==> construction, real estate",1.1 BUSD,0.0 millions USD,,1947
+2016,1609,2068,Technology  ==> electronics components,1.1 BUSD,nan millions USD,,1947
+2017,7232,2069,Manufacturing  ==> polyester,1.1 BUSD,0.0 millions USD,,2025
+2018,9992,2070,Diversified  ==> industrial machinery,1.1 BUSD,nan millions USD,,2025
+2019,5204,2071,Diversified  ==> diversified,1.1 BUSD,0.0 millions USD,,2047
+2020,9901,2072,Diversified  ==> diversified,1.1 BUSD,0.0 millions USD,,2019
+2021,3660,2073,Diversified  ==> diversified,1.1 BUSD,0.0 millions USD,,2020
+2022,5163,2074,Media & Entertainment  ==> media,1.1 BUSD,0.0 millions USD,,2059
+2023,6035,2075,"Diversified  ==> finance, real estate",1.1 BUSD,0.0 millions USD,,1988
+2024,6121,2076,Gambling & Casinos  ==> gambling,1.1 BUSD,nan millions USD,,1988
+2025,6401,2077,Metals & Mining  ==> coal,1.1 BUSD,0.0 millions USD,,2099
+2026,3574,2078,Technology  ==> IT consulting,1.1 BUSD,0.0 millions USD,,1674
+2027,7693,2079,Finance and Investments  ==> hedge funds,1.1 BUSD,0.0 millions USD,,2035
+2028,2847,2080,Real Estate  ==> real estate,1.1 BUSD,nan millions USD,,2035
+2029,6222,2081,"Logistics  ==> ports, railway transport",1.1 BUSD,0.0 millions USD,,1981
+2030,7030,2082,Fashion & Retail  ==> Reebok,1.1 BUSD,0.0 millions USD,,2052
+2031,2948,2083,Finance and Investments  ==> investments,1.1 BUSD,0.0 millions USD,,1990
+2032,4436,2084,"Diversified  ==> real estate, diversified",1.1 BUSD,0.0 millions USD,,2112
+2033,6237,2085,Fashion & Retail  ==> mattresses,1.1 BUSD,nan millions USD,,2112
+2034,7883,2086,Technology  ==> file hosting service,1.1 BUSD,0.0 millions USD,,697
+2035,5227,2087,Energy  ==> storage batteries,1.1 BUSD,0.0 millions USD,,926
+2036,5677,2088,Real Estate  ==> real estate,1.1 BUSD,0.0 millions USD,,2076
+2037,6976,2089,Telecom  ==> communications,1.1 BUSD,0.0 millions USD,,1924
+2038,7963,2090,Automotive  ==> tires,1.1 BUSD,0.0 millions USD,,2121
+2039,9975,2091,Manufacturing  ==> electric linear systems,1.1 BUSD,nan millions USD,,2121
+2040,6541,2092,Finance and Investments  ==> auto loans,1.1 BUSD,nan millions USD,,2121
+2041,3436,2093,Finance and Investments  ==> IKEA,1.1 BUSD,0.0 millions USD,,2128
+2042,6071,2094,Finance and Investments  ==> IKEA,1.1 BUSD,0.0 millions USD,,2129
+2043,8562,2095,Finance and Investments  ==> IKEA,1.1 BUSD,0.0 millions USD,,2130
+2044,1841,2096,Finance and Investments  ==> banking,1.1 BUSD,0.0 millions USD,,2084
+2045,6858,2097,Finance and Investments  ==> investments,1.1 BUSD,0.0 millions USD,,1999
+2046,8943,2098,Diversified  ==> banking,1.1 BUSD,nan millions USD,,1999
+2047,9380,2099,"Real Estate  ==> real estate, hotels",1.1 BUSD,0.001 millions USD,,1714
+2048,7119,2100,"Technology  ==> electronics, household products",1.1 BUSD,nan millions USD,,1714
+2049,4095,2101,Real Estate  ==> real estate,1.1 BUSD,0.0 millions USD,,1935
+2050,1564,2102,Manufacturing  ==> toys,1.1 BUSD,0.0 millions USD,,1926
+2051,4958,2103,Manufacturing  ==> scientific equipment,1.1 BUSD,0.0 millions USD,,2109
+2052,7870,2104,Technology  ==> online games,1.1 BUSD,0.0 millions USD,,1979
+2053,4146,2105,Technology  ==> investments,1.1 BUSD,0.0 millions USD,,2058
+2054,8333,2106,"Finance and Investments  ==> banking, credit cards",1.1 BUSD,0.0 millions USD,,2071
+2055,9096,2107,Finance and Investments  ==> banking,1.1 BUSD,0.0 millions USD,,2072
+2056,2806,2108,"Finance and Investments  ==> banking, credit cards",1.1 BUSD,0.0 millions USD,,2070
+2057,7847,2109,Technology  ==> live streaming service,1.1 BUSD,0.0 millions USD,,1944
+2058,3062,2110,Healthcare  ==> pharmaceuticals,1.1 BUSD,0.0 millions USD,,1532
+2059,7274,2111,Manufacturing  ==> construction materials,1.1 BUSD,nan millions USD,,1532
+2060,6834,2112,Manufacturing  ==> manufacturing,1.1 BUSD,0.0 millions USD,,1408
+2061,4579,2113,Manufacturing  ==> conglomerate,1.1 BUSD,0.0 millions USD,,1995
+2062,8481,2114,Real Estate  ==> real estate,1.1 BUSD,0.0 millions USD,,1678
+2063,2410,2115,Food and Beverage  ==> wine,1.1 BUSD,0.0 millions USD,,2069
+2064,1001,2116,Manufacturing  ==> powdered metal,1.1 BUSD,0.0 millions USD,,2116
+2065,9610,2117,Service  ==> industrial parks,1.1 BUSD,0.0 millions USD,,2061
+2066,1833,2118,Diversified  ==> conglomerate,1.1 BUSD,0.0 millions USD,,2132
+2067,1312,2119,Technology  ==> e-commerce,1.1 BUSD,0.0 millions USD,,2034
+2068,6094,2120,Energy  ==> energy investments,1.1 BUSD,0.0 millions USD,,2049
+2069,9910,2121,Healthcare  ==> pharmaceuticals,1.1 BUSD,-1.171 millions USD,,2046
+2070,5267,2122,Healthcare  ==> laboratory services,1.1 BUSD,nan millions USD,,2046
+2071,3755,2123,Healthcare  ==> pharmaceuticals,1.1 BUSD,0.0 millions USD,,2082
+2072,4955,2124,"Logistics  ==> ports, railway transport",1.1 BUSD,0.0 millions USD,,1971
+2073,7815,2125,"Logistics  ==> ports, railway transport",1.1 BUSD,0.0 millions USD,,1970
+2074,7017,2126,Technology  ==> price comparison website,1.1 BUSD,0.0 millions USD,,2022
+2075,1534,2127,Service  ==> Ryanair,1.1 BUSD,0.0 millions USD,,2075
+2076,8215,2128,Finance and Investments  ==> investments,1.1 BUSD,10.353 millions USD,,2015
+2077,6990,2129,Diversified  ==> diversified,1.1 BUSD,0.0 millions USD,,1767
+2078,1436,2130,Finance and Investments  ==> investments,1.1 BUSD,nan millions USD,,1767
+2079,4850,2131,Fashion & Retail  ==> retail,1.1 BUSD,0.0 millions USD,,2104
+2080,7318,2132,Media & Entertainment  ==> casinos,1.1 BUSD,0.0 millions USD,,1869
+2081,8468,2133,Fashion & Retail  ==> wedding dresses,1.1 BUSD,0.0 millions USD,,2091
+2082,3722,2134,Media & Entertainment  ==> tourism,1.1 BUSD,nan millions USD,,2091
+2083,4491,2135,Technology  ==> e-commerce,1.1 BUSD,0.0 millions USD,,1977
+2084,6216,2136,Finance and Investments  ==> investments,1.1 BUSD,0.0 millions USD,,2016
+2085,6455,2137,Fashion & Retail  ==> consumer goods,1.1 BUSD,0.0 millions USD,,1992
+2086,6905,2138,"Diversified  ==> construction, real estate",1.1 BUSD,0.0 millions USD,,2044
+2087,4380,2139,Real Estate  ==> entertainment,1.1 BUSD,0.001 millions USD,,2092
+2088,1907,2140,Finance and Investments  ==> venture capital investing,1.1 BUSD,0.0 millions USD,,1890
+2089,6427,2141,Technology  ==> tech investments,1.1 BUSD,0.0 millions USD,,1918
+2090,6119,2142,Technology  ==> tech investments,1.1 BUSD,0.0 millions USD,,1919
+2091,1405,2143,Technology  ==> tech investments,1.1 BUSD,0.0 millions USD,,1920
+2092,8700,2144,Finance and Investments  ==> venture capital,1.1 BUSD,0.0 millions USD,,2074
+2093,6742,2145,"Diversified  ==> refinery, chemicals",1.1 BUSD,0.0 millions USD,,2000
+2094,8644,2146,Fashion & Retail  ==> retail,1.1 BUSD,0.0 millions USD,,2048
+2095,1025,2147,Service  ==> staffing,1.1 BUSD,0.0 millions USD,,2111
+2096,3428,2148,Healthcare  ==> healthcare,1.1 BUSD,0.0 millions USD,,2141
+2097,9504,2149,Finance and Investments  ==> finance and investments,1.1 BUSD,0.0 millions USD,,2045
+2098,8329,2150,Finance and Investments  ==> finance,1.1 BUSD,0.0 millions USD,,2026
+2099,6187,2151,Finance and Investments  ==> investments,1.1 BUSD,nan millions USD,,2026
+2100,1884,2152,"Energy  ==> refinery, chemicals",1.1 BUSD,-0.001 millions USD,,2005
+2101,7549,2153,Finance and Investments  ==> banking,1.1 BUSD,nan millions USD,,2005
+2102,6493,2154,Media & Entertainment  ==> gaming,1.1 BUSD,nan millions USD,,2005
+2103,5645,2155,Media & Entertainment  ==> media,1.1 BUSD,0.0 millions USD,,2110
+2104,5191,2156,Diversified  ==> diversified,1.1 BUSD,0.0 millions USD,,2081
+2105,3888,2157,"Diversified  ==> timber, media",1.1 BUSD,-0.001 millions USD,,2140
+2106,4585,2158,"Diversified  ==> insurance, NFL team",1.1 BUSD,0.0 millions USD,,1966
+2107,4397,2159,Diversified  ==> insurance,1.1 BUSD,0.0 millions USD,,1967
+2108,3866,2160,Technology  ==> software,1.1 BUSD,0.0 millions USD,,2139
+2109,4175,2161,Energy  ==> oil and gas,1.1 BUSD,0.0 millions USD,,2068
+2110,7506,2162,Telecom  ==> telecom,1.1 BUSD,0.0 millions USD,,2028
+2111,5025,2163,Manufacturing  ==> fertilizers,1.1 BUSD,nan millions USD,,2028
+2112,9907,2164,Automotive  ==> auto parts,1.1 BUSD,0.0 millions USD,,2067
+2113,5439,2165,Service  ==> budget airline,1.1 BUSD,0.0 millions USD,,1859
+2114,8855,2166,Service  ==> sewage treatment,1.1 BUSD,nan millions USD,,1859
+2115,5027,2167,Fashion & Retail  ==> health products,1.1 BUSD,0.0 millions USD,,1495
+2116,9704,2168,Automotive  ==> automobiles,1.1 BUSD,nan millions USD,,1495
+2117,6353,2169,Technology  ==> drones,1.1 BUSD,0.0 millions USD,,2004
+2118,3686,2170,Technology  ==> online marketplace,1.1 BUSD,0.0 millions USD,,1929
+2119,7818,2171,Diversified  ==> diversified,1.1 BUSD,nan millions USD,,1929
+2120,6292,2172,"Diversified  ==> real estate, shipbuilding",1.1 BUSD,nan millions USD,,1929
+2121,6472,2173,"Diversified  ==> real estate, finance",1.1 BUSD,-0.001 millions USD,,2136
+2122,3395,2174,Fashion & Retail  ==> jewelry,1.1 BUSD,0.0 millions USD,,1684
+2123,1126,2175,Finance and Investments  ==> financial services,1.0 BUSD,nan millions USD,,1684
+2124,7268,2176,Healthcare  ==> generic drugs,1.0 BUSD,nan millions USD,,1684
+2125,9371,2177,Fashion & Retail  ==> Spanx,1.0 BUSD,0.0 millions USD,,2127
+2126,3600,2178,Telecom  ==> telecom,1.0 BUSD,nan millions USD,,2127
+2127,3394,2179,Manufacturing  ==> air compressors,1.0 BUSD,0.0 millions USD,,2002
+2128,8512,2180,Technology  ==> semiconductors,1.0 BUSD,nan millions USD,,2002
+2129,2258,2181,"Real Estate  ==> real estate, electronics",1.0 BUSD,nan millions USD,,2002
+2130,6587,2182,Real Estate  ==> real estate,1.0 BUSD,nan millions USD,,2002
+2131,1459,2183,Manufacturing  ==> tire manufacturing,1.0 BUSD,nan millions USD,,2002
+2132,1681,2184,Fashion & Retail  ==> Patagonia,1.0 BUSD,0.0 millions USD,,2153
+2133,4583,2185,Metals & Mining  ==> metallurgy,1.0 BUSD,nan millions USD,,2153
+2134,9315,2186,"Finance and Investments  ==> Real Estate, Private Equity",1.0 BUSD,-0.001 millions USD,,2083
+2135,2692,2187,Technology  ==> Stripe,1.0 BUSD,0.0 millions USD,,2150
+2136,8291,2188,Technology  ==> Stripe,1.0 BUSD,0.0 millions USD,,2152
+2137,5422,2189,Food and Beverage  ==> beef processing,1.0 BUSD,0.0 millions USD,,2149
+2138,1801,2190,"Automotive  ==> motorhomes, RVs",1.0 BUSD,0.0 millions USD,,1166
+2139,5460,2191,Media & Entertainment  ==> internet media,1.0 BUSD,0.0 millions USD,,1492
+2140,6661,2192,Construction & Engineering  ==> construction materials,1.0 BUSD,nan millions USD,,1492
+2141,2115,2193,"Food and Beverage  ==> candy, real estate",1.0 BUSD,nan millions USD,,1492
+2142,9274,2194,Automotive  ==> automotive technology,1.0 BUSD,0.0 millions USD,,2148
+2143,9828,2195,Manufacturing  ==> power supply manufacturer,1.0 BUSD,nan millions USD,,2148
+2144,1131,2196,Fashion & Retail  ==> real estate,1.0 BUSD,nan millions USD,,2148
+2145,7895,2197,Real Estate  ==> real estate,1.0 BUSD,nan millions USD,,2148
+2146,2048,2198,Manufacturing  ==> packaging,1.0 BUSD,nan millions USD,,2148
+2147,4637,2199,Technology  ==> printed circuit boards,1.0 BUSD,0.0 millions USD,,1980
+2148,3810,2200,Gambling & Casinos  ==> pachinko machines,1.0 BUSD,0.0 millions USD,,1951
+2149,7433,2201,Manufacturing  ==> auto components,1.0 BUSD,nan millions USD,,1951
+2150,5089,2202,Healthcare  ==> pharmaceuticals,1.0 BUSD,nan millions USD,,1951
+2151,3499,2203,Technology  ==> printed circuit boards,1.0 BUSD,0.0 millions USD,,1975
+2152,4284,2204,Finance and Investments  ==> investment management,1.0 BUSD,0.0 millions USD,,1844
+2153,5101,2205,Technology  ==> software,1.0 BUSD,0.0 millions USD,,2151
+2154,2264,2206,Manufacturing  ==> antennas,1.0 BUSD,nan millions USD,,2151
+2155,1002,2207,Technology  ==> mobile gaming,1.0 BUSD,nan millions USD,,2151
+2156,2891,2208,Finance and Investments  ==> Investment,1.0 BUSD,0.0 millions USD,,2098
+2157,2066,2209,"Diversified  ==> banking, investments",1.0 BUSD,0.001 millions USD,,2008
+2158,3057,2210,Technology  ==> electronics/household products,1.0 BUSD,0.0 millions USD,,1994
+2159,2588,2211,Metals & Mining  ==> metallurgy,1.0 BUSD,nan millions USD,,1994
+2160,9521,2212,Finance and Investments  ==> cement,1.0 BUSD,nan millions USD,,1994
+2161,9824,2213,Sports  ==> sports teams,1.0 BUSD,0.0 millions USD,,2056
+2162,1292,2214,Metals & Mining  ==> diamonds,1.0 BUSD,-0.109 millions USD,,2090
+2163,7381,2215,Manufacturing  ==> appliances,1.0 BUSD,nan millions USD,,2090
+2164,2027,2216,Finance and Investments  ==> Investment Management,1.0 BUSD,0.0 millions USD,,1845
+2165,2691,2217,"Real Estate  ==> logistics, real estate",1.0 BUSD,nan millions USD,,1845
+2166,8653,2218,"Diversified  ==> textiles, energy",1.0 BUSD,nan millions USD,,1845
+2167,2844,2219,Technology  ==> lithium batteries,1.0 BUSD,0.0 millions USD,,2089
+2168,2913,2220,Real Estate  ==> real estate,1.0 BUSD,nan millions USD,,2089
+2169,2435,2221,Diversified  ==> diversified,1.0 BUSD,nan millions USD,,2089
+2170,8110,2222,Finance and Investments  ==> Bloomberg LP,1.0 BUSD,0.0 millions USD,,2057
+2171,9525,2223,Real Estate  ==> real estate,1.0 BUSD,0.0 millions USD,,2142
+2172,5532,2224,Manufacturing  ==> paper,1.0 BUSD,0.0 millions USD,,2143
+2173,3830,2225,Manufacturing  ==> paper,1.0 BUSD,nan millions USD,,2143
+2174,3039,2226,Fashion & Retail  ==> retail,1.0 BUSD,0.0 millions USD,,1905
+2175,3104,2227,Finance and Investments  ==> investments,1.0 BUSD,0.0 millions USD,,2096
+2176,2701,2228,Automotive  ==> auto parts,1.0 BUSD,0.0 millions USD,,2010
+2177,3145,2229,Manufacturing  ==> heating equipment,1.0 BUSD,nan millions USD,,2010
+2178,1261,2230,Metals & Mining  ==> steel,1.0 BUSD,nan millions USD,,2010
+2179,5086,2231,Automotive  ==> auto import and dealerships,1.0 BUSD,nan millions USD,,2010
+2180,6156,2232,Fashion & Retail  ==> jewelry,1.0 BUSD,0.0 millions USD,,2147
+2181,8455,2233,Fashion & Retail  ==> dollar stores,1.0 BUSD,nan millions USD,,2147
+2182,8297,2234,Manufacturing  ==> biotech,1.0 BUSD,-5.547999999999999 millions USD,,1815
+2183,4655,2235,Real Estate  ==> real estate,1.0 BUSD,0.0 millions USD,,2119
+2184,7540,2236,Food and Beverage  ==> energy drinks,1.0 BUSD,nan millions USD,,2119
+2185,2918,2237,Technology  ==> Pinterest,1.0 BUSD,0.0 millions USD,,2093
+2186,1326,2238,Service  ==> security services,1.0 BUSD,nan millions USD,,2093
+2187,6223,2239,Real Estate  ==> real estate,1.0 BUSD,0.0 millions USD,,2138
+2188,6720,2240,"Metals & Mining  ==> mining, diamonds, real estate",1.0 BUSD,nan millions USD,,2138
+2189,5787,2241,Media & Entertainment  ==> advertising,1.0 BUSD,nan millions USD,,2138
+2190,4059,2242,Technology  ==> electronics components,1.0 BUSD,nan millions USD,,2138
+2191,2044,2243,Real Estate  ==> real estate,1.0 BUSD,nan millions USD,,2138
+2192,2508,2244,Real Estate  ==> home building,1.0 BUSD,nan millions USD,,2138
+2193,9065,2245,"Diversified  ==> telecom, lotteries, insurance",1.0 BUSD,0.0 millions USD,,2100
+2194,6413,2246,Finance and Investments  ==> investments,1.0 BUSD,0.0 millions USD,,2146
+2195,6527,2247,Manufacturing  ==> chemicals,1.0 BUSD,nan millions USD,,2146
+2196,7057,2248,Technology  ==> fiber optic cables,1.0 BUSD,nan millions USD,,2146
+2197,8746,2249,"Finance and Investments  ==> insurance, investments",1.0 BUSD,0.0 millions USD,,1982
+2198,7968,2250,Finance and Investments  ==> Citigroup,1.0 BUSD,0.0 millions USD,,2144
+2199,6027,2251,Food and Beverage  ==> agribusiness,1.0 BUSD,nan millions USD,,2144
+2200,9287,2252,Manufacturing  ==> manufacturing,1.0 BUSD,0.0 millions USD,,2120
+2201,2318,2253,Technology  ==> apparel,1.0 BUSD,nan millions USD,,2120
+2202,2303,2254,Diversified  ==> air conditioning,1.0 BUSD,0.0 millions USD,,2114
+2203,5570,2255,"Fashion & Retail  ==> fashion, entertainment",1.0 BUSD,0.0 millions USD,,2134
+2204,6092,2256,Manufacturing  ==> electrical equipment,1.0 BUSD,nan millions USD,,2134
+2205,3693,2257,Manufacturing  ==> electrical equipment,1.0 BUSD,0.0 millions USD,,1856
+2206,6736,2258,Manufacturing  ==> printed circuit boards,1.0 BUSD,0.0 millions USD,,1978
+2207,5700,2259,Diversified  ==> diversified,1.0 BUSD,nan millions USD,,1978
